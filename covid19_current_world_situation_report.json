@@ -140,7 +140,7 @@
             "populationEstimate":0
          },
          "key":"",
-         "lastUpdate":"04-25-2020"
+         "lastUpdate":"04-26-2020"
       },
       {
          "caseData":{
@@ -148,7 +148,7 @@
             "deaths":"0",
             "recovered":0,
             "active":"",
-            "tested":"361",
+            "tested":"368",
             "hospitalized":0,
             "icu":0,
             "cfr":0
@@ -164,31 +164,31 @@
             "populationEstimate":0
          },
          "key":"",
-         "lastUpdate":"04-25-2020",
+         "lastUpdate":"04-26-2020",
          "data":{
             "ha":"https://www.gov.nu.ca/health/information/covid-19-novel-coronavirus"
          }
       },
       {
          "caseData":{
-            "confirmed":865,
-            "deaths":22,
-            "recovered":412,
-            "active":453,
-            "tested":25984,
-            "hospitalized":11,
+            "confirmed":873,
+            "deaths":24,
+            "recovered":439,
+            "active":434,
+            "tested":26488,
+            "hospitalized":13,
             "icu":3,
-            "female":"60%",
-            "male":"40%",
+            "female":"61%",
+            "male":"39%",
             "ageInfo":{
                "0to19":"10%",
-               "20to39":"25%",
-               "40to59":"27%",
+               "20to39":"24%",
+               "40to59":"28%",
                "60to79":"23%",
                "80+":"15%"
             },
             "cfr":0,
-            "percentConfirmed":"0.08849494146545576"
+            "percentConfirmed":"0.08931339179114785"
          },
          "iso2":"CA",
          "iso3":"CAN",
@@ -201,17 +201,17 @@
             "populationEstimate":0
          },
          "key":"",
-         "lastUpdated":"04-25-2020"
+         "lastUpdated":"04-26-2020"
       },
       {
          "caseData":{
-            "confirmed":13995,
-            "deaths":811,
-            "recovered":7509,
+            "confirmed":14432,
+            "deaths":835,
+            "recovered":8000,
             "active":"",
-            "tested":217618,
-            "hospitalized":925,
-            "icu":245,
+            "tested":229638,
+            "hospitalized":938,
+            "icu":252,
             "ventilator":"195",
             "cfr":5.79
          },
@@ -226,18 +226,18 @@
             "populationEstimate":0
          },
          "key":"",
-         "lastUpdate":"04-25-2020"
+         "lastUpdate":"04-26-2020"
       },
       {
          "caseData":{
-            "confirmed":23267,
-            "deaths":1446,
+            "confirmed":24107,
+            "deaths":1515,
             "recovered":"n/a",
             "active":"n/a",
-            "tested":190765,
-            "hospitalized":1509,
-            "icu":217,
-            "cfr":6.21
+            "tested":195577,
+            "hospitalized":1518,
+            "icu":215,
+            "cfr":6.28
          },
          "iso2":"CA",
          "iso3":"CAN",
@@ -258,9 +258,9 @@
          "caseData":{
             "confirmed":118,
             "deaths":2,
-            "recovered":1072,
-            "active":11,
-            "tested":12786,
+            "recovered":1112,
+            "active":7,
+            "tested":13026,
             "hospitalized":4,
             "icu":0,
             "cfr":1.69,
@@ -318,13 +318,13 @@
             "deaths":3,
             "recovered":0,
             "active":0,
-            "tested":7332,
+            "tested":7477,
             "icu":0,
-            "cfr":1.1673151750972763,
+            "cfr":1.1627906976744187,
             "ageInfo":{
                "under_19":22,
                "_20_39":38,
-               "_40_49":37,
+               "_40_49":38,
                "_50_59":56,
                "_60_69":57,
                "_70_100":47
@@ -347,11 +347,11 @@
       },
       {
          "caseData":{
-            "confirmed":267,
+            "confirmed":271,
             "deaths":6,
             "recovered":199,
-            "active":62,
-            "tested":22598,
+            "active":66,
+            "tested":23167,
             "hospitalized":0,
             "icu":0,
             "cfr":2.25
@@ -485,15 +485,15 @@
       },
       {
          "caseData":{
-            "confirmed":45256,
-            "deaths":2466,
-            "recovered":12070,
-            "active":3272,
-            "tested":553652.7,
-            "hospitalized":2921,
-            "icu":514,
-            "cfr":5.45,
-            "percentConfirmed":"0.0001199083655903688"
+            "confirmed":46545,
+            "deaths":2561,
+            "recovered":12628,
+            "active":3253,
+            "tested":571949.7,
+            "hospitalized":2945,
+            "icu":519,
+            "cfr":5.5,
+            "percentConfirmed":"0.0001233236449620761"
          },
          "iso2":"CA",
          "iso3":"CAN",
@@ -506,7 +506,7 @@
             "populationEstimate":37838.154
          },
          "key":"",
-         "lastUpdated":"04/25/2020"
+         "lastUpdated":"04/26/2020"
       }
    ],
    "United States of America":[
@@ -535,15 +535,15 @@
       },
       {
          "caseData":{
-            "confirmed":938154,
+            "confirmed":939053,
             "deaths":53755,
             "recovered":100372,
             "active":"",
             "tested":"",
             "hospitalized":"",
             "icu":"",
-            "cfr":5.73,
-            "percentConfirmed":"0.00026903832863864286"
+            "cfr":5.72,
+            "percentConfirmed":"0.00028369954052120266"
          },
          "iso2":"US",
          "iso3":"USA",
@@ -556,7 +556,7 @@
             "populationEstimate":331866.651
          },
          "key":"",
-         "lastUpdated":"04/25/2020"
+         "lastUpdated":"04/26/2020"
       },
       {
          "caseData":{
@@ -1833,12 +1833,12 @@
       },
       {
          "caseData":{
-            "confirmed":6213,
+            "confirmed":6253,
             "deaths":null,
             "recovered":0,
             "active":4423,
             "tested":71344,
-            "hospitalized":768,
+            "hospitalized":846,
             "icu":288,
             "spreadCommunity":"Yes, defined area(s)",
             "cfr":0,
@@ -1847,22 +1847,22 @@
             "hospitalizationRate":12.994968278276088,
             "vent":170,
             "genderInfo":{
-               "female":3582,
-               "male":2567,
-               "unknown":64
+               "female":3602,
+               "male":2576,
+               "unknown":75
             },
             "raceInfo":{
                "asian":51,
-               "black":2348,
+               "black":2356,
                "other":151,
-               "unknown":792,
-               "white":2871
+               "unknown":819,
+               "white":2876
             },
             "ageInfo":{
                "<= 18":184,
-               ">= 65":1584,
-               "19-64":4444,
-               "unknown":1
+               ">= 65":1593,
+               "19-64":4463,
+               "unknown":13
             }
          },
          "iso2":"US",
@@ -1884,40 +1884,40 @@
       },
       {
          "caseData":{
-            "confirmed":340,
+            "confirmed":342,
             "deaths":9,
-            "recovered":340,
+            "recovered":342,
             "active":300,
             "tested":9450,
             "hospitalized":36,
             "icu":0,
             "spreadCommunity":"Yes, defined area(s)",
-            "cfr":2.65,
+            "cfr":2.63,
             "mortalityRate":2.912621359223301,
             "testingRate":1580.9311266099985,
             "hospitalizationRate":11.650485436893204,
             "ageInfo":{
                "AgeGroup":1,
-               "40-49":50,
-               "50-59":60,
+               "60-69":51,
+               "40-49":51,
                "20-29":55,
-               "60-69":50,
+               "10-19":21,
+               "<10":9,
+               "50-59":60,
                "30-39":68,
                "70-79":20,
-               "10-19":21,
-               "80+":6,
-               "<10":9
+               "80+":6
             },
             "genderInfo":{
-               "male":168,
+               "male":170,
                "female":172
             },
             "raceInfo":{
                "undefined":{
-                  "confirmed":"339",
+                  "confirmed":"341",
                   "hospitalizations":"36",
                   "deaths":"9",
-                  "localCases":"215"
+                  "localCases":"226"
                }
             }
          },
@@ -2116,14 +2116,14 @@
       {
          "caseData":{
             "confirmed":3442,
-            "deaths":112,
-            "recovered":809,
-            "active":2655,
-            "tested":17698,
-            "hospitalized":300,
-            "icu":61,
+            "deaths":120,
+            "recovered":911,
+            "active":3003,
+            "tested":19249,
+            "hospitalized":317,
+            "icu":48,
             "spreadCommunity":"Yes, widespread",
-            "cfr":3.25,
+            "cfr":3.49,
             "mortalityRate":2.6327147173068624,
             "testingRate":1370.9687357511677,
             "hospitalizationRate":9.02028485110056,
@@ -2132,11 +2132,11 @@
                "female":1879
             },
             "ageInfo":{
-               "under5":24,
-               "5to17":88,
-               "18to49":1845,
-               "50to64":966,
-               "65+":653
+               "under5":28,
+               "5to17":108,
+               "18to49":2140,
+               "50to64":1060,
+               "65+":698
             }
          },
          "iso2":"US",
@@ -2154,17 +2154,17 @@
             }
          },
          "key":"",
-         "confirmed":3576,
+         "confirmed":4034,
          "ha":"https://coronavirus.delaware.gov/"
       },
       {
          "caseData":{
-            "confirmed":30839,
-            "deaths":1055,
+            "confirmed":31528,
+            "deaths":1074,
             "recovered":0,
             "active":24034,
-            "tested":334974,
-            "hospitalized":5045,
+            "tested":346365,
+            "hospitalized":5155,
             "icu":0,
             "spreadCommunity":"Yes, widespread",
             "cfr":0,
@@ -2185,8 +2185,8 @@
                "unknown":0
             },
             "genderInfo":{
-               "male":14972,
-               "female":14967
+               "male":15389,
+               "female":15238
             }
          },
          "iso2":"US",
@@ -2207,22 +2207,22 @@
       },
       {
          "caseData":{
-            "confirmed":23216,
-            "deaths":907,
+            "confirmed":23401,
+            "deaths":912,
             "recovered":0,
             "active":16544,
             "tested":null,
-            "hospitalized":4353,
+            "hospitalized":4359,
             "icu":0,
             "spreadCommunity":"Yes, widespread",
-            "cfr":3.91,
+            "cfr":3.9,
             "mortalityRate":3.780388507618937,
             "testingRate":706.9851222849336,
             "hospitalizationRate":19.332325229731303,
             "genderInfo":{
-               "male":44,
+               "male":0,
                "female":54,
-               "unknown":0
+               "unknown":44
             }
          },
          "iso2":"US",
@@ -2457,67 +2457,67 @@
       {
          "caseData":{
             "confirmed":13680,
-            "deaths":785,
+            "deaths":813,
             "recovered":0,
             "active":9632,
-            "tested":79774,
-            "hospitalized":1515,
-            "icu":598,
+            "tested":81708,
+            "hospitalized":1446,
+            "icu":589,
             "spreadCommunity":"Undetermined",
-            "cfr":0.05453282389718652,
+            "cfr":0.054156674660271784,
             "mortalityRate":5.1408311995272795,
             "testingRate":837.1798629399722,
             "hospitalizationRate":0,
-            "confrmed":14395,
+            "confrmed":15012,
             "data":[
                {
                   "daily_statistics":{
-                     "total_case":14395,
-                     "total_death":785,
-                     "total_test":79774,
-                     "total_case_prob":171,
-                     "total_death_prob":87,
-                     "new_case_day":717,
-                     "new_death_day":7,
-                     "new_test_day":45,
-                     "new_case":1,
-                     "new_death":37,
-                     "new_test":4182,
-                     "new_test_start_date":"2020-03-13",
-                     "new_test_end_date":"2020-04-24",
-                     "new_case_start_date":"2020-04-19",
-                     "new_case_end_date":"2020-04-24",
-                     "new_death_start_date":"2020-04-08",
-                     "new_death_end_date":"2020-04-24"
+                     "total_case":15012,
+                     "total_death":813,
+                     "total_test":81708,
+                     "total_case_prob":174,
+                     "total_death_prob":88,
+                     "new_case_day":631,
+                     "new_death_day":14,
+                     "new_test_day":64,
+                     "new_case":3,
+                     "new_death":15,
+                     "new_test":1884,
+                     "new_test_start_date":"2020-03-24",
+                     "new_test_end_date":"2020-04-25",
+                     "new_case_start_date":"2020-04-24",
+                     "new_case_end_date":"2020-04-25",
+                     "new_death_start_date":"2020-04-09",
+                     "new_death_end_date":"2020-04-25"
                   },
                   "ethnicity":[
                      {
                         "ETHNICITY":"Hispanic or Latino",
-                        "COVID_COUNT_PROB":11,
-                        "COVID_COUNT":912,
+                        "COVID_COUNT_PROB":13,
+                        "COVID_COUNT":1123,
                         "COVID_DEATHS_PROB":0,
                         "COVID_DEATHS":11,
-                        "COVID_COUNT_PCT":6.3,
+                        "COVID_COUNT_PCT":7.5,
                         "COVID_DEATHS_PCT":1.4,
                         "POPULATION_PCT":7.1
                      },
                      {
                         "ETHNICITY":"Not Hispanic or Latino",
-                        "COVID_COUNT_PROB":76,
-                        "COVID_COUNT":5523,
-                        "COVID_DEATHS_PROB":37,
-                        "COVID_DEATHS":438,
-                        "COVID_COUNT_PCT":38.4,
+                        "COVID_COUNT_PROB":77,
+                        "COVID_COUNT":5739,
+                        "COVID_DEATHS_PROB":38,
+                        "COVID_DEATHS":454,
+                        "COVID_COUNT_PCT":38.2,
                         "COVID_DEATHS_PCT":55.8,
                         "POPULATION_PCT":92.9
                      },
                      {
                         "ETHNICITY":"Unknown",
                         "COVID_COUNT_PROB":84,
-                        "COVID_COUNT":7960,
+                        "COVID_COUNT":8150,
                         "COVID_DEATHS_PROB":50,
-                        "COVID_DEATHS":336,
-                        "COVID_COUNT_PCT":55.3,
+                        "COVID_DEATHS":348,
+                        "COVID_COUNT_PCT":54.3,
                         "COVID_DEATHS_PCT":42.8,
                         "POPULATION_PCT":0
                      }
@@ -2526,51 +2526,51 @@
                      {
                         "RACE":"Asian",
                         "COVID_COUNT_PROB":2,
-                        "COVID_COUNT":130,
+                        "COVID_COUNT":165,
                         "COVID_DEATHS_PROB":1,
                         "COVID_DEATHS":3,
-                        "COVID_COUNT_PCT":0.9,
+                        "COVID_COUNT_PCT":1.1,
                         "COVID_DEATHS_PCT":0.4,
                         "POPULATION_PCT":2.5
                      },
                      {
                         "RACE":"Black or African American",
                         "COVID_COUNT_PROB":13,
-                        "COVID_COUNT":2295,
+                        "COVID_COUNT":2362,
                         "COVID_DEATHS_PROB":4,
-                        "COVID_DEATHS":131,
-                        "COVID_COUNT_PCT":15.9,
-                        "COVID_DEATHS_PCT":16.7,
+                        "COVID_DEATHS":134,
+                        "COVID_COUNT_PCT":15.7,
+                        "COVID_DEATHS_PCT":16.5,
                         "POPULATION_PCT":9.8
                      },
                      {
                         "RACE":"Other Race",
                         "COVID_COUNT_PROB":19,
-                        "COVID_COUNT":1923,
+                        "COVID_COUNT":2061,
                         "COVID_DEATHS_PROB":3,
-                        "COVID_DEATHS":87,
-                        "COVID_COUNT_PCT":13.4,
+                        "COVID_DEATHS":90,
+                        "COVID_COUNT_PCT":13.7,
                         "COVID_DEATHS_PCT":11.1,
                         "POPULATION_PCT":2.6
                      },
                      {
                         "RACE":"Unknown",
                         "COVID_COUNT_PROB":60,
-                        "COVID_COUNT":3234,
+                        "COVID_COUNT":3407,
                         "COVID_DEATHS_PROB":45,
-                        "COVID_DEATHS":53,
-                        "COVID_COUNT_PCT":22.5,
-                        "COVID_DEATHS_PCT":6.8,
+                        "COVID_DEATHS":56,
+                        "COVID_COUNT_PCT":22.7,
+                        "COVID_DEATHS_PCT":6.9,
                         "POPULATION_PCT":0
                      },
                      {
                         "RACE":"White",
-                        "COVID_COUNT_PROB":77,
-                        "COVID_COUNT":6813,
-                        "COVID_DEATHS_PROB":34,
-                        "COVID_DEATHS":511,
-                        "COVID_COUNT_PCT":47.3,
-                        "COVID_DEATHS_PCT":65.1,
+                        "COVID_COUNT_PROB":80,
+                        "COVID_COUNT":7017,
+                        "COVID_DEATHS_PROB":35,
+                        "COVID_DEATHS":530,
+                        "COVID_COUNT_PCT":46.7,
+                        "COVID_DEATHS_PCT":65.2,
                         "POPULATION_PCT":85.1
                      }
                   ],
@@ -2578,7 +2578,7 @@
                      {
                         "AGEGRP":"0-19",
                         "COVID_COUNT_PROB":3,
-                        "COVID_COUNT":324,
+                        "COVID_COUNT":338,
                         "COVID_DEATHS_PROB":0,
                         "COVID_DEATHS":0,
                         "COVID_COUNT_PCT":2.3,
@@ -2586,66 +2586,66 @@
                      },
                      {
                         "AGEGRP":"20-29",
-                        "COVID_COUNT_PROB":11,
-                        "COVID_COUNT":1593,
+                        "COVID_COUNT_PROB":12,
+                        "COVID_COUNT":1711,
                         "COVID_DEATHS_PROB":0,
                         "COVID_DEATHS":2,
-                        "COVID_COUNT_PCT":11.1,
-                        "COVID_DEATHS_PCT":0.3
+                        "COVID_COUNT_PCT":11.4,
+                        "COVID_DEATHS_PCT":0.2
                      },
                      {
                         "AGEGRP":"30-39",
                         "COVID_COUNT_PROB":14,
-                        "COVID_COUNT":2009,
+                        "COVID_COUNT":2127,
                         "COVID_DEATHS_PROB":0,
                         "COVID_DEATHS":6,
-                        "COVID_COUNT_PCT":14,
-                        "COVID_DEATHS_PCT":0.8
+                        "COVID_COUNT_PCT":14.2,
+                        "COVID_DEATHS_PCT":0.7
                      },
                      {
                         "AGEGRP":"40-49",
-                        "COVID_COUNT_PROB":13,
-                        "COVID_COUNT":2474,
+                        "COVID_COUNT_PROB":14,
+                        "COVID_COUNT":2611,
                         "COVID_DEATHS_PROB":1,
                         "COVID_DEATHS":18,
-                        "COVID_COUNT_PCT":17.2,
-                        "COVID_DEATHS_PCT":2.3
+                        "COVID_COUNT_PCT":17.4,
+                        "COVID_DEATHS_PCT":2.2
                      },
                      {
                         "AGEGRP":"50-59",
                         "COVID_COUNT_PROB":23,
-                        "COVID_COUNT":2731,
+                        "COVID_COUNT":2864,
                         "COVID_DEATHS_PROB":6,
-                        "COVID_DEATHS":48,
-                        "COVID_COUNT_PCT":19,
-                        "COVID_DEATHS_PCT":6.1
+                        "COVID_DEATHS":49,
+                        "COVID_COUNT_PCT":19.1,
+                        "COVID_DEATHS_PCT":6
                      },
                      {
                         "AGEGRP":"60-69",
                         "COVID_COUNT_PROB":26,
-                        "COVID_COUNT":2229,
+                        "COVID_COUNT":2286,
                         "COVID_DEATHS_PROB":11,
-                        "COVID_DEATHS":153,
-                        "COVID_COUNT_PCT":15.5,
-                        "COVID_DEATHS_PCT":19.5
+                        "COVID_DEATHS":156,
+                        "COVID_COUNT_PCT":15.2,
+                        "COVID_DEATHS_PCT":19.2
                      },
                      {
                         "AGEGRP":"70-79",
                         "COVID_COUNT_PROB":27,
-                        "COVID_COUNT":1458,
+                        "COVID_COUNT":1474,
                         "COVID_DEATHS_PROB":20,
-                        "COVID_DEATHS":219,
-                        "COVID_COUNT_PCT":10.1,
-                        "COVID_DEATHS_PCT":27.9
+                        "COVID_DEATHS":230,
+                        "COVID_COUNT_PCT":9.8,
+                        "COVID_DEATHS_PCT":28.3
                      },
                      {
                         "AGEGRP":"80+",
-                        "COVID_COUNT_PROB":54,
-                        "COVID_COUNT":1567,
-                        "COVID_DEATHS_PROB":49,
-                        "COVID_DEATHS":339,
-                        "COVID_COUNT_PCT":10.9,
-                        "COVID_DEATHS_PCT":43.2
+                        "COVID_COUNT_PROB":55,
+                        "COVID_COUNT":1591,
+                        "COVID_DEATHS_PROB":50,
+                        "COVID_DEATHS":352,
+                        "COVID_COUNT_PCT":10.6,
+                        "COVID_DEATHS_PCT":43.3
                      },
                      {
                         "AGEGRP":"Unknown",
@@ -2660,81 +2660,81 @@
                   "gender":[
                      {
                         "GENDER":"F",
-                        "COVID_COUNT_PROB":86,
-                        "COVID_COUNT":7826,
+                        "COVID_COUNT_PROB":87,
+                        "COVID_COUNT":8093,
                         "COVID_DEATHS_PROB":43,
-                        "COVID_DEATHS":333,
-                        "COVID_COUNT_PCT":54.4,
+                        "COVID_DEATHS":345,
+                        "COVID_COUNT_PCT":53.9,
                         "COVID_DEATHS_PCT":42.4
                      },
                      {
                         "GENDER":"M",
-                        "COVID_COUNT_PROB":82,
-                        "COVID_COUNT":6338,
-                        "COVID_DEATHS_PROB":44,
-                        "COVID_DEATHS":435,
-                        "COVID_COUNT_PCT":44,
-                        "COVID_DEATHS_PCT":55.4
+                        "COVID_COUNT_PROB":84,
+                        "COVID_COUNT":6681,
+                        "COVID_DEATHS_PROB":45,
+                        "COVID_DEATHS":451,
+                        "COVID_COUNT_PCT":44.5,
+                        "COVID_DEATHS_PCT":55.5
                      },
                      {
                         "GENDER":"Unknown",
                         "COVID_COUNT_PROB":3,
-                        "COVID_COUNT":231,
+                        "COVID_COUNT":238,
                         "COVID_DEATHS_PROB":0,
                         "COVID_DEATHS":17,
                         "COVID_COUNT_PCT":1.6,
-                        "COVID_DEATHS_PCT":2.2
+                        "COVID_DEATHS_PCT":2.1
                      }
                   ],
                   "race":[
                      {
                         "RACE":"Asian",
                         "COVID_COUNT_PROB":2,
-                        "COVID_COUNT":130,
+                        "COVID_COUNT":165,
                         "COVID_DEATHS_PROB":1,
                         "COVID_DEATHS":3,
-                        "COVID_COUNT_PCT":0.9,
+                        "COVID_COUNT_PCT":1.1,
                         "COVID_DEATHS_PCT":0.4,
                         "POPULATION_PCT":2.5
                      },
                      {
                         "RACE":"Black or African American",
                         "COVID_COUNT_PROB":13,
-                        "COVID_COUNT":2295,
+                        "COVID_COUNT":2362,
                         "COVID_DEATHS_PROB":4,
-                        "COVID_DEATHS":131,
-                        "COVID_COUNT_PCT":15.9,
-                        "COVID_DEATHS_PCT":16.7,
+                        "COVID_DEATHS":134,
+                        "COVID_COUNT_PCT":15.7,
+                        "COVID_DEATHS_PCT":16.5,
                         "POPULATION_PCT":9.8
                      },
                      {
                         "RACE":"Other Race",
                         "COVID_COUNT_PROB":19,
-                        "COVID_COUNT":1923,
+                        "COVID_COUNT":2061,
                         "COVID_DEATHS_PROB":3,
-                        "COVID_DEATHS":87,
-                        "COVID_COUNT_PCT":13.4,
+                        "COVID_DEATHS":90,
+                        "COVID_COUNT_PCT":13.7,
                         "COVID_DEATHS_PCT":11.1,
                         "POPULATION_PCT":2.6
                      },
                      {
                         "RACE":"Unknown",
                         "COVID_COUNT_PROB":60,
-                        "COVID_COUNT":3234,
+                        "COVID_COUNT":3407,
                         "COVID_DEATHS_PROB":45,
-                        "COVID_DEATHS":53,
-                        "COVID_COUNT_PCT":22.5,
-                        "COVID_DEATHS_PCT":6.8,
+                        "COVID_DEATHS":56,
+                        "COVID_COUNT_PCT":22.7,
+                        "COVID_DEATHS_PCT":6.9,
                         "POPULATION_PCT":0
                      },
                      {
                         "RACE":"White",
-                        "COVID_COUNT_PROB":77,
-                        "COVID_COUNT":6813,
-                        "COVID_DEATHS_PROB":34,
-                        "COVID_DEATHS":511,
-                        "COVID_COUNT_PCT":47.3,
-                        "COVID_DEATHS_PCT":65.1,
+                        "COVID_COUNT_PROB":80,
+                        "COVID_COUNT":7017,
+                        "COVID_DEATHS_PROB":35,
+                        "COVID_DEATHS":530,
+                        "COVID_COUNT_PCT":46.7,
+                        "COVID_DEATHS_PCT":65.2,
                         "POPULATION_PCT":85.1
                      }
                   ],
@@ -2742,7 +2742,7 @@
                      {
                         "AGEGRP":"0-19",
                         "COVID_COUNT_PROB":3,
-                        "COVID_COUNT":324,
+                        "COVID_COUNT":338,
                         "COVID_DEATHS_PROB":0,
                         "COVID_DEATHS":0,
                         "COVID_COUNT_PCT":2.3,
@@ -2750,66 +2750,66 @@
                      },
                      {
                         "AGEGRP":"20-29",
-                        "COVID_COUNT_PROB":11,
-                        "COVID_COUNT":1593,
+                        "COVID_COUNT_PROB":12,
+                        "COVID_COUNT":1711,
                         "COVID_DEATHS_PROB":0,
                         "COVID_DEATHS":2,
-                        "COVID_COUNT_PCT":11.1,
-                        "COVID_DEATHS_PCT":0.3
+                        "COVID_COUNT_PCT":11.4,
+                        "COVID_DEATHS_PCT":0.2
                      },
                      {
                         "AGEGRP":"30-39",
                         "COVID_COUNT_PROB":14,
-                        "COVID_COUNT":2009,
+                        "COVID_COUNT":2127,
                         "COVID_DEATHS_PROB":0,
                         "COVID_DEATHS":6,
-                        "COVID_COUNT_PCT":14,
-                        "COVID_DEATHS_PCT":0.8
+                        "COVID_COUNT_PCT":14.2,
+                        "COVID_DEATHS_PCT":0.7
                      },
                      {
                         "AGEGRP":"40-49",
-                        "COVID_COUNT_PROB":13,
-                        "COVID_COUNT":2474,
+                        "COVID_COUNT_PROB":14,
+                        "COVID_COUNT":2611,
                         "COVID_DEATHS_PROB":1,
                         "COVID_DEATHS":18,
-                        "COVID_COUNT_PCT":17.2,
-                        "COVID_DEATHS_PCT":2.3
+                        "COVID_COUNT_PCT":17.4,
+                        "COVID_DEATHS_PCT":2.2
                      },
                      {
                         "AGEGRP":"50-59",
                         "COVID_COUNT_PROB":23,
-                        "COVID_COUNT":2731,
+                        "COVID_COUNT":2864,
                         "COVID_DEATHS_PROB":6,
-                        "COVID_DEATHS":48,
-                        "COVID_COUNT_PCT":19,
-                        "COVID_DEATHS_PCT":6.1
+                        "COVID_DEATHS":49,
+                        "COVID_COUNT_PCT":19.1,
+                        "COVID_DEATHS_PCT":6
                      },
                      {
                         "AGEGRP":"60-69",
                         "COVID_COUNT_PROB":26,
-                        "COVID_COUNT":2229,
+                        "COVID_COUNT":2286,
                         "COVID_DEATHS_PROB":11,
-                        "COVID_DEATHS":153,
-                        "COVID_COUNT_PCT":15.5,
-                        "COVID_DEATHS_PCT":19.5
+                        "COVID_DEATHS":156,
+                        "COVID_COUNT_PCT":15.2,
+                        "COVID_DEATHS_PCT":19.2
                      },
                      {
                         "AGEGRP":"70-79",
                         "COVID_COUNT_PROB":27,
-                        "COVID_COUNT":1458,
+                        "COVID_COUNT":1474,
                         "COVID_DEATHS_PROB":20,
-                        "COVID_DEATHS":219,
-                        "COVID_COUNT_PCT":10.1,
-                        "COVID_DEATHS_PCT":27.9
+                        "COVID_DEATHS":230,
+                        "COVID_COUNT_PCT":9.8,
+                        "COVID_DEATHS_PCT":28.3
                      },
                      {
                         "AGEGRP":"80+",
-                        "COVID_COUNT_PROB":54,
-                        "COVID_COUNT":1567,
-                        "COVID_DEATHS_PROB":49,
-                        "COVID_DEATHS":339,
-                        "COVID_COUNT_PCT":10.9,
-                        "COVID_DEATHS_PCT":43.2
+                        "COVID_COUNT_PROB":55,
+                        "COVID_COUNT":1591,
+                        "COVID_DEATHS_PROB":50,
+                        "COVID_DEATHS":352,
+                        "COVID_COUNT_PCT":10.6,
+                        "COVID_DEATHS_PCT":43.3
                      },
                      {
                         "AGEGRP":"Unknown",
@@ -2824,42 +2824,42 @@
                }
             ],
             "ageInfo":{
-               "under19":324,
-               "2under29":1593,
-               "3under39":2009,
-               "4under49":2474,
-               "5under59":2731,
-               "6under69":2229,
-               "7under79":1458,
-               "80+":1567,
+               "under19":338,
+               "2under29":1711,
+               "3under39":2127,
+               "4under49":2611,
+               "5under59":2864,
+               "6under69":2286,
+               "7under79":1474,
+               "80+":1591,
                "unknown":10
             },
             "raceInfo":{
-               "HispanicOrLatino":912,
-               "NotHispanicOrLatino":5523,
-               "Unknown":7960,
-               "asian":130,
-               "blackOrAfricanAmerican":2295,
-               "otherRace":1923,
-               "unknown":3234,
-               "white":6813
+               "HispanicOrLatino":1123,
+               "NotHispanicOrLatino":5739,
+               "Unknown":8150,
+               "asian":165,
+               "blackOrAfricanAmerican":2362,
+               "otherRace":2061,
+               "unknown":3407,
+               "white":7017
             },
             "genderInfo":{
-               "female":7826,
-               "male":6338,
-               "unknown":231
+               "female":8093,
+               "male":6681,
+               "unknown":238
             },
-            "vents":324,
+            "vents":310,
             "hospitalData":{
-               "beds_all_occupied_beds_covid_19":1515,
-               "beds_icu_total":3258,
-               "beds_icu_occupied_beds_covid_19":598,
-               "bed_occupied_icu_non_covid":1204,
-               "beds_available_icu_beds_total":1456,
-               "vents_total":3198,
-               "vents_all_in_use_covid_19":324,
-               "vents_non_covid_pts_on_vents":359,
-               "vents_all_available_vents_not_in_use":2515
+               "beds_all_occupied_beds_covid_19":1446,
+               "beds_icu_total":3325,
+               "beds_icu_occupied_beds_covid_19":589,
+               "bed_occupied_icu_non_covid":1299,
+               "beds_available_icu_beds_total":1437,
+               "vents_total":3173,
+               "vents_all_in_use_covid_19":310,
+               "vents_non_covid_pts_on_vents":360,
+               "vents_all_available_vents_not_in_use":2503
             }
          },
          "iso2":"US",
@@ -2881,12 +2881,12 @@
       },
       {
          "caseData":{
-            "confirmed":5092,
-            "deaths":112,
+            "confirmed":5476,
+            "deaths":118,
             "recovered":0,
             "active":1648,
-            "tested":34350,
-            "hospitalized":293,
+            "tested":36090,
+            "hospitalized":286,
             "icu":0,
             "spreadCommunity":"Yes, defined area(s)",
             "cfr":0,
@@ -2894,14 +2894,14 @@
             "testingRate":693.0934251060493,
             "hospitalizationRate":21.67630057803468,
             "genderInfo":{
-               "male":2628,
-               "female":2378
+               "male":2842,
+               "female":2552
             },
             "ageInfo":{
-               "81+":261,
-               "61to80":821,
-               "41to60":1969,
-               "under18":61
+               "81+":274,
+               "61to80":865,
+               "41to60":2144,
+               "under18":72
             }
          },
          "iso2":"US",
@@ -5471,7 +5471,7 @@
             "hospitalized":"",
             "icu":"",
             "cfr":3.21,
-            "percentConfirmed":"0.0000034704788125341875"
+            "percentConfirmed":"0.0000037581869006199237"
          },
          "iso2":"AF",
          "iso3":"AFG",
@@ -5484,21 +5484,21 @@
             "populationEstimate":39024.346
          },
          "key":"",
-         "lastUpdated":"04/25/2020"
+         "lastUpdated":"04/26/2020"
       }
    ],
    "Albania":[
       {
          "caseData":{
             "confirmed":712,
-            "deaths":28,
+            "deaths":27,
             "recovered":403,
             "active":"",
             "tested":"",
             "hospitalized":"",
             "icu":"",
-            "cfr":4.13,
-            "percentConfirmed":"0.000023559688192044122"
+            "cfr":3.79,
+            "percentConfirmed":"0.000024741147481910645"
          },
          "iso2":"AL",
          "iso3":"ALB",
@@ -5511,7 +5511,7 @@
             "populationEstimate":2877.797
          },
          "key":"",
-         "lastUpdated":"04/25/2020"
+         "lastUpdated":"04/26/2020"
       }
    ],
    "Algeria":[
@@ -5525,7 +5525,7 @@
             "hospitalized":"",
             "icu":"",
             "cfr":12.87,
-            "percentConfirmed":"0.0000071309590713507295"
+            "percentConfirmed":"0.0000074251367880773836"
          },
          "iso2":"DZ",
          "iso3":"DZA",
@@ -5538,7 +5538,7 @@
             "populationEstimate":43947.044
          },
          "key":"",
-         "lastUpdated":"04/25/2020"
+         "lastUpdated":"04/26/2020"
       }
    ],
    "Andorra":[
@@ -5552,7 +5552,7 @@
             "hospitalized":"",
             "icu":"",
             "cfr":5.42,
-            "percentConfirmed":"0.0009460946094609461"
+            "percentConfirmed":"0.000948683103604478"
          },
          "iso2":"AD",
          "iso3":"AND",
@@ -5565,7 +5565,7 @@
             "populationEstimate":77.265
          },
          "key":"",
-         "lastUpdated":"04/25/2020"
+         "lastUpdated":"04/26/2020"
       }
    ],
    "Angola":[
@@ -5592,7 +5592,7 @@
             "populationEstimate":32962.272
          },
          "key":"",
-         "lastUpdated":"04/25/2020"
+         "lastUpdated":"04/26/2020"
       }
    ],
    "Anguilla":[
@@ -5618,7 +5618,7 @@
             "populationEstimate":15.003
          },
          "key":"",
-         "lastUpdated":"04/25/2020"
+         "lastUpdated":"04/26/2020"
       }
    ],
    "Antigua and Barbuda":[
@@ -5645,7 +5645,7 @@
             "populationEstimate":97.929
          },
          "key":"",
-         "lastUpdated":"04/25/2020"
+         "lastUpdated":"04/26/2020"
       }
    ],
    "Argentina":[
@@ -5659,7 +5659,7 @@
             "hospitalized":"",
             "icu":"",
             "cfr":4.89,
-            "percentConfirmed":"0.000007573716958581127"
+            "percentConfirmed":"0.000008334850068061673"
          },
          "iso2":"AR",
          "iso3":"ARG",
@@ -5672,21 +5672,21 @@
             "populationEstimate":45291.774
          },
          "key":"",
-         "lastUpdated":"04/25/2020"
+         "lastUpdated":"04/26/2020"
       }
    ],
    "Armenia":[
       {
          "caseData":{
-            "confirmed":1677,
+            "confirmed":1746,
             "deaths":28,
             "recovered":803,
             "active":"",
             "tested":"",
             "hospitalized":"",
             "icu":"",
-            "cfr":1.67,
-            "percentConfirmed":"0.00005659340121616756"
+            "cfr":1.6,
+            "percentConfirmed":"0.00005892193114098304"
          },
          "iso2":"AM",
          "iso3":"ARM",
@@ -5699,7 +5699,7 @@
             "populationEstimate":2963.243
          },
          "key":"",
-         "lastUpdated":"04/25/2020"
+         "lastUpdated":"04/26/2020"
       }
    ],
    "Aruba":[
@@ -5726,21 +5726,21 @@
             "populationEstimate":106.766
          },
          "key":"",
-         "lastUpdated":"04/25/2020"
+         "lastUpdated":"04/26/2020"
       }
    ],
    "Australia":[
       {
          "caseData":{
-            "confirmed":6687,
-            "deaths":79,
+            "confirmed":6703,
+            "deaths":81,
             "recovered":"",
             "active":"",
             "tested":"",
             "hospitalized":"",
             "icu":"",
-            "cfr":1.18,
-            "percentConfirmed":"0.000026223648703656848"
+            "cfr":1.21,
+            "percentConfirmed":"0.000026286394087126043"
          },
          "iso2":"AU",
          "iso3":"AUS",
@@ -5753,30 +5753,7 @@
             "populationEstimate":25595.884
          },
          "key":"",
-         "lastUpdated":"04/25/2020"
-      },
-      {
-         "caseData":{
-            "confirmed":28,
-            "deaths":0,
-            "recovered":0,
-            "active":0,
-            "tested":0,
-            "hospitalized":0,
-            "icu":0,
-            "cfr":0
-         },
-         "iso2":"AU",
-         "iso3":"AUS",
-         "location":{
-            "continent":"Oceania",
-            "country":"Australia",
-            "province":"Northern Territory",
-            "jurisdiction":"",
-            "population":"25499.8840",
-            "populationEstimate":0
-         },
-         "key":""
+         "lastUpdated":"04/26/2020"
       },
       {
          "caseData":{
@@ -5826,6 +5803,29 @@
       },
       {
          "caseData":{
+            "confirmed":28,
+            "deaths":0,
+            "recovered":23,
+            "active":0,
+            "tested":0,
+            "hospitalized":0,
+            "icu":0,
+            "cfr":0
+         },
+         "iso2":"AU",
+         "iso3":"AUS",
+         "location":{
+            "continent":"Oceania",
+            "country":"Australia",
+            "province":"Northern Territory",
+            "jurisdiction":"",
+            "population":"25499.8840",
+            "populationEstimate":0
+         },
+         "key":""
+      },
+      {
+         "caseData":{
             "confirmed":1026,
             "deaths":6,
             "recovered":803,
@@ -5851,7 +5851,7 @@
          "caseData":{
             "confirmed":438,
             "deaths":4,
-            "recovered":401,
+            "recovered":402,
             "active":0,
             "tested":0,
             "hospitalized":0,
@@ -5897,7 +5897,7 @@
          "caseData":{
             "confirmed":1346,
             "deaths":16,
-            "recovered":133,
+            "recovered":1262,
             "active":0,
             "tested":0,
             "hospitalized":0,
@@ -5951,7 +5951,7 @@
             "hospitalized":"",
             "icu":"",
             "cfr":3.54,
-            "percentConfirmed":"0.00016730328817358503"
+            "percentConfirmed":"0.00016803610055873613"
          },
          "iso2":"AT",
          "iso3":"AUT",
@@ -5964,7 +5964,7 @@
             "populationEstimate":9006.398
          },
          "key":"",
-         "lastUpdated":"04/25/2020"
+         "lastUpdated":"04/26/2020"
       }
    ],
    "Azerbaijan":[
@@ -5978,7 +5978,7 @@
             "hospitalized":"",
             "icu":"",
             "cfr":1.3,
-            "percentConfirmed":"0.00001570147162831855"
+            "percentConfirmed":"0.000015948039964190388"
          },
          "iso2":"AZ",
          "iso3":"AZE",
@@ -5991,7 +5991,7 @@
             "populationEstimate":10139.177
          },
          "key":"",
-         "lastUpdated":"04/25/2020"
+         "lastUpdated":"04/26/2020"
       }
    ],
    "Bahamas":[
@@ -6005,7 +6005,7 @@
             "hospitalized":"",
             "icu":"",
             "cfr":14.1,
-            "percentConfirmed":"0.000018563538159514197"
+            "percentConfirmed":"0.000019835013375919278"
          },
          "iso2":"BS",
          "iso3":"BHS",
@@ -6018,13 +6018,13 @@
             "populationEstimate":393.244
          },
          "key":"",
-         "lastUpdated":"04/25/2020"
+         "lastUpdated":"04/26/2020"
       }
    ],
    "Bahrain":[
       {
          "caseData":{
-            "confirmed":2588,
+            "confirmed":2589,
             "deaths":8,
             "recovered":1160,
             "active":"",
@@ -6032,7 +6032,7 @@
             "hospitalized":"",
             "icu":"",
             "cfr":0.31,
-            "percentConfirmed":"0.00014798054743399497"
+            "percentConfirmed":"0.0001521531522266136"
          },
          "iso2":"BH",
          "iso3":"BHR",
@@ -6045,7 +6045,7 @@
             "populationEstimate":1701.575
          },
          "key":"",
-         "lastUpdated":"04/25/2020"
+         "lastUpdated":"04/26/2020"
       }
    ],
    "Bangladesh":[
@@ -6059,7 +6059,7 @@
             "hospitalized":"",
             "icu":"",
             "cfr":2.8,
-            "percentConfirmed":"0.0000028471780721893895"
+            "percentConfirmed":"0.0000030348040104078846"
          },
          "iso2":"BD",
          "iso3":"BGD",
@@ -6072,7 +6072,7 @@
             "populationEstimate":165169.383
          },
          "key":"",
-         "lastUpdated":"04/25/2020"
+         "lastUpdated":"04/26/2020"
       }
    ],
    "Barbados":[
@@ -6086,7 +6086,7 @@
             "hospitalized":"",
             "icu":"",
             "cfr":7.59,
-            "percentConfirmed":"0.000026446280991735536"
+            "percentConfirmed":"0.000027490213136146152"
          },
          "iso2":"BB",
          "iso3":"BRB",
@@ -6099,7 +6099,7 @@
             "populationEstimate":287.375
          },
          "key":"",
-         "lastUpdated":"04/25/2020"
+         "lastUpdated":"04/26/2020"
       }
    ],
    "Belarus":[
@@ -6113,7 +6113,7 @@
             "hospitalized":"",
             "icu":"",
             "cfr":0.7,
-            "percentConfirmed":"0.00009284263010164854"
+            "percentConfirmed":"0.00010148875215716513"
          },
          "iso2":"BY",
          "iso3":"BLR",
@@ -6126,7 +6126,7 @@
             "populationEstimate":9449.323
          },
          "key":"",
-         "lastUpdated":"04/25/2020"
+         "lastUpdated":"04/26/2020"
       }
    ],
    "Belgium":[
@@ -6140,7 +6140,7 @@
             "hospitalized":"",
             "icu":"",
             "cfr":15.26,
-            "percentConfirmed":"0.00038217809155655883"
+            "percentConfirmed":"0.0003910826089856417"
          },
          "iso2":"BE",
          "iso3":"BEL",
@@ -6153,7 +6153,7 @@
             "populationEstimate":11589.623
          },
          "key":"",
-         "lastUpdated":"04/25/2020"
+         "lastUpdated":"04/26/2020"
       }
    ],
    "Belize":[
@@ -6180,7 +6180,7 @@
             "populationEstimate":397.628
          },
          "key":"",
-         "lastUpdated":"04/25/2020"
+         "lastUpdated":"04/26/2020"
       }
    ],
    "Benin":[
@@ -6207,7 +6207,7 @@
             "populationEstimate":12123.2
          },
          "key":"",
-         "lastUpdated":"04/25/2020"
+         "lastUpdated":"04/26/2020"
       }
    ],
    "Bermuda":[
@@ -6234,7 +6234,7 @@
             "populationEstimate":62.278
          },
          "key":"",
-         "lastUpdated":"04/25/2020"
+         "lastUpdated":"04/26/2020"
       }
    ],
    "Bhutan":[
@@ -6261,7 +6261,7 @@
             "populationEstimate":771.608
          },
          "key":"",
-         "lastUpdated":"04/25/2020"
+         "lastUpdated":"04/26/2020"
       }
    ],
    "Bolivia":[
@@ -6275,7 +6275,7 @@
             "hospitalized":"",
             "icu":"",
             "cfr":5.31,
-            "percentConfirmed":"0.000006913377436740668"
+            "percentConfirmed":"0.0000074188164314961834"
          },
          "iso2":"BO",
          "iso3":"BOL",
@@ -6288,7 +6288,7 @@
             "populationEstimate":11673.021
          },
          "key":"",
-         "lastUpdated":"04/25/2020"
+         "lastUpdated":"04/26/2020"
       }
    ],
    "Bonaire, Sint Eustatius and Saba":[
@@ -6313,7 +6313,7 @@
             "populationEstimate":null
          },
          "key":"",
-         "lastUpdated":"04/25/2020"
+         "lastUpdated":"04/26/2020"
       }
    ],
    "Bosnia and Herzegovina":[
@@ -6327,7 +6327,7 @@
             "hospitalized":"",
             "icu":"",
             "cfr":3.84,
-            "percentConfirmed":"0.00004328187565360966"
+            "percentConfirmed":"0.000045263088271556585"
          },
          "iso2":"BA",
          "iso3":"BIH",
@@ -6340,7 +6340,7 @@
             "populationEstimate":3280.819
          },
          "key":"",
-         "lastUpdated":"04/25/2020"
+         "lastUpdated":"04/26/2020"
       }
    ],
    "Botswana":[
@@ -6367,7 +6367,7 @@
             "populationEstimate":2351.627
          },
          "key":"",
-         "lastUpdated":"04/25/2020"
+         "lastUpdated":"04/26/2020"
       }
    ],
    "Brazil":[
@@ -6381,7 +6381,7 @@
             "hospitalized":"",
             "icu":"",
             "cfr":6.84,
-            "percentConfirmed":"0.000024931852348842303"
+            "percentConfirmed":"0.00002752595054398366"
          },
          "iso2":"BR",
          "iso3":"BRA",
@@ -6394,7 +6394,7 @@
             "populationEstimate":213135.417
          },
          "key":"",
-         "lastUpdated":"04/25/2020"
+         "lastUpdated":"04/26/2020"
       }
    ],
    "British Virgin Islands":[
@@ -6421,7 +6421,7 @@
             "populationEstimate":30.231
          },
          "key":"",
-         "lastUpdated":"04/25/2020"
+         "lastUpdated":"04/26/2020"
       }
    ],
    "Brunei":[
@@ -6448,7 +6448,7 @@
             "populationEstimate":437.479
          },
          "key":"",
-         "lastUpdated":"04/25/2020"
+         "lastUpdated":"04/26/2020"
       }
    ],
    "Bulgaria":[
@@ -6462,7 +6462,7 @@
             "hospitalized":"",
             "icu":"",
             "cfr":4.41,
-            "percentConfirmed":"0.000017097350558290383"
+            "percentConfirmed":"0.00001794646140251524"
          },
          "iso2":"BG",
          "iso3":"BGR",
@@ -6475,7 +6475,7 @@
             "populationEstimate":6948.445
          },
          "key":"",
-         "lastUpdated":"04/25/2020"
+         "lastUpdated":"04/26/2020"
       }
    ],
    "Burkina Faso":[
@@ -6489,7 +6489,7 @@
             "hospitalized":"",
             "icu":"",
             "cfr":6.52,
-            "percentConfirmed":"0.000002994746325132911"
+            "percentConfirmed":"0.0000030090981445824298"
          },
          "iso2":"BF",
          "iso3":"BFA",
@@ -6502,20 +6502,20 @@
             "populationEstimate":20999.273
          },
          "key":"",
-         "lastUpdated":"04/25/2020"
+         "lastUpdated":"04/26/2020"
       }
    ],
    "Burundi":[
       {
          "caseData":{
-            "confirmed":12,
+            "confirmed":15,
             "deaths":1,
             "recovered":4,
             "active":"",
             "tested":"",
             "hospitalized":"",
             "icu":"",
-            "cfr":8.33,
+            "cfr":6.67,
             "percentConfirmed":"0"
          },
          "iso2":"BI",
@@ -6529,7 +6529,7 @@
             "populationEstimate":11890.784
          },
          "key":"",
-         "lastUpdated":"04/25/2020"
+         "lastUpdated":"04/26/2020"
       }
    ],
    "Cambodia":[
@@ -6556,7 +6556,7 @@
             "populationEstimate":16718.965
          },
          "key":"",
-         "lastUpdated":"04/25/2020"
+         "lastUpdated":"04/26/2020"
       }
    ],
    "Cameroon":[
@@ -6570,7 +6570,7 @@
             "hospitalized":"",
             "icu":"",
             "cfr":3.49,
-            "percentConfirmed":"0.000005285192649415843"
+            "percentConfirmed":"0.0000057184051616630436"
          },
          "iso2":"CM",
          "iso3":"CMR",
@@ -6583,7 +6583,7 @@
             "populationEstimate":26641.863
          },
          "key":"",
-         "lastUpdated":"04/25/2020"
+         "lastUpdated":"04/26/2020"
       }
    ],
    "Cape Verde":[
@@ -6597,7 +6597,7 @@
             "hospitalized":"",
             "icu":"",
             "cfr":1.11,
-            "percentConfirmed":"0.000015827708201810475"
+            "percentConfirmed":"0.00001618742884276071"
          },
          "iso2":"CV",
          "iso3":"CPV",
@@ -6610,21 +6610,21 @@
             "populationEstimate":555.987
          },
          "key":"",
-         "lastUpdated":"04/25/2020"
+         "lastUpdated":"04/26/2020"
       }
    ],
    "Cayman Islands":[
       {
          "caseData":{
-            "confirmed":66,
+            "confirmed":70,
             "deaths":1,
             "recovered":"",
             "active":"",
             "tested":"",
             "hospitalized":"",
             "icu":"",
-            "cfr":1.52,
-            "percentConfirmed":"0.00010042299382246431"
+            "cfr":1.43,
+            "percentConfirmed":"0.00010650923587231065"
          },
          "iso2":"KY",
          "iso3":"CYM",
@@ -6637,7 +6637,7 @@
             "populationEstimate":65.722
          },
          "key":"",
-         "lastUpdated":"04/25/2020"
+         "lastUpdated":"04/26/2020"
       }
    ],
    "Central African Republic":[
@@ -6664,7 +6664,7 @@
             "populationEstimate":4829.767
          },
          "key":"",
-         "lastUpdated":"04/25/2020"
+         "lastUpdated":"04/26/2020"
       }
    ],
    "Chad":[
@@ -6691,7 +6691,7 @@
             "populationEstimate":16425.864
          },
          "key":"",
-         "lastUpdated":"04/25/2020"
+         "lastUpdated":"04/26/2020"
       }
    ],
    "Chile":[
@@ -6705,7 +6705,7 @@
             "hospitalized":"",
             "icu":"",
             "cfr":1.41,
-            "percentConfirmed":"0.00006437471545732335"
+            "percentConfirmed":"0.00006726231849100143"
          },
          "iso2":"CL",
          "iso3":"CHL",
@@ -6718,13 +6718,13 @@
             "populationEstimate":19212.201
          },
          "key":"",
-         "lastUpdated":"04/25/2020"
+         "lastUpdated":"04/26/2020"
       }
    ],
    "China":[
       {
          "caseData":{
-            "confirmed":83899,
+            "confirmed":83909,
             "deaths":4636,
             "recovered":"",
             "active":"",
@@ -6732,7 +6732,7 @@
             "hospitalized":"",
             "icu":"",
             "cfr":5.53,
-            "percentConfirmed":"0.000005829056769503403"
+            "percentConfirmed":"0.000005829751540212172"
          },
          "iso2":"CN",
          "iso3":"CHN",
@@ -6745,7 +6745,7 @@
             "populationEstimate":1443067.776
          },
          "key":"",
-         "lastUpdated":"04/25/2020"
+         "lastUpdated":"04/26/2020"
       },
       {
          "caseData":{
@@ -7518,7 +7518,7 @@
             "hospitalized":"",
             "icu":"",
             "cfr":4.53,
-            "percentConfirmed":"0.000009592615325257363"
+            "percentConfirmed":"0.000010105557877990856"
          },
          "iso2":"CO",
          "iso3":"COL",
@@ -7531,7 +7531,7 @@
             "populationEstimate":50978.891
          },
          "key":"",
-         "lastUpdated":"04/25/2020"
+         "lastUpdated":"04/26/2020"
       }
    ],
    "Republic of the Congo":[
@@ -7558,7 +7558,7 @@
             "populationEstimate":5518.087
          },
          "key":"",
-         "lastUpdated":"04/25/2020"
+         "lastUpdated":"04/26/2020"
       }
    ],
    "Costa Rica":[
@@ -7572,7 +7572,7 @@
             "hospitalized":"",
             "icu":"",
             "cfr":0.87,
-            "percentConfirmed":"0.000013486142252692223"
+            "percentConfirmed":"0.00001360392515446246"
          },
          "iso2":"CR",
          "iso3":"CRI",
@@ -7585,21 +7585,21 @@
             "populationEstimate":5094.118
          },
          "key":"",
-         "lastUpdated":"04/25/2020"
+         "lastUpdated":"04/26/2020"
       }
    ],
    "Cote d'Ivoire":[
       {
          "caseData":{
-            "confirmed":1077,
+            "confirmed":1111,
             "deaths":14,
             "recovered":419,
             "active":"",
             "tested":"",
             "hospitalized":"",
             "icu":"",
-            "cfr":1.3,
-            "percentConfirmed":"0.000004082905500185494"
+            "cfr":1.26,
+            "percentConfirmed":"0.000004211799452837589"
          },
          "iso2":"CI",
          "iso3":"CIV",
@@ -7612,7 +7612,7 @@
             "populationEstimate":26474.274
          },
          "key":"",
-         "lastUpdated":"04/25/2020"
+         "lastUpdated":"04/26/2020"
       }
    ],
    "Croatia":[
@@ -7626,7 +7626,7 @@
             "hospitalized":"",
             "icu":"",
             "cfr":2.68,
-            "percentConfirmed":"0.000048937133687041556"
+            "percentConfirmed":"0.00004910764634797201"
          },
          "iso2":"HR",
          "iso3":"HRV",
@@ -7639,7 +7639,7 @@
             "populationEstimate":4105.267
          },
          "key":"",
-         "lastUpdated":"04/25/2020"
+         "lastUpdated":"04/26/2020"
       }
    ],
    "Cuba":[
@@ -7653,7 +7653,7 @@
             "hospitalized":"",
             "icu":"",
             "cfr":3.81,
-            "percentConfirmed":"0.000011344959518359234"
+            "percentConfirmed":"0.000011804055156456262"
          },
          "iso2":"CU",
          "iso3":"CUB",
@@ -7666,7 +7666,7 @@
             "populationEstimate":11326.616
          },
          "key":"",
-         "lastUpdated":"04/25/2020"
+         "lastUpdated":"04/26/2020"
       }
    ],
    "Curaçao":[
@@ -7693,7 +7693,7 @@
             "populationEstimate":164.093
          },
          "key":"",
-         "lastUpdated":"04/25/2020"
+         "lastUpdated":"04/26/2020"
       }
    ],
    "Cyprus":[
@@ -7706,8 +7706,8 @@
             "tested":"",
             "hospitalized":"",
             "icu":"",
-            "cfr":2.11,
-            "percentConfirmed":"0.00006659162684835248"
+            "cfr":2.1,
+            "percentConfirmed":"0.00006708857928751929"
          },
          "iso2":"CY",
          "iso3":"CYP",
@@ -7720,7 +7720,7 @@
             "populationEstimate":1207.359
          },
          "key":"",
-         "lastUpdated":"04/25/2020"
+         "lastUpdated":"04/26/2020"
       }
    ],
    "Czech Republic":[
@@ -7734,7 +7734,7 @@
             "hospitalized":"",
             "icu":"",
             "cfr":2.97,
-            "percentConfirmed":"0.00006791495848204418"
+            "percentConfirmed":"0.0000686526570548589"
          },
          "iso2":"CZ",
          "iso3":"CZE",
@@ -7747,20 +7747,20 @@
             "populationEstimate":10708.981
          },
          "key":"",
-         "lastUpdated":"04/25/2020"
+         "lastUpdated":"04/26/2020"
       }
    ],
    "Democratic Republic of the Congo":[
       {
          "caseData":{
-            "confirmed":416,
+            "confirmed":442,
             "deaths":28,
             "recovered":"",
             "active":"",
             "tested":"",
             "hospitalized":"",
             "icu":"",
-            "cfr":6.73,
+            "cfr":6.33,
             "percentConfirmed":"0"
          },
          "iso2":"CD",
@@ -7774,7 +7774,7 @@
             "populationEstimate":89849.403
          },
          "key":"",
-         "lastUpdated":"04/25/2020"
+         "lastUpdated":"04/26/2020"
       }
    ],
    "Denmark":[
@@ -7834,7 +7834,7 @@
             "hospitalized":"",
             "icu":"",
             "cfr":4.95,
-            "percentConfirmed":"0.00014174229420866192"
+            "percentConfirmed":"0.00014579947315373324"
          },
          "iso2":"DK",
          "iso3":"DNK",
@@ -7847,7 +7847,7 @@
             "populationEstimate":5792.202
          },
          "key":"",
-         "lastUpdated":"04/25/2020"
+         "lastUpdated":"04/26/2020"
       }
    ],
    "Djibouti":[
@@ -7861,7 +7861,7 @@
             "hospitalized":"",
             "icu":"",
             "cfr":0.2,
-            "percentConfirmed":"101.11336032388665"
+            "percentConfirmed":"102.02429149797571"
          },
          "iso2":"DJ",
          "iso3":"DJI",
@@ -7874,7 +7874,7 @@
             "populationEstimate":988
          },
          "key":"",
-         "lastUpdated":"04/25/2020"
+         "lastUpdated":"04/26/2020"
       }
    ],
    "Dominica":[
@@ -7901,7 +7901,7 @@
             "populationEstimate":71.986
          },
          "key":"",
-         "lastUpdated":"04/25/2020"
+         "lastUpdated":"04/26/2020"
       }
    ],
    "Dominican Republic":[
@@ -7915,7 +7915,7 @@
             "hospitalized":"",
             "icu":"",
             "cfr":4.61,
-            "percentConfirmed":"0.00005299638363518871"
+            "percentConfirmed":"0.000054628034340255404"
          },
          "iso2":"DO",
          "iso3":"DOM",
@@ -7928,7 +7928,7 @@
             "populationEstimate":10847.91
          },
          "key":"",
-         "lastUpdated":"04/25/2020"
+         "lastUpdated":"04/26/2020"
       }
    ],
    "Ecuador":[
@@ -7955,7 +7955,7 @@
             "populationEstimate":17643.054
          },
          "key":"",
-         "lastUpdated":"04/25/2020"
+         "lastUpdated":"04/26/2020"
       }
    ],
    "Egypt":[
@@ -7969,7 +7969,7 @@
             "hospitalized":"",
             "icu":"",
             "cfr":7.11,
-            "percentConfirmed":"0.000003998655232310729"
+            "percentConfirmed":"0.0000042204770157258156"
          },
          "iso2":"EG",
          "iso3":"EGY",
@@ -7982,21 +7982,21 @@
             "populationEstimate":102622.404
          },
          "key":"",
-         "lastUpdated":"04/25/2020"
+         "lastUpdated":"04/26/2020"
       }
    ],
    "El Salvador":[
       {
          "caseData":{
-            "confirmed":274,
+            "confirmed":298,
             "deaths":8,
             "recovered":75,
             "active":"",
             "tested":"",
             "hospitalized":"",
             "icu":"",
-            "cfr":2.92,
-            "percentConfirmed":"0.000004023924621562223"
+            "cfr":2.68,
+            "percentConfirmed":"0.000004594366043009741"
          },
          "iso2":"SV",
          "iso3":"SLV",
@@ -8009,7 +8009,7 @@
             "populationEstimate":6486.205
          },
          "key":"",
-         "lastUpdated":"04/25/2020"
+         "lastUpdated":"04/26/2020"
       }
    ],
    "Equatorial Guinea":[
@@ -8023,7 +8023,7 @@
             "hospitalized":"",
             "icu":"",
             "cfr":0.39,
-            "percentConfirmed":"0.000015110639101629738"
+            "percentConfirmed":"0.000015253192300701719"
          },
          "iso2":"GQ",
          "iso3":"GNQ",
@@ -8036,7 +8036,7 @@
             "populationEstimate":1402.985
          },
          "key":"",
-         "lastUpdated":"04/25/2020"
+         "lastUpdated":"04/26/2020"
       }
    ],
    "Eritrea":[
@@ -8063,7 +8063,7 @@
             "populationEstimate":3546.421
          },
          "key":"",
-         "lastUpdated":"04/25/2020"
+         "lastUpdated":"04/26/2020"
       }
    ],
    "Estonia":[
@@ -8077,7 +8077,7 @@
             "hospitalized":"",
             "icu":"",
             "cfr":2.81,
-            "percentConfirmed":"0.000120991907488306"
+            "percentConfirmed":"0.00012325343846939584"
          },
          "iso2":"EE",
          "iso3":"EST",
@@ -8090,7 +8090,7 @@
             "populationEstimate":1326.535
          },
          "key":"",
-         "lastUpdated":"04/25/2020"
+         "lastUpdated":"04/26/2020"
       }
    ],
    "eSwatini":[
@@ -8117,7 +8117,7 @@
             "populationEstimate":1160.164
          },
          "key":"",
-         "lastUpdated":"04/25/2020"
+         "lastUpdated":"04/26/2020"
       }
    ],
    "Ethiopia":[
@@ -8144,20 +8144,20 @@
             "populationEstimate":115251.588
          },
          "key":"",
-         "lastUpdated":"04/25/2020"
+         "lastUpdated":"04/26/2020"
       }
    ],
    "Falkland Islands (Malvinas)":[
       {
          "caseData":{
-            "confirmed":12,
+            "confirmed":13,
             "deaths":0,
             "recovered":"",
             "active":"",
             "tested":"",
             "hospitalized":"",
             "icu":"",
-            "percentConfirmed":"0.0003448275862068965"
+            "percentConfirmed":"0.00037356321839080456"
          },
          "iso2":"FK",
          "iso3":"FLK",
@@ -8170,7 +8170,7 @@
             "populationEstimate":3.48
          },
          "key":"",
-         "lastUpdated":"04/25/2020"
+         "lastUpdated":"04/26/2020"
       }
    ],
    "Faroe Islands":[
@@ -8196,7 +8196,7 @@
             "populationEstimate":48.863
          },
          "key":"",
-         "lastUpdated":"04/25/2020"
+         "lastUpdated":"04/26/2020"
       }
    ],
    "Fiji":[
@@ -8223,7 +8223,7 @@
             "populationEstimate":896.445
          },
          "key":"",
-         "lastUpdated":"04/25/2020"
+         "lastUpdated":"04/26/2020"
       }
    ],
    "Finland":[
@@ -8237,7 +8237,7 @@
             "hospitalized":"",
             "icu":"",
             "cfr":4.16,
-            "percentConfirmed":"0.00007932182099077376"
+            "percentConfirmed":"0.00008076567666296077"
          },
          "iso2":"FI",
          "iso3":"FIN",
@@ -8250,7 +8250,7 @@
             "populationEstimate":5540.72
          },
          "key":"",
-         "lastUpdated":"04/25/2020"
+         "lastUpdated":"04/26/2020"
       }
    ],
    "France":[
@@ -8494,7 +8494,7 @@
             "hospitalized":"",
             "icu":"",
             "cfr":14.11,
-            "percentConfirmed":"0.00018778980649593064"
+            "percentConfirmed":"0.0001901445135990923"
          },
          "iso2":"FR",
          "iso3":"FRA",
@@ -8507,7 +8507,7 @@
             "populationEstimate":65465.511
          },
          "key":"",
-         "lastUpdated":"04/25/2020"
+         "lastUpdated":"04/26/2020"
       }
    ],
    "French Polynesia":[
@@ -8533,7 +8533,7 @@
             "populationEstimate":280.908
          },
          "key":"",
-         "lastUpdated":"04/25/2020"
+         "lastUpdated":"04/26/2020"
       }
    ],
    "Gabon":[
@@ -8547,7 +8547,7 @@
             "hospitalized":"",
             "icu":"",
             "cfr":1.7,
-            "percentConfirmed":"0.000007727787776976045"
+            "percentConfirmed":"0.000007907503771789442"
          },
          "iso2":"GA",
          "iso3":"GAB",
@@ -8560,7 +8560,7 @@
             "populationEstimate":2225.734
          },
          "key":"",
-         "lastUpdated":"04/25/2020"
+         "lastUpdated":"04/26/2020"
       }
    ],
    "Gambia":[
@@ -8587,7 +8587,7 @@
             "populationEstimate":2416.668
          },
          "key":"",
-         "lastUpdated":"04/25/2020"
+         "lastUpdated":"04/26/2020"
       }
    ],
    "Georgia":[
@@ -8601,7 +8601,7 @@
             "hospitalized":"",
             "icu":"",
             "cfr":1.1,
-            "percentConfirmed":"0.00001113014321034943"
+            "percentConfirmed":"0.000011430957891710224"
          },
          "iso2":"GE",
          "iso3":"GEO",
@@ -8614,7 +8614,7 @@
             "populationEstimate":3989.167
          },
          "key":"",
-         "lastUpdated":"04/25/2020"
+         "lastUpdated":"04/26/2020"
       }
    ],
    "Germany":[
@@ -8628,7 +8628,7 @@
             "hospitalized":"",
             "icu":"",
             "cfr":3.75,
-            "percentConfirmed":"0.00018194178545573805"
+            "percentConfirmed":"0.0001840149750891406"
          },
          "iso2":"DE",
          "iso3":"DEU",
@@ -8641,7 +8641,7 @@
             "populationEstimate":83975.942
          },
          "key":"",
-         "lastUpdated":"04/25/2020"
+         "lastUpdated":"04/26/2020"
       }
    ],
    "Ghana":[
@@ -8668,21 +8668,21 @@
             "populationEstimate":31168.94
          },
          "key":"",
-         "lastUpdated":"04/25/2020"
+         "lastUpdated":"04/26/2020"
       }
    ],
    "Gibraltar":[
       {
          "caseData":{
-            "confirmed":133,
+            "confirmed":136,
             "deaths":4,
             "recovered":"",
             "active":"",
             "tested":"",
             "hospitalized":"",
             "icu":"",
-            "cfr":3.01,
-            "percentConfirmed":"0.0003947641803448992"
+            "cfr":2.94,
+            "percentConfirmed":"0.0004036686355406488"
          },
          "iso2":"GI",
          "iso3":"GIB",
@@ -8695,7 +8695,7 @@
             "populationEstimate":33.691
          },
          "key":"",
-         "lastUpdated":"04/25/2020"
+         "lastUpdated":"04/26/2020"
       }
    ],
    "Greece":[
@@ -8709,7 +8709,7 @@
             "hospitalized":"",
             "icu":"",
             "cfr":5.19,
-            "percentConfirmed":"0.00002388935143193156"
+            "percentConfirmed":"0.000024042857304586545"
          },
          "iso2":"GR",
          "iso3":"GRC",
@@ -8722,7 +8722,7 @@
             "populationEstimate":10423.054
          },
          "key":"",
-         "lastUpdated":"04/25/2020"
+         "lastUpdated":"04/26/2020"
       }
    ],
    "Greenland":[
@@ -8748,7 +8748,7 @@
             "populationEstimate":56.77
          },
          "key":"",
-         "lastUpdated":"04/25/2020"
+         "lastUpdated":"04/26/2020"
       }
    ],
    "Grenada":[
@@ -8761,7 +8761,7 @@
             "tested":"",
             "hospitalized":"",
             "icu":"",
-            "percentConfirmed":"0.000013330607964593905",
+            "percentConfirmed":"0.000015996729557512686",
             "cfr":0
          },
          "iso2":"GD",
@@ -8775,7 +8775,7 @@
             "populationEstimate":112.523
          },
          "key":"",
-         "lastUpdated":"04/25/2020"
+         "lastUpdated":"04/26/2020"
       }
    ],
    "Guam":[
@@ -8809,7 +8809,7 @@
             }
          },
          "key":"",
-         "lastUpdated":"04/25/2020"
+         "lastUpdated":"04/26/2020"
       }
    ],
    "Guatemala":[
@@ -8823,7 +8823,7 @@
             "hospitalized":"",
             "icu":"",
             "cfr":2.75,
-            "percentConfirmed":"0.000002400147179257727"
+            "percentConfirmed":"0.0000026401618971835"
          },
          "iso2":"GT",
          "iso3":"GTM",
@@ -8836,20 +8836,20 @@
             "populationEstimate":18011.568
          },
          "key":"",
-         "lastUpdated":"04/25/2020"
+         "lastUpdated":"04/26/2020"
       }
    ],
    "Guernsey, Bailiwick of":[
       {
          "caseData":{
             "confirmed":245,
-            "deaths":11,
+            "deaths":12,
             "recovered":"",
             "active":"",
             "tested":"",
             "hospitalized":"",
             "icu":"",
-            "cfr":4.49,
+            "cfr":4.9,
             "percentConfirmed":"NaN"
          },
          "iso2":"GG",
@@ -8862,7 +8862,7 @@
             "populationEstimate":null
          },
          "key":"",
-         "lastUpdated":"04/25/2020"
+         "lastUpdated":"04/26/2020"
       }
    ],
    "Guinea":[
@@ -8876,7 +8876,7 @@
             "hospitalized":"",
             "icu":"",
             "cfr":0.7,
-            "percentConfirmed":"0.000007264257151657358"
+            "percentConfirmed":"0.00000758406721493787"
          },
          "iso2":"GN",
          "iso3":"GIN",
@@ -8889,7 +8889,7 @@
             "populationEstimate":13132.795
          },
          "key":"",
-         "lastUpdated":"04/25/2020"
+         "lastUpdated":"04/26/2020"
       }
    ],
    "Guinea-Bissau":[
@@ -8916,21 +8916,21 @@
             "populationEstimate":1968.001
          },
          "key":"",
-         "lastUpdated":"04/25/2020"
+         "lastUpdated":"04/26/2020"
       }
    ],
    "Guyana":[
       {
          "caseData":{
-            "confirmed":73,
+            "confirmed":74,
             "deaths":8,
             "recovered":12,
             "active":"",
             "tested":"",
             "hospitalized":"",
             "icu":"",
-            "cfr":10.96,
-            "percentConfirmed":"0.000009281013842695715"
+            "cfr":10.81,
+            "percentConfirmed":"0.000009408151018623053"
          },
          "iso2":"GY",
          "iso3":"GUY",
@@ -8943,7 +8943,7 @@
             "populationEstimate":786.552
          },
          "key":"",
-         "lastUpdated":"04/25/2020"
+         "lastUpdated":"04/26/2020"
       }
    ],
    "Haiti":[
@@ -8970,7 +8970,7 @@
             "populationEstimate":11402.528
          },
          "key":"",
-         "lastUpdated":"04/25/2020"
+         "lastUpdated":"04/26/2020"
       }
    ],
    "Holy See":[
@@ -8997,7 +8997,7 @@
             "populationEstimate":0.801
          },
          "key":"",
-         "lastUpdated":"04/25/2020"
+         "lastUpdated":"04/26/2020"
       }
    ],
    "Honduras":[
@@ -9011,7 +9011,7 @@
             "hospitalized":"",
             "icu":"",
             "cfr":9.41,
-            "percentConfirmed":"0.000005966920242267058"
+            "percentConfirmed":"0.00000633038746514627"
          },
          "iso2":"HN",
          "iso3":"HND",
@@ -9024,21 +9024,21 @@
             "populationEstimate":9904.607
          },
          "key":"",
-         "lastUpdated":"04/25/2020"
+         "lastUpdated":"04/26/2020"
       }
    ],
    "Hungary":[
       {
          "caseData":{
-            "confirmed":2443,
-            "deaths":262,
+            "confirmed":2500,
+            "deaths":272,
             "recovered":458,
             "active":"",
             "tested":"",
             "hospitalized":"",
             "icu":"",
-            "cfr":10.72,
-            "percentConfirmed":"0.00002528893618875753"
+            "cfr":10.88,
+            "percentConfirmed":"0.000025878976861192728"
          },
          "iso2":"HU",
          "iso3":"HUN",
@@ -9051,7 +9051,7 @@
             "populationEstimate":9660.351
          },
          "key":"",
-         "lastUpdated":"04/25/2020"
+         "lastUpdated":"04/26/2020"
       }
    ],
    "Iceland":[
@@ -9065,7 +9065,7 @@
             "hospitalized":"",
             "icu":"",
             "cfr":0.56,
-            "percentConfirmed":"0.0005242598382970493"
+            "percentConfirmed":"0.0005245528846012958"
          },
          "iso2":"IS",
          "iso3":"ISL",
@@ -9078,21 +9078,21 @@
             "populationEstimate":341.243
          },
          "key":"",
-         "lastUpdated":"04/25/2020"
+         "lastUpdated":"04/26/2020"
       }
    ],
    "India":[
       {
          "caseData":{
-            "confirmed":26283,
+            "confirmed":26496,
             "deaths":825,
             "recovered":5939,
             "active":"",
             "tested":"",
             "hospitalized":"",
             "icu":"",
-            "cfr":3.14,
-            "percentConfirmed":"0.0000017757914588075747"
+            "cfr":3.11,
+            "percentConfirmed":"0.0000019199938991498205"
          },
          "iso2":"IN",
          "iso3":"IND",
@@ -9105,7 +9105,7 @@
             "populationEstimate":1383652.385
          },
          "key":"",
-         "lastUpdated":"04/25/2020"
+         "lastUpdated":"04/26/2020"
       }
    ],
    "Indonesia":[
@@ -9119,7 +9119,7 @@
             "hospitalized":"",
             "icu":"",
             "cfr":8.37,
-            "percentConfirmed":"0.0000030019345861599557"
+            "percentConfirmed":"0.00000314671184789657"
          },
          "iso2":"ID",
          "iso3":"IDN",
@@ -9132,7 +9132,7 @@
             "populationEstimate":274291.615
          },
          "key":"",
-         "lastUpdated":"04/25/2020"
+         "lastUpdated":"04/26/2020"
       }
    ],
    "Iran":[
@@ -9146,7 +9146,7 @@
             "hospitalized":"",
             "icu":"",
             "cfr":6.33,
-            "percentConfirmed":"0.00010500167103312447"
+            "percentConfirmed":"0.00010635178436228023"
          },
          "iso2":"IR",
          "iso3":"IRN",
@@ -9159,7 +9159,7 @@
             "populationEstimate":84184.949
          },
          "key":"",
-         "lastUpdated":"04/25/2020"
+         "lastUpdated":"04/26/2020"
       }
    ],
    "Iraq":[
@@ -9173,7 +9173,7 @@
             "hospitalized":"",
             "icu":"",
             "cfr":4.88,
-            "percentConfirmed":"0.000004246380252959457"
+            "percentConfirmed":"0.000004383119663915412"
          },
          "iso2":"IQ",
          "iso3":"IRQ",
@@ -9186,7 +9186,7 @@
             "populationEstimate":40318.493
          },
          "key":"",
-         "lastUpdated":"04/25/2020"
+         "lastUpdated":"04/26/2020"
       }
    ],
    "Ireland":[
@@ -9200,7 +9200,7 @@
             "hospitalized":"",
             "icu":"",
             "cfr":5.73,
-            "percentConfirmed":"0.00036826221306472174"
+            "percentConfirmed":"0.0003758972138525242"
          },
          "iso2":"IE",
          "iso3":"IRL",
@@ -9213,7 +9213,7 @@
             "populationEstimate":4937.786
          },
          "key":"",
-         "lastUpdated":"04/25/2020"
+         "lastUpdated":"04/26/2020"
       }
    ],
    "Isle of Man":[
@@ -9240,7 +9240,7 @@
             "populationEstimate":85.033
          },
          "key":"",
-         "lastUpdated":"04/25/2020"
+         "lastUpdated":"04/26/2020"
       }
    ],
    "Israel":[
@@ -9254,7 +9254,7 @@
             "hospitalized":"",
             "icu":"",
             "cfr":1.3,
-            "percentConfirmed":"0.00017396960442075504"
+            "percentConfirmed":"0.00017674239662828466"
          },
          "iso2":"IL",
          "iso3":"ISR",
@@ -9267,7 +9267,7 @@
             "populationEstimate":8655.535
          },
          "key":"",
-         "lastUpdated":"04/25/2020"
+         "lastUpdated":"04/26/2020"
       }
    ],
    "Italy":[
@@ -9281,7 +9281,7 @@
             "hospitalized":"",
             "icu":"",
             "cfr":13.51,
-            "percentConfirmed":"0.00031919975423831893"
+            "percentConfirmed":"0.0003230980817549242"
          },
          "iso2":"IT",
          "iso3":"ITA",
@@ -9294,7 +9294,7 @@
             "populationEstimate":60653.826
          },
          "key":"",
-         "lastUpdated":"04/25/2020"
+         "lastUpdated":"04/26/2020"
       }
    ],
    "Jamaica":[
@@ -9308,7 +9308,7 @@
             "hospitalized":"",
             "icu":"",
             "cfr":2.3,
-            "percentConfirmed":"0.000009725895229819865"
+            "percentConfirmed":"0.000010299993212135621"
          },
          "iso2":"JM",
          "iso3":"JAM",
@@ -9321,7 +9321,7 @@
             "populationEstimate":2961.167
          },
          "key":"",
-         "lastUpdated":"04/25/2020"
+         "lastUpdated":"04/26/2020"
       }
    ],
    "Japan":[
@@ -9335,7 +9335,7 @@
             "hospitalized":"",
             "icu":"",
             "cfr":2.72,
-            "percentConfirmed":"0.00001019320108901529"
+            "percentConfirmed":"0.000010422492767250974"
          },
          "iso2":"JP",
          "iso3":"JPN",
@@ -9348,20 +9348,20 @@
             "populationEstimate":126764.461
          },
          "key":"",
-         "lastUpdated":"04/25/2020"
+         "lastUpdated":"04/26/2020"
       }
    ],
    "Jersey, Bailiwick of":[
       {
          "caseData":{
-            "confirmed":278,
+            "confirmed":280,
             "deaths":19,
             "recovered":"",
             "active":"",
             "tested":"",
             "hospitalized":"",
             "icu":"",
-            "cfr":6.83,
+            "cfr":6.79,
             "percentConfirmed":"NaN"
          },
          "iso2":"JE",
@@ -9374,7 +9374,7 @@
             "populationEstimate":null
          },
          "key":"",
-         "lastUpdated":"04/25/2020"
+         "lastUpdated":"04/26/2020"
       }
    ],
    "Jordan":[
@@ -9388,7 +9388,7 @@
             "hospitalized":"",
             "icu":"",
             "cfr":1.58,
-            "percentConfirmed":"0.000004322201394199076"
+            "percentConfirmed":"0.000004351604124771859"
          },
          "iso2":"JO",
          "iso3":"JOR",
@@ -9401,21 +9401,21 @@
             "populationEstimate":10203.134
          },
          "key":"",
-         "lastUpdated":"04/25/2020"
+         "lastUpdated":"04/26/2020"
       }
    ],
    "Kazakhstan":[
       {
          "caseData":{
-            "confirmed":2601,
+            "confirmed":2652,
             "deaths":25,
             "recovered":646,
             "active":"",
             "tested":"",
             "hospitalized":"",
             "icu":"",
-            "cfr":0.96,
-            "percentConfirmed":"0.000013218505246953048"
+            "cfr":0.94,
+            "percentConfirmed":"0.000014123882318662158"
          },
          "iso2":"KZ",
          "iso3":"KAZ",
@@ -9428,7 +9428,7 @@
             "populationEstimate":18872.707
          },
          "key":"",
-         "lastUpdated":"04/25/2020"
+         "lastUpdated":"04/26/2020"
       }
    ],
    "Kenya":[
@@ -9455,21 +9455,21 @@
             "populationEstimate":53963.296
          },
          "key":"",
-         "lastUpdated":"04/25/2020"
+         "lastUpdated":"04/26/2020"
       }
    ],
    "Kosovo":[
       {
          "caseData":{
-            "confirmed":703,
-            "deaths":19,
+            "confirmed":731,
+            "deaths":20,
             "recovered":93,
             "active":"",
             "tested":"",
             "hospitalized":"",
             "icu":"",
-            "cfr":2.7,
-            "percentConfirmed":"0.038831926803751284"
+            "cfr":2.74,
+            "percentConfirmed":"0.04037857538199458"
          },
          "iso2":"XK",
          "iso3":"XKX",
@@ -9482,7 +9482,7 @@
             "populationEstimate":1.810366
          },
          "key":"",
-         "lastUpdated":"04/25/2020"
+         "lastUpdated":"04/26/2020"
       }
    ],
    "Kuwait":[
@@ -9496,7 +9496,7 @@
             "hospitalized":"",
             "icu":"",
             "cfr":0.66,
-            "percentConfirmed":"0.00006120961342171809"
+            "percentConfirmed":"0.00006771928156679751"
          },
          "iso2":"KW",
          "iso3":"KWT",
@@ -9509,21 +9509,21 @@
             "populationEstimate":4270.571
          },
          "key":"",
-         "lastUpdated":"04/25/2020"
+         "lastUpdated":"04/26/2020"
       }
    ],
    "Kyrgyz Republic":[
       {
          "caseData":{
-            "confirmed":665,
+            "confirmed":682,
             "deaths":8,
             "recovered":345,
             "active":"",
             "tested":"",
             "hospitalized":"",
             "icu":"",
-            "cfr":1.2,
-            "percentConfirmed":"0.000010192828387256972"
+            "cfr":1.17,
+            "percentConfirmed":"0.00001045339693249512"
          },
          "iso2":"KG",
          "iso3":"KGZ",
@@ -9536,7 +9536,7 @@
             "populationEstimate":6524.195
          },
          "key":"",
-         "lastUpdated":"04/25/2020"
+         "lastUpdated":"04/26/2020"
       }
    ],
    "Laos":[
@@ -9563,7 +9563,7 @@
             "populationEstimate":7275.56
          },
          "key":"",
-         "lastUpdated":"04/25/2020"
+         "lastUpdated":"04/26/2020"
       }
    ],
    "Latvia":[
@@ -9577,7 +9577,7 @@
             "hospitalized":"",
             "icu":"",
             "cfr":1.49,
-            "percentConfirmed":"0.000041565095498987915"
+            "percentConfirmed":"0.000042625429567839646"
          },
          "iso2":"LV",
          "iso3":"LVA",
@@ -9590,7 +9590,7 @@
             "populationEstimate":1886.198
          },
          "key":"",
-         "lastUpdated":"04/25/2020"
+         "lastUpdated":"04/26/2020"
       }
    ],
    "Lebanon":[
@@ -9604,7 +9604,7 @@
             "hospitalized":"",
             "icu":"",
             "cfr":3.41,
-            "percentConfirmed":"0.000010197137329507454"
+            "percentConfirmed":"0.000010314345804559263"
          },
          "iso2":"LB",
          "iso3":"LBN",
@@ -9617,7 +9617,7 @@
             "populationEstimate":6825.445
          },
          "key":"",
-         "lastUpdated":"04/25/2020"
+         "lastUpdated":"04/26/2020"
       }
    ],
    "Liberia":[
@@ -9631,7 +9631,7 @@
             "hospitalized":"",
             "icu":"",
             "cfr":9.17,
-            "percentConfirmed":"0.0000023133131567609738"
+            "percentConfirmed":"0.000002372628878729204"
          },
          "iso2":"LR",
          "iso3":"LBR",
@@ -9644,7 +9644,7 @@
             "populationEstimate":5057.681
          },
          "key":"",
-         "lastUpdated":"04/25/2020"
+         "lastUpdated":"04/26/2020"
       }
    ],
    "Libya":[
@@ -9671,21 +9671,21 @@
             "populationEstimate":6871.292
          },
          "key":"",
-         "lastUpdated":"04/25/2020"
+         "lastUpdated":"04/26/2020"
       }
    ],
    "Liechtenstein":[
       {
          "caseData":{
-            "confirmed":82,
+            "confirmed":83,
             "deaths":1,
             "recovered":55,
             "active":"",
             "tested":"",
             "hospitalized":"",
             "icu":"",
-            "cfr":1.22,
-            "percentConfirmed":"0.0002150650440621066"
+            "cfr":1.2,
+            "percentConfirmed":"0.00021768778850188837"
          },
          "iso2":"LI",
          "iso3":"LIE",
@@ -9698,21 +9698,21 @@
             "populationEstimate":38.128
          },
          "key":"",
-         "lastUpdated":"04/25/2020"
+         "lastUpdated":"04/26/2020"
       }
    ],
    "Lithuania":[
       {
          "caseData":{
-            "confirmed":1426,
+            "confirmed":1438,
             "deaths":41,
             "recovered":460,
             "active":"",
             "tested":"",
             "hospitalized":"",
             "icu":"",
-            "cfr":2.88,
-            "percentConfirmed":"0.000051794647812925074"
+            "cfr":2.85,
+            "percentConfirmed":"0.00005282319401062856"
          },
          "iso2":"LT",
          "iso3":"LTU",
@@ -9725,7 +9725,7 @@
             "populationEstimate":2722.289
          },
          "key":"",
-         "lastUpdated":"04/25/2020"
+         "lastUpdated":"04/26/2020"
       }
    ],
    "Luxembourg":[
@@ -9739,7 +9739,7 @@
             "hospitalized":"",
             "icu":"",
             "cfr":2.29,
-            "percentConfirmed":"0.0005902763355900687"
+            "percentConfirmed":"0.0005928323359606887"
          },
          "iso2":"LU",
          "iso3":"LUX",
@@ -9752,13 +9752,13 @@
             "populationEstimate":625.978
          },
          "key":"",
-         "lastUpdated":"04/25/2020"
+         "lastUpdated":"04/26/2020"
       }
    ],
    "Madagascar":[
       {
          "caseData":{
-            "confirmed":123,
+            "confirmed":124,
             "deaths":0,
             "recovered":62,
             "active":"",
@@ -9779,7 +9779,7 @@
             "populationEstimate":27787.018
          },
          "key":"",
-         "lastUpdated":"04/25/2020"
+         "lastUpdated":"04/26/2020"
       }
    ],
    "Malawi":[
@@ -9806,7 +9806,7 @@
             "populationEstimate":19225.952
          },
          "key":"",
-         "lastUpdated":"04/25/2020"
+         "lastUpdated":"04/26/2020"
       }
    ],
    "Malaysia":[
@@ -9820,7 +9820,7 @@
             "hospitalized":"",
             "icu":"",
             "cfr":1.71,
-            "percentConfirmed":"0.000017583266933920376"
+            "percentConfirmed":"0.000017740839700328733"
          },
          "iso2":"MY",
          "iso3":"MYS",
@@ -9833,7 +9833,7 @@
             "populationEstimate":32461.999
          },
          "key":"",
-         "lastUpdated":"04/25/2020"
+         "lastUpdated":"04/26/2020"
       }
    ],
    "Maldives":[
@@ -9846,7 +9846,7 @@
             "tested":"",
             "hospitalized":"",
             "icu":"",
-            "percentConfirmed":"0.000023679848448969927",
+            "percentConfirmed":"0.000025344837793038123",
             "cfr":0
          },
          "iso2":"MV",
@@ -9860,21 +9860,21 @@
             "populationEstimate":540.544
          },
          "key":"",
-         "lastUpdated":"04/25/2020"
+         "lastUpdated":"04/26/2020"
       }
    ],
    "Mali":[
       {
          "caseData":{
             "confirmed":370,
-            "deaths":21,
+            "deaths":25,
             "recovered":91,
             "active":"",
             "tested":"",
             "hospitalized":"",
             "icu":"",
-            "cfr":5.68,
-            "percentConfirmed":"0.0000016048722538969136"
+            "cfr":6.76,
+            "percentConfirmed":"0.0000018270853352057173"
          },
          "iso2":"ML",
          "iso3":"MLI",
@@ -9887,7 +9887,7 @@
             "populationEstimate":20346.833
          },
          "key":"",
-         "lastUpdated":"04/25/2020"
+         "lastUpdated":"04/26/2020"
       }
    ],
    "Malta":[
@@ -9901,7 +9901,7 @@
             "hospitalized":"",
             "icu":"",
             "cfr":0.89,
-            "percentConfirmed":"0.00010123589321991289"
+            "percentConfirmed":"0.00010146237172823485"
          },
          "iso2":"MT",
          "iso3":"MLT",
@@ -9914,7 +9914,7 @@
             "populationEstimate":441.543
          },
          "key":"",
-         "lastUpdated":"04/25/2020"
+         "lastUpdated":"04/26/2020"
       }
    ],
    "Mauritania":[
@@ -9941,7 +9941,7 @@
             "populationEstimate":4649.658
          },
          "key":"",
-         "lastUpdated":"04/25/2020"
+         "lastUpdated":"04/26/2020"
       }
    ],
    "Mauritius":[
@@ -9968,7 +9968,7 @@
             "populationEstimate":1271.768
          },
          "key":"",
-         "lastUpdated":"04/25/2020"
+         "lastUpdated":"04/26/2020"
       }
    ],
    "Mexico":[
@@ -9982,7 +9982,7 @@
             "hospitalized":"",
             "icu":"",
             "cfr":9.43,
-            "percentConfirmed":"0.000009983498917455054"
+            "percentConfirmed":"0.000010735829087586457"
          },
          "iso2":"MX",
          "iso3":"MEX",
@@ -9995,7 +9995,7 @@
             "populationEstimate":129316.753
          },
          "key":"",
-         "lastUpdated":"04/25/2020"
+         "lastUpdated":"04/26/2020"
       }
    ],
    "Moldova":[
@@ -10009,7 +10009,7 @@
             "hospitalized":"",
             "icu":"",
             "cfr":2.85,
-            "percentConfirmed":"0.00007709540221365441"
+            "percentConfirmed":"0.00008190456878260906"
          },
          "iso2":"MD",
          "iso3":"MDA",
@@ -10022,7 +10022,7 @@
             "populationEstimate":4033.963
          },
          "key":"",
-         "lastUpdated":"04/25/2020"
+         "lastUpdated":"04/26/2020"
       }
    ],
    "Monaco":[
@@ -10049,20 +10049,20 @@
             "populationEstimate":39.242
          },
          "key":"",
-         "lastUpdated":"04/25/2020"
+         "lastUpdated":"04/26/2020"
       }
    ],
    "Mongolia":[
       {
          "caseData":{
-            "confirmed":37,
+            "confirmed":38,
             "deaths":0,
             "recovered":9,
             "active":"",
             "tested":"",
             "hospitalized":"",
             "icu":"",
-            "percentConfirmed":"0.000001098133478124266",
+            "percentConfirmed":"0.0000011591408935756142",
             "cfr":0
          },
          "iso2":"MN",
@@ -10076,7 +10076,7 @@
             "populationEstimate":3278.29
          },
          "key":"",
-         "lastUpdated":"04/25/2020"
+         "lastUpdated":"04/26/2020"
       }
    ],
    "Montenegro":[
@@ -10090,7 +10090,7 @@
             "hospitalized":"",
             "icu":"",
             "cfr":1.88,
-            "percentConfirmed":"0.0000507908404530734"
+            "percentConfirmed":"0.00005095005938866297"
          },
          "iso2":"ME",
          "iso3":"MNE",
@@ -10103,19 +10103,20 @@
             "populationEstimate":628.066
          },
          "key":"",
-         "lastUpdated":"04/25/2020"
+         "lastUpdated":"04/26/2020"
       }
    ],
    "Montserrat":[
       {
          "caseData":{
             "confirmed":11,
-            "deaths":0,
+            "deaths":1,
             "recovered":"",
             "active":"",
             "tested":"",
             "hospitalized":"",
             "icu":"",
+            "cfr":9.09,
             "percentConfirmed":"0.00022035256410256408"
          },
          "iso2":"MS",
@@ -10129,7 +10130,7 @@
             "populationEstimate":4.992
          },
          "key":"",
-         "lastUpdated":"04/25/2020"
+         "lastUpdated":"04/26/2020"
       }
    ],
    "Morocco":[
@@ -10143,7 +10144,7 @@
             "hospitalized":"",
             "icu":"",
             "cfr":4.08,
-            "percentConfirmed":"0.000010181368150469675"
+            "percentConfirmed":"0.00001055795414645565"
          },
          "iso2":"MA",
          "iso3":"MAR",
@@ -10156,7 +10157,7 @@
             "populationEstimate":37006.56
          },
          "key":"",
-         "lastUpdated":"04/25/2020"
+         "lastUpdated":"04/26/2020"
       }
    ],
    "Mozambique":[
@@ -10183,7 +10184,7 @@
             "populationEstimate":31351.435
          },
          "key":"",
-         "lastUpdated":"04/25/2020"
+         "lastUpdated":"04/26/2020"
       }
    ],
    "Myanmar":[
@@ -10210,7 +10211,7 @@
             "populationEstimate":54505.8
          },
          "key":"",
-         "lastUpdated":"04/25/2020"
+         "lastUpdated":"04/26/2020"
       }
    ],
    "Namibia":[
@@ -10237,7 +10238,7 @@
             "populationEstimate":2540.905
          },
          "key":"",
-         "lastUpdated":"04/25/2020"
+         "lastUpdated":"04/26/2020"
       }
    ],
    "Nepal":[
@@ -10264,7 +10265,7 @@
             "populationEstimate":29232.808
          },
          "key":"",
-         "lastUpdated":"04/25/2020"
+         "lastUpdated":"04/26/2020"
       }
    ],
    "Netherlands":[
@@ -10278,7 +10279,7 @@
             "hospitalized":"",
             "icu":"",
             "cfr":11.86,
-            "percentConfirmed":"0.00021322015127979945"
+            "percentConfirmed":"0.00021704276518669062"
          },
          "iso2":"NL",
          "iso3":"NLD",
@@ -10291,7 +10292,7 @@
             "populationEstimate":17134.872
          },
          "key":"",
-         "lastUpdated":"04/25/2020"
+         "lastUpdated":"04/26/2020"
       },
       {
          "caseData":{
@@ -10409,7 +10410,7 @@
             "populationEstimate":285.498
          },
          "key":"",
-         "lastUpdated":"04/25/2020"
+         "lastUpdated":"04/26/2020"
       }
    ],
    "New Zealand":[
@@ -10423,7 +10424,7 @@
             "hospitalized":"",
             "icu":"",
             "cfr":1.22,
-            "percentConfirmed":"0.00002316354269899443"
+            "percentConfirmed":"0.000023246491822356987"
          },
          "iso2":"NZ",
          "iso3":"NZL",
@@ -10436,7 +10437,7 @@
             "populationEstimate":4822.233
          },
          "key":"",
-         "lastUpdated":"04/25/2020"
+         "lastUpdated":"04/26/2020"
       }
    ],
    "Nicaragua":[
@@ -10463,7 +10464,7 @@
             "populationEstimate":6624.554
          },
          "key":"",
-         "lastUpdated":"04/25/2020"
+         "lastUpdated":"04/26/2020"
       }
    ],
    "Niger":[
@@ -10477,7 +10478,7 @@
             "hospitalized":"",
             "icu":"",
             "cfr":3.95,
-            "percentConfirmed":"0.0000028132772143052956"
+            "percentConfirmed":"0.0000028256705059982706"
          },
          "iso2":"NE",
          "iso3":"NER",
@@ -10490,7 +10491,7 @@
             "populationEstimate":24302.644
          },
          "key":"",
-         "lastUpdated":"04/25/2020"
+         "lastUpdated":"04/26/2020"
       }
    ],
    "Nigeria":[
@@ -10517,7 +10518,7 @@
             "populationEstimate":206715.589
          },
          "key":"",
-         "lastUpdated":"04/25/2020"
+         "lastUpdated":"04/26/2020"
       }
    ],
    "North Macedonia":[
@@ -10531,7 +10532,7 @@
             "hospitalized":"",
             "icu":"",
             "cfr":4.32,
-            "percentConfirmed":"0.00006364675761529135"
+            "percentConfirmed":"0.0000656147192006812"
          },
          "iso2":"MK",
          "iso3":"MKD",
@@ -10544,7 +10545,7 @@
             "populationEstimate":2083.374
          },
          "key":"",
-         "lastUpdated":"04/25/2020"
+         "lastUpdated":"04/26/2020"
       }
    ],
    "Northern Mariana Islands":[
@@ -10578,7 +10579,7 @@
             }
          },
          "key":"",
-         "lastUpdated":"04/25/2020"
+         "lastUpdated":"04/26/2020"
       }
    ],
    "Norway":[
@@ -10592,7 +10593,7 @@
             "hospitalized":"",
             "icu":"",
             "cfr":2.68,
-            "percentConfirmed":"0.00013664767900928957"
+            "percentConfirmed":"0.00013773599070766268"
          },
          "iso2":"NO",
          "iso3":"NOR",
@@ -10605,7 +10606,7 @@
             "populationEstimate":5421.241
          },
          "key":"",
-         "lastUpdated":"04/25/2020"
+         "lastUpdated":"04/26/2020"
       }
    ],
    "Oman":[
@@ -10619,7 +10620,7 @@
             "hospitalized":"",
             "icu":"",
             "cfr":0.52,
-            "percentConfirmed":"0.000035052498459844136"
+            "percentConfirmed":"0.000037304474617878806"
          },
          "iso2":"OM",
          "iso3":"OMN",
@@ -10632,7 +10633,7 @@
             "populationEstimate":5106.626
          },
          "key":"",
-         "lastUpdated":"04/25/2020"
+         "lastUpdated":"04/26/2020"
       }
    ],
    "Pakistan":[
@@ -10646,7 +10647,7 @@
             "hospitalized":"",
             "icu":"",
             "cfr":2.11,
-            "percentConfirmed":"0.000005405348143806164"
+            "percentConfirmed":"0.000005759819466804508"
          },
          "iso2":"PK",
          "iso3":"PAK",
@@ -10659,7 +10660,7 @@
             "populationEstimate":221468.34
          },
          "key":"",
-         "lastUpdated":"04/25/2020"
+         "lastUpdated":"04/26/2020"
       }
    ],
    "Palestinian territories":[
@@ -10673,7 +10674,7 @@
             "hospitalized":"",
             "icu":"",
             "cfr":0.58,
-            "percentConfirmed":"0.000006664818812980088"
+            "percentConfirmed":"0.0000067040236295270296"
          },
          "iso2":"PS",
          "iso3":"PSE",
@@ -10686,7 +10687,7 @@
             "populationEstimate":5101.414
          },
          "key":"",
-         "lastUpdated":"04/25/2020"
+         "lastUpdated":"04/26/2020"
       }
    ],
    "Panama":[
@@ -10700,7 +10701,7 @@
             "hospitalized":"",
             "icu":"",
             "cfr":2.87,
-            "percentConfirmed":"0.00012371467567078362"
+            "percentConfirmed":"0.00012834992016950162"
          },
          "iso2":"PA",
          "iso3":"PAN",
@@ -10713,7 +10714,7 @@
             "populationEstimate":4314.767
          },
          "key":"",
-         "lastUpdated":"04/25/2020"
+         "lastUpdated":"04/26/2020"
       }
    ],
    "Papua New Guinea":[
@@ -10740,7 +10741,7 @@
             "populationEstimate":8947.024
          },
          "key":"",
-         "lastUpdated":"04/25/2020"
+         "lastUpdated":"04/26/2020"
       }
    ],
    "Paraguay":[
@@ -10754,7 +10755,7 @@
             "hospitalized":"",
             "icu":"",
             "cfr":3.95,
-            "percentConfirmed":"0.000003126516816314193"
+            "percentConfirmed":"0.0000031966180902225827"
          },
          "iso2":"PY",
          "iso3":"PRY",
@@ -10767,7 +10768,7 @@
             "populationEstimate":7132.538
          },
          "key":"",
-         "lastUpdated":"04/25/2020"
+         "lastUpdated":"04/26/2020"
       }
    ],
    "Peru":[
@@ -10781,7 +10782,7 @@
             "hospitalized":"",
             "icu":"",
             "cfr":2.76,
-            "percentConfirmed":"0.00006565599859807701"
+            "percentConfirmed":"0.00007682613176680935"
          },
          "iso2":"PE",
          "iso3":"PER",
@@ -10794,7 +10795,7 @@
             "populationEstimate":33067.854
          },
          "key":"",
-         "lastUpdated":"04/25/2020"
+         "lastUpdated":"04/26/2020"
       }
    ],
    "Philippines":[
@@ -10808,7 +10809,7 @@
             "hospitalized":"",
             "icu":"",
             "cfr":6.77,
-            "percentConfirmed":"0.000006563176901764007"
+            "percentConfirmed":"0.000006656258665387467"
          },
          "iso2":"PH",
          "iso3":"PHL",
@@ -10821,7 +10822,7 @@
             "populationEstimate":109869.078
          },
          "key":"",
-         "lastUpdated":"04/25/2020"
+         "lastUpdated":"04/26/2020"
       }
    ],
    "Poland":[
@@ -10835,7 +10836,7 @@
             "hospitalized":"",
             "icu":"",
             "cfr":4.65,
-            "percentConfirmed":"0.000028779327163533878"
+            "percentConfirmed":"0.00002978602232046616"
          },
          "iso2":"PL",
          "iso3":"POL",
@@ -10848,7 +10849,7 @@
             "populationEstimate":37942.611
          },
          "key":"",
-         "lastUpdated":"04/25/2020"
+         "lastUpdated":"04/26/2020"
       }
    ],
    "Portugal":[
@@ -10862,7 +10863,7 @@
             "hospitalized":"",
             "icu":"",
             "cfr":3.76,
-            "percentConfirmed":"0.0002235721348917577"
+            "percentConfirmed":"0.00022940735094038674"
          },
          "iso2":"PT",
          "iso3":"PRT",
@@ -10875,7 +10876,7 @@
             "populationEstimate":10196.709
          },
          "key":"",
-         "lastUpdated":"04/25/2020"
+         "lastUpdated":"04/26/2020"
       }
    ],
    "Puerto Rico":[
@@ -10902,7 +10903,7 @@
             "populationEstimate":2860.853
          },
          "key":"",
-         "lastUpdated":"04/25/2020"
+         "lastUpdated":"04/26/2020"
       }
    ],
    "Qatar":[
@@ -10916,7 +10917,7 @@
             "hospitalized":"",
             "icu":"",
             "cfr":0.11,
-            "percentConfirmed":"0.00029589875646161314"
+            "percentConfirmed":"0.0003248117962425544"
          },
          "iso2":"QA",
          "iso3":"QAT",
@@ -10929,7 +10930,7 @@
             "populationEstimate":2881.053
          },
          "key":"",
-         "lastUpdated":"04/25/2020"
+         "lastUpdated":"04/26/2020"
       }
    ],
    "Romania":[
@@ -10943,7 +10944,7 @@
             "hospitalized":"",
             "icu":"",
             "cfr":5.65,
-            "percentConfirmed":"0.00005414891007449907"
+            "percentConfirmed":"0.00005528210220239009"
          },
          "iso2":"RO",
          "iso3":"ROU",
@@ -10956,7 +10957,7 @@
             "populationEstimate":19333.691
          },
          "key":"",
-         "lastUpdated":"04/25/2020"
+         "lastUpdated":"04/26/2020"
       }
    ],
    "Russia":[
@@ -10970,7 +10971,7 @@
             "hospitalized":"",
             "icu":"",
             "cfr":0.91,
-            "percentConfirmed":"0.000047022477802398725"
+            "percentConfirmed":"0.00005111061429753309"
          },
          "iso2":"RU",
          "iso3":"RUS",
@@ -10983,7 +10984,7 @@
             "populationEstimate":146318.462
          },
          "key":"",
-         "lastUpdated":"04/25/2020"
+         "lastUpdated":"04/26/2020"
       }
    ],
    "Rwanda":[
@@ -10996,7 +10997,7 @@
             "tested":"",
             "hospitalized":"",
             "icu":"",
-            "percentConfirmed":"0.000001358840624825802",
+            "percentConfirmed":"0.0000014128854224041011",
             "cfr":0
          },
          "iso2":"RW",
@@ -11010,7 +11011,7 @@
             "populationEstimate":12952.218
          },
          "key":"",
-         "lastUpdated":"04/25/2020"
+         "lastUpdated":"04/26/2020"
       }
    ],
    "Saint Kitts and Nevis":[
@@ -11037,7 +11038,7 @@
             "populationEstimate":53.199
          },
          "key":"",
-         "lastUpdated":"04/25/2020"
+         "lastUpdated":"04/26/2020"
       }
    ],
    "Saint Lucia":[
@@ -11064,7 +11065,7 @@
             "populationEstimate":183.627
          },
          "key":"",
-         "lastUpdated":"04/25/2020"
+         "lastUpdated":"04/26/2020"
       }
    ],
    "Saint Vincent and the Grenadines":[
@@ -11091,7 +11092,7 @@
             "populationEstimate":110.94
          },
          "key":"",
-         "lastUpdated":"04/25/2020"
+         "lastUpdated":"04/26/2020"
       }
    ],
    "San Marino":[
@@ -11118,7 +11119,7 @@
             "populationEstimate":33.931
          },
          "key":"",
-         "lastUpdated":"04/25/2020"
+         "lastUpdated":"04/26/2020"
       }
    ],
    "Sao Tome and Principe":[
@@ -11145,7 +11146,7 @@
             "populationEstimate":219.159
          },
          "key":"",
-         "lastUpdated":"04/25/2020"
+         "lastUpdated":"04/26/2020"
       }
    ],
    "Saudi Arabia":[
@@ -11159,7 +11160,7 @@
             "hospitalized":"",
             "icu":"",
             "cfr":0.83,
-            "percentConfirmed":"0.00004337926109969213"
+            "percentConfirmed":"0.00004681754579948895"
          },
          "iso2":"SA",
          "iso3":"SAU",
@@ -11172,7 +11173,7 @@
             "populationEstimate":34909.871
          },
          "key":"",
-         "lastUpdated":"04/25/2020"
+         "lastUpdated":"04/26/2020"
       }
    ],
    "Senegal":[
@@ -11186,7 +11187,7 @@
             "hospitalized":"",
             "icu":"",
             "cfr":1.14,
-            "percentConfirmed":"0.0000032549114673039363"
+            "percentConfirmed":"0.0000036670011760084714"
          },
          "iso2":"SN",
          "iso3":"SEN",
@@ -11199,21 +11200,21 @@
             "populationEstimate":16743.927
          },
          "key":"",
-         "lastUpdated":"04/25/2020"
+         "lastUpdated":"04/26/2020"
       }
    ],
    "Serbia":[
       {
          "caseData":{
-            "confirmed":7483,
-            "deaths":144,
+            "confirmed":7779,
+            "deaths":151,
             "recovered":870,
             "active":"",
             "tested":"",
             "hospitalized":"",
             "icu":"",
-            "cfr":1.92,
-            "percentConfirmed":"0.00008564361064672656"
+            "cfr":1.94,
+            "percentConfirmed":"0.00008903135737282988"
          },
          "iso2":"RS",
          "iso3":"SRB",
@@ -11226,7 +11227,7 @@
             "populationEstimate":8737.371
          },
          "key":"",
-         "lastUpdated":"04/25/2020"
+         "lastUpdated":"04/26/2020"
       }
    ],
    "Seychelles":[
@@ -11253,7 +11254,7 @@
             "populationEstimate":98.347
          },
          "key":"",
-         "lastUpdated":"04/25/2020"
+         "lastUpdated":"04/26/2020"
       }
    ],
    "Sierra Leone":[
@@ -11280,7 +11281,7 @@
             "populationEstimate":7976.983
          },
          "key":"",
-         "lastUpdated":"04/25/2020"
+         "lastUpdated":"04/26/2020"
       }
    ],
    "Singapore":[
@@ -11294,7 +11295,7 @@
             "hospitalized":"",
             "icu":"",
             "cfr":0.09,
-            "percentConfirmed":"0.00019106575307905075"
+            "percentConfirmed":"0.00021696167506104772"
          },
          "iso2":"SG",
          "iso3":"SGP",
@@ -11307,7 +11308,7 @@
             "populationEstimate":5850.342
          },
          "key":"",
-         "lastUpdated":"04/25/2020"
+         "lastUpdated":"04/26/2020"
       }
    ],
    "Sint Maarten":[
@@ -11334,7 +11335,7 @@
             "populationEstimate":42.876
          },
          "key":"",
-         "lastUpdated":"04/25/2020"
+         "lastUpdated":"04/26/2020"
       }
    ],
    "Slovakia":[
@@ -11348,7 +11349,7 @@
             "hospitalized":"",
             "icu":"",
             "cfr":1.24,
-            "percentConfirmed":"0.00002491005820528159"
+            "percentConfirmed":"0.000025148169055773257"
          },
          "iso2":"SK",
          "iso3":"SVK",
@@ -11361,7 +11362,7 @@
             "populationEstimate":5459.642
          },
          "key":"",
-         "lastUpdated":"04/25/2020"
+         "lastUpdated":"04/26/2020"
       }
    ],
    "Slovenia":[
@@ -11375,7 +11376,7 @@
             "hospitalized":"",
             "icu":"",
             "cfr":5.84,
-            "percentConfirmed":"0.00006604333558768948"
+            "percentConfirmed":"0.00006676485782644792"
          },
          "iso2":"SI",
          "iso3":"SVN",
@@ -11388,7 +11389,7 @@
             "populationEstimate":2078.938
          },
          "key":"",
-         "lastUpdated":"04/25/2020"
+         "lastUpdated":"04/26/2020"
       }
    ],
    "Somalia":[
@@ -11402,7 +11403,7 @@
             "hospitalized":"",
             "icu":"",
             "cfr":4.62,
-            "percentConfirmed":"0.0000020637728460597857"
+            "percentConfirmed":"0.00000245387624988816"
          },
          "iso2":"SO",
          "iso3":"SOM",
@@ -11415,7 +11416,7 @@
             "populationEstimate":15893.222
          },
          "key":"",
-         "lastUpdated":"04/25/2020"
+         "lastUpdated":"04/26/2020"
       }
    ],
    "South Africa":[
@@ -11429,7 +11430,7 @@
             "hospitalized":"",
             "icu":"",
             "cfr":1.97,
-            "percentConfirmed":"0.000007115314804626438"
+            "percentConfirmed":"0.000007353053995965853"
          },
          "iso2":"ZA",
          "iso3":"ZAF",
@@ -11442,7 +11443,7 @@
             "populationEstimate":59500.69
          },
          "key":"",
-         "lastUpdated":"04/25/2020"
+         "lastUpdated":"04/26/2020"
       }
    ],
    "South Korea":[
@@ -11456,7 +11457,7 @@
             "hospitalized":"",
             "icu":"",
             "cfr":2.26,
-            "percentConfirmed":"0.000020905344994268976"
+            "percentConfirmed":"0.0000209248498879005"
          },
          "iso2":"KR",
          "iso3":"KOR",
@@ -11469,7 +11470,7 @@
             "populationEstimate":51365.185
          },
          "key":"",
-         "lastUpdated":"04/25/2020"
+         "lastUpdated":"04/26/2020"
       }
    ],
    "South Sudan":[
@@ -11496,7 +11497,7 @@
             "populationEstimate":11193.725
          },
          "key":"",
-         "lastUpdated":"04/25/2020"
+         "lastUpdated":"04/26/2020"
       }
    ],
    "Spain":[
@@ -11523,13 +11524,13 @@
             "populationEstimate":46850.778
          },
          "key":"",
-         "lastUpdated":"04/25/2020"
+         "lastUpdated":"04/26/2020"
       }
    ],
    "Sri Lanka":[
       {
          "caseData":{
-            "confirmed":460,
+            "confirmed":462,
             "deaths":7,
             "recovered":118,
             "active":"",
@@ -11537,7 +11538,7 @@
             "hospitalized":"",
             "icu":"",
             "cfr":1.52,
-            "percentConfirmed":"0.000001961402494315552"
+            "percentConfirmed":"0.0000021575427437471074"
          },
          "iso2":"LK",
          "iso3":"LKA",
@@ -11550,7 +11551,7 @@
             "populationEstimate":21509.249
          },
          "key":"",
-         "lastUpdated":"04/25/2020"
+         "lastUpdated":"04/26/2020"
       }
    ],
    "Sudan":[
@@ -11577,7 +11578,7 @@
             "populationEstimate":43945.26
          },
          "key":"",
-         "lastUpdated":"04/25/2020"
+         "lastUpdated":"04/26/2020"
       }
    ],
    "Suriname":[
@@ -11604,7 +11605,7 @@
             "populationEstimate":586.632
          },
          "key":"",
-         "lastUpdated":"04/25/2020"
+         "lastUpdated":"04/26/2020"
       }
    ],
    "Sweden":[
@@ -11618,7 +11619,7 @@
             "hospitalized":"",
             "icu":"",
             "cfr":12.06,
-            "percentConfirmed":"0.00017394335132309133"
+            "percentConfirmed":"0.00017998339483120803"
          },
          "iso2":"SE",
          "iso3":"SWE",
@@ -11631,7 +11632,7 @@
             "populationEstimate":10099.265
          },
          "key":"",
-         "lastUpdated":"04/25/2020"
+         "lastUpdated":"04/26/2020"
       }
    ],
    "Switzerland":[
@@ -11645,7 +11646,7 @@
             "hospitalized":"",
             "icu":"",
             "cfr":5.53,
-            "percentConfirmed":"0.0003304014895162377"
+            "percentConfirmed":"0.000332897265761578"
          },
          "iso2":"CH",
          "iso3":"CHE",
@@ -11658,7 +11659,7 @@
             "populationEstimate":8654.622
          },
          "key":"",
-         "lastUpdated":"04/25/2020"
+         "lastUpdated":"04/26/2020"
       }
    ],
    "Syria":[
@@ -11685,7 +11686,7 @@
             "populationEstimate":17500.658
          },
          "key":"",
-         "lastUpdated":"04/25/2020"
+         "lastUpdated":"04/26/2020"
       }
    ],
    "Taiwan":[
@@ -11699,7 +11700,7 @@
             "hospitalized":"",
             "icu":"",
             "cfr":1.4,
-            "percentConfirmed":"0.000001797052707597901"
+            "percentConfirmed":"0.0000018012514288773356"
          },
          "iso2":"TW",
          "iso3":"TWN",
@@ -11712,13 +11713,13 @@
             "populationEstimate":23912.775
          },
          "key":"",
-         "lastUpdated":"04/25/2020"
+         "lastUpdated":"04/26/2020"
       }
    ],
    "Thailand":[
       {
          "caseData":{
-            "confirmed":2907,
+            "confirmed":2922,
             "deaths":51,
             "recovered":2547,
             "active":"",
@@ -11726,7 +11727,7 @@
             "hospitalized":"",
             "icu":"",
             "cfr":1.75,
-            "percentConfirmed":"0.000004088826503641592"
+            "percentConfirmed":"0.00000418624773778582"
          },
          "iso2":"TH",
          "iso3":"THA",
@@ -11739,7 +11740,7 @@
             "populationEstimate":69991.978
          },
          "key":"",
-         "lastUpdated":"04/25/2020"
+         "lastUpdated":"04/26/2020"
       }
    ],
    "Timor-Leste":[
@@ -11766,7 +11767,7 @@
             "populationEstimate":1318.445
          },
          "key":"",
-         "lastUpdated":"04/25/2020"
+         "lastUpdated":"04/26/2020"
       }
    ],
    "Togo":[
@@ -11780,7 +11781,7 @@
             "hospitalized":"",
             "icu":"",
             "cfr":6.25,
-            "percentConfirmed":"0.0000010871240543832601"
+            "percentConfirmed":"0.000001159598991342144"
          },
          "iso2":"TG",
          "iso3":"TGO",
@@ -11793,7 +11794,7 @@
             "populationEstimate":8278.724
          },
          "key":"",
-         "lastUpdated":"04/25/2020"
+         "lastUpdated":"04/26/2020"
       }
    ],
    "Trinidad and Tobago":[
@@ -11820,7 +11821,7 @@
             "populationEstimate":1399.488
          },
          "key":"",
-         "lastUpdated":"04/25/2020"
+         "lastUpdated":"04/26/2020"
       }
    ],
    "Tunisia":[
@@ -11834,7 +11835,7 @@
             "hospitalized":"",
             "icu":"",
             "cfr":4.05,
-            "percentConfirmed":"0.000007801249875302689"
+            "percentConfirmed":"0.000007945090708144496"
          },
          "iso2":"TN",
          "iso3":"TUN",
@@ -11847,7 +11848,7 @@
             "populationEstimate":11818.619
          },
          "key":"",
-         "lastUpdated":"04/25/2020"
+         "lastUpdated":"04/26/2020"
       }
    ],
    "Turkey":[
@@ -11861,7 +11862,7 @@
             "hospitalized":"",
             "icu":"",
             "cfr":2.51,
-            "percentConfirmed":"0.00012439312377026887"
+            "percentConfirmed":"0.00012778538325542539"
          },
          "iso2":"TR",
          "iso3":"TUR",
@@ -11874,7 +11875,7 @@
             "populationEstimate":84531.067
          },
          "key":"",
-         "lastUpdated":"04/25/2020"
+         "lastUpdated":"04/26/2020"
       }
    ],
    "Turks and Caicos Islands":[
@@ -11901,7 +11902,7 @@
             "populationEstimate":38.717
          },
          "key":"",
-         "lastUpdated":"04/25/2020"
+         "lastUpdated":"04/26/2020"
       }
    ],
    "Uganda":[
@@ -11928,21 +11929,21 @@
             "populationEstimate":45837.007
          },
          "key":"",
-         "lastUpdated":"04/25/2020"
+         "lastUpdated":"04/26/2020"
       }
    ],
    "Ukraine":[
       {
          "caseData":{
-            "confirmed":8125,
-            "deaths":201,
+            "confirmed":8617,
+            "deaths":209,
             "recovered":782,
             "active":"",
             "tested":"",
             "hospitalized":"",
             "icu":"",
-            "cfr":2.47,
-            "percentConfirmed":"0.000018578323996001076"
+            "cfr":2.43,
+            "percentConfirmed":"0.000019703312969051233"
          },
          "iso2":"UA",
          "iso3":"UKR",
@@ -11955,7 +11956,7 @@
             "populationEstimate":43829.762
          },
          "key":"",
-         "lastUpdated":"04/25/2020"
+         "lastUpdated":"04/26/2020"
       }
    ],
    "United Arab Emirates":[
@@ -11969,7 +11970,7 @@
             "hospitalized":"",
             "icu":"",
             "cfr":0.72,
-            "percentConfirmed":"0.00009383845065144976"
+            "percentConfirmed":"0.00009921740289221813"
          },
          "iso2":"AE",
          "iso3":"ARE",
@@ -11982,7 +11983,7 @@
             "populationEstimate":9890.402
          },
          "key":"",
-         "lastUpdated":"04/25/2020"
+         "lastUpdated":"04/26/2020"
       }
    ],
    "United Kingdom":[
@@ -11996,7 +11997,7 @@
             "hospitalized":"",
             "icu":"",
             "cfr":13.69,
-            "percentConfirmed":"0.000211330726149162"
+            "percentConfirmed":"0.00021856785781683357"
          },
          "iso2":"GB",
          "iso3":"GBR",
@@ -12009,7 +12010,7 @@
             "populationEstimate":68078.011
          },
          "key":"",
-         "lastUpdated":"04/25/2020"
+         "lastUpdated":"04/26/2020"
       },
       {
          "caseData":{
@@ -12266,21 +12267,21 @@
             "populationEstimate":59926.218
          },
          "key":"",
-         "lastUpdated":"04/25/2020"
+         "lastUpdated":"04/26/2020"
       }
    ],
    "United States Virgin Islands":[
       {
          "caseData":{
-            "confirmed":54,
+            "confirmed":55,
             "deaths":3,
             "recovered":"",
             "active":"",
             "tested":"",
             "hospitalized":"",
             "icu":"",
-            "cfr":5.56,
-            "percentConfirmed":"0.00005171175484797702"
+            "cfr":5.45,
+            "percentConfirmed":"0.00005266937993775437"
          },
          "iso2":"VI",
          "iso3":"VIR",
@@ -12293,7 +12294,7 @@
             "populationEstimate":104.425
          },
          "key":"",
-         "lastUpdated":"04/25/2020"
+         "lastUpdated":"04/26/2020"
       }
    ],
    "Uruguay":[
@@ -12307,7 +12308,7 @@
             "hospitalized":"",
             "icu":"",
             "cfr":2.35,
-            "percentConfirmed":"0.00001620736211507515"
+            "percentConfirmed":"0.00001715734959251295"
          },
          "iso2":"UY",
          "iso3":"URY",
@@ -12320,13 +12321,13 @@
             "populationEstimate":3473.73
          },
          "key":"",
-         "lastUpdated":"04/25/2020"
+         "lastUpdated":"04/26/2020"
       }
    ],
    "Uzbekistan":[
       {
          "caseData":{
-            "confirmed":1862,
+            "confirmed":1865,
             "deaths":8,
             "recovered":707,
             "active":"",
@@ -12334,7 +12335,7 @@
             "hospitalized":"",
             "icu":"",
             "cfr":0.43,
-            "percentConfirmed":"0.000005485640037499548"
+            "percentConfirmed":"0.0000055722868572639745"
          },
          "iso2":"UZ",
          "iso3":"UZB",
@@ -12347,7 +12348,7 @@
             "populationEstimate":33565.203
          },
          "key":"",
-         "lastUpdated":"04/25/2020"
+         "lastUpdated":"04/26/2020"
       }
    ],
    "Venezuela":[
@@ -12361,7 +12362,7 @@
             "hospitalized":"",
             "icu":"",
             "cfr":3.1,
-            "percentConfirmed":"0.0000011183031051549552"
+            "percentConfirmed":"0.0000011358864873114799"
          },
          "iso2":"VE",
          "iso3":"VEN",
@@ -12374,7 +12375,7 @@
             "populationEstimate":28531.94
          },
          "key":"",
-         "lastUpdated":"04/25/2020"
+         "lastUpdated":"04/26/2020"
       }
    ],
    "Vietnam":[
@@ -12401,7 +12402,34 @@
             "populationEstimate":97626.579
          },
          "key":"",
-         "lastUpdated":"04/25/2020"
+         "lastUpdated":"04/26/2020"
+      }
+   ],
+   "Western Sahara":[
+      {
+         "caseData":{
+            "confirmed":6,
+            "deaths":0,
+            "recovered":5,
+            "active":"",
+            "tested":"",
+            "hospitalized":"",
+            "icu":"",
+            "percentConfirmed":"0.0000010044547568466148",
+            "cfr":0
+         },
+         "iso2":"EH",
+         "iso3":"ESH",
+         "location":{
+            "continent":"AF",
+            "country":"Western Sahara",
+            "province":"Western Sahara",
+            "jurisdiction":"",
+            "population":"597.3390",
+            "populationEstimate":597.339
+         },
+         "key":"",
+         "lastUpdated":"04/26/2020"
       }
    ],
    "Yemen":[
@@ -12428,7 +12456,7 @@
             "populationEstimate":29921.964
          },
          "key":"",
-         "lastUpdated":"04/25/2020"
+         "lastUpdated":"04/26/2020"
       }
    ],
    "Zambia":[
@@ -12455,7 +12483,7 @@
             "populationEstimate":18479.955
          },
          "key":"",
-         "lastUpdated":"04/25/2020"
+         "lastUpdated":"04/26/2020"
       }
    ],
    "Zimbabwe":[
@@ -12482,32 +12510,7 @@
             "populationEstimate":14862.924
          },
          "key":"",
-         "lastUpdated":"04/25/2020"
-      }
-   ],
-   "Western Sahara":[
-      {
-         "caseData":{
-            "confirmed":6,
-            "deaths":0,
-            "recovered":5,
-            "active":0,
-            "tested":0,
-            "hospitalized":0,
-            "icu":0,
-            "cfr":0
-         },
-         "iso2":"EH",
-         "iso3":"ESH",
-         "location":{
-            "continent":"Africa",
-            "country":"Western Sahara",
-            "province":"Western Sahara",
-            "jurisdiction":"",
-            "population":"597.3390",
-            "populationEstimate":0
-         },
-         "key":""
+         "lastUpdated":"04/26/2020"
       }
    ]
 }
