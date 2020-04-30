@@ -522,13 +522,13 @@
     {
       "caseData": {
         "confirmed": 1012583,
-        "deaths": 60967,
-        "recovered": 120720,
+        "deaths": 58355,
+        "recovered": 115936,
         "active": "",
         "tested": "",
         "hospitalized": "",
         "icu": "",
-        "cfr": 6.02,
+        "cfr": 8.74,
         "percentConfirmed": "0.000007290576050401481"
       },
       "iso2": "US",
@@ -539,7 +539,7 @@
         "province": "United States of America",
         "jurisdiction": "",
         "population": "331002.6510",
-        "populationEstimate": 332091.651
+        "populationEstimate": 332082.651
       },
       "key": "",
       "lastUpdated": "04-29-2020"
@@ -570,18 +570,18 @@
     },
     {
       "caseData": {
-        "confirmed": "7209",
+        "confirmed": "6955",
         "deaths": 0,
-        "recovered": 1475,
-        "active": 6901,
-        "tested": 68813,
-        "hospitalized": 1131,
+        "recovered": 1450,
+        "active": 6680,
+        "tested": 67438,
+        "hospitalized": 1095,
         "icu": 0,
         "spreadCommunity": "Yes, widespread",
         "cfr": 0,
-        "mortalityRate": 4.2724372312387295,
-        "testingRate": 945.4001302702111,
-        "hospitalizationRate": 15.688722430295464
+        "mortalityRate": 3.9539899352983463,
+        "testingRate": 926.5094384078952,
+        "hospitalizationRate": 15.744069015097052
       },
       "iso2": "US",
       "iso3": "USA",
@@ -590,7 +590,7 @@
         "country": "United States of America",
         "province": "Arizona",
         "jurisdiction": "",
-        "population": 7316832,
+        "population": 7316517,
         "populationEstimate": 0,
         "coord": {
           "long": "-111.4312",
@@ -598,22 +598,22 @@
         }
       },
       "key": "",
-      "lastUpdated": "2020-04-30T04:04:48.643Z"
+      "lastUpdated": "2020-04-30T02:28:58.818Z"
     },
     {
       "caseData": {
-        "confirmed": "3193",
+        "confirmed": "3127",
         "deaths": 0,
-        "recovered": 1249,
-        "active": 3136,
-        "tested": 45449,
-        "hospitalized": 389,
+        "recovered": 1146,
+        "active": 3070,
+        "tested": 40671,
+        "hospitalized": 0,
         "icu": 0,
         "spreadCommunity": "Yes, widespread",
         "cfr": 0,
-        "mortalityRate": 1.7851550266207328,
-        "testingRate": 1755.4471235719056,
-        "hospitalizationRate": 12.182900093955528
+        "mortalityRate": 1.8228333866325552,
+        "testingRate": 1570.8990288629666,
+        "hospitalizationRate": 0
       },
       "iso2": "US",
       "iso3": "USA",
@@ -622,7 +622,7 @@
         "country": "United States of America",
         "province": "Arkansas",
         "jurisdiction": "",
-        "population": 3021192,
+        "population": 3021164,
         "populationEstimate": 0,
         "coord": {
           "long": "-92.3731",
@@ -630,22 +630,22 @@
         }
       },
       "key": "",
-      "lastUpdated": "2020-04-30T04:04:48.645Z"
+      "lastUpdated": "2020-04-30T02:28:58.819Z"
     },
     {
       "caseData": {
-        "confirmed": "14758",
+        "confirmed": "14316",
         "deaths": 0,
         "recovered": 2275,
-        "active": 13992,
-        "tested": 69449,
-        "hospitalized": 2610,
+        "active": 13580,
+        "tested": 66341,
+        "hospitalized": 2485,
         "icu": 0,
         "spreadCommunity": "Yes, widespread",
         "cfr": 0,
-        "mortalityRate": 5.190405203957176,
-        "testingRate": 1225.538940494419,
-        "hospitalizationRate": 17.685323214527713
+        "mortalityRate": 5.1411008661637325,
+        "testingRate": 1170.6932979789522,
+        "hospitalizationRate": 17.35820061469684
       },
       "iso2": "US",
       "iso3": "USA",
@@ -654,7 +654,7 @@
         "country": "United States of America",
         "province": "Colorado",
         "jurisdiction": "",
-        "population": 5787050,
+        "population": 5786816,
         "populationEstimate": 0,
         "coord": {
           "long": "-105.3111",
@@ -662,7 +662,7 @@
         }
       },
       "key": "",
-      "lastUpdated": "2020-04-30T04:04:48.648Z"
+      "lastUpdated": "2020-04-30T02:28:58.820Z"
     },
     {
       "caseData": {
@@ -697,17 +697,17 @@
     },
     {
       "caseData": {
-        "confirmed": "4106",
+        "confirmed": 3994,
         "deaths": 0,
         "recovered": 660,
-        "active": 3901,
-        "tested": 19229,
+        "active": 3804,
+        "tested": 18885,
         "hospitalized": 0,
         "icu": 0,
         "spreadCommunity": "Undetermined",
         "cfr": 0,
-        "mortalityRate": 4.992693619094009,
-        "testingRate": 2724.6230600397594,
+        "mortalityRate": 4.757135703555333,
+        "testingRate": 2675.8805184279395,
         "hospitalizationRate": 0
       },
       "iso2": "US",
@@ -717,7 +717,7 @@
         "country": "United States of America",
         "province": "District of Columbia",
         "jurisdiction": "",
-        "population": 708774,
+        "population": 708749,
         "populationEstimate": 0,
         "coord": {
           "long": "-77.0268",
@@ -725,22 +725,22 @@
         }
       },
       "key": "",
-      "lastUpdated": "2020-04-30T04:04:48.650Z"
+      "lastUpdated": "2020-04-30T02:28:58.823Z"
     },
     {
       "caseData": {
         "confirmed": 91,
         "deaths": 0,
-        "recovered": 1087,
+        "recovered": 1039,
         "active": 1892,
-        "tested": 28382,
+        "tested": 20052,
         "hospitalized": 0,
         "icu": 0,
         "spreadCommunity": "Yes, widespread",
         "cfr": 0,
         "mortalityRate": 3.0737704918032787,
-        "testingRate": 1762.3131244578537,
-        "hospitalizationRate": 8.862704918032787,
+        "testingRate": 1245.081487267595,
+        "hospitalizationRate": 8.811475409836065,
         "genderInfo": {}
       },
       "iso2": "US",
@@ -750,7 +750,7 @@
         "country": "United States of America",
         "province": "Idaho",
         "jurisdiction": "",
-        "population": 1797955,
+        "population": 1797865,
         "populationEstimate": 0,
         "coord": {
           "long": "-114.4788",
@@ -758,21 +758,21 @@
         }
       },
       "key": "",
-      "lastUpdated": "2020-04-30T04:04:48.659Z"
+      "lastUpdated": "2020-04-30T02:28:58.828Z"
     },
     {
       "caseData": {
-        "confirmed": "6843",
+        "confirmed": 6376,
         "deaths": 0,
-        "recovered": 2428,
-        "active": 6695,
-        "tested": 41337,
+        "recovered": 2164,
+        "active": 6240,
+        "tested": 39823,
         "hospitalized": 0,
         "icu": 0,
         "spreadCommunity": "Yes, widespread",
         "cfr": 0,
-        "mortalityRate": 2.1627940961566563,
-        "testingRate": 1577.318844146612,
+        "mortalityRate": 2.132998745294856,
+        "testingRate": 1519.5483061289046,
         "hospitalizationRate": 0
       },
       "iso2": "US",
@@ -782,7 +782,7 @@
         "country": "United States of America",
         "province": "Iowa",
         "jurisdiction": "",
-        "population": 3158095,
+        "population": 3158070,
         "populationEstimate": 0,
         "coord": {
           "long": "-93.2105",
@@ -790,21 +790,21 @@
         }
       },
       "key": "",
-      "lastUpdated": "2020-04-30T04:04:48.662Z"
+      "lastUpdated": "2020-04-30T02:28:58.829Z"
     },
     {
       "caseData": {
-        "confirmed": "27660",
+        "confirmed": 27329,
         "deaths": 0,
         "recovered": 17303,
-        "active": 25815,
-        "tested": 156568,
+        "active": 25485,
+        "tested": 151108,
         "hospitalized": 0,
         "icu": 0,
         "spreadCommunity": "Yes, widespread",
         "cfr": 0,
-        "mortalityRate": 6.670281995661605,
-        "testingRate": 3405.676330236275,
+        "mortalityRate": 6.600454445503188,
+        "testingRate": 3286.9100896054306,
         "hospitalizationRate": 0
       },
       "iso2": "US",
@@ -814,7 +814,7 @@
         "country": "United States of America",
         "province": "Louisiana",
         "jurisdiction": "",
-        "population": 4649157,
+        "population": 4649154,
         "populationEstimate": 0,
         "coord": {
           "long": "-91.8678",
@@ -822,22 +822,22 @@
         }
       },
       "key": "",
-      "lastUpdated": "2020-04-30T04:04:48.664Z"
+      "lastUpdated": "2020-04-30T02:28:58.830Z"
     },
     {
       "caseData": {
         "confirmed": 1056,
         "deaths": 0,
-        "recovered": 615,
-        "active": 1004,
-        "tested": 20602,
-        "hospitalized": 166,
+        "recovered": 585,
+        "active": 989,
+        "tested": 17824,
+        "hospitalized": 163,
         "icu": 0,
         "spreadCommunity": "Yes, widespread",
         "cfr": 0,
-        "mortalityRate": 4.924242424242424,
-        "testingRate": 1754.8462273617001,
-        "hospitalizationRate": 15.719696969696969
+        "mortalityRate": 4.903846153846154,
+        "testingRate": 1518.2205201676993,
+        "hospitalizationRate": 15.673076923076923
       },
       "iso2": "US",
       "iso3": "USA",
@@ -846,7 +846,7 @@
         "country": "United States of America",
         "province": "Maine",
         "jurisdiction": "",
-        "population": 1345180,
+        "population": 1345172,
         "populationEstimate": 0,
         "coord": {
           "long": "-69.3819",
@@ -854,22 +854,22 @@
         }
       },
       "key": "",
-      "lastUpdated": "2020-04-30T04:04:48.665Z"
+      "lastUpdated": "2020-04-30T02:28:58.831Z"
     },
     {
       "caseData": {
         "confirmed": 20849,
         "deaths": 0,
-        "recovered": 1361,
-        "active": 19771,
-        "tested": 110929,
-        "hospitalized": 4402,
+        "recovered": 1295,
+        "active": 19097,
+        "tested": 107785,
+        "hospitalized": 4268,
         "icu": 0,
         "spreadCommunity": "Yes, widespread",
         "cfr": 0,
-        "mortalityRate": 5.170511775145091,
-        "testingRate": 1866.4436717768729,
-        "hospitalizationRate": 21.113722480694516
+        "mortalityRate": 5.051459255208075,
+        "testingRate": 1813.544079208054,
+        "hospitalizationRate": 21.220106398846518
       },
       "iso2": "US",
       "iso3": "USA",
@@ -878,7 +878,7 @@
         "country": "United States of America",
         "province": "Maryland",
         "jurisdiction": "",
-        "population": 6051609,
+        "population": 6051560,
         "populationEstimate": 0,
         "coord": {
           "long": "-76.8021",
@@ -886,22 +886,22 @@
         }
       },
       "key": "",
-      "lastUpdated": "2020-04-30T04:04:48.669Z"
+      "lastUpdated": "2020-04-30T02:28:58.832Z"
     },
     {
       "caseData": {
-        "confirmed": "60265",
+        "confirmed": 58302,
         "deaths": 0,
         "recovered": 0,
-        "active": 56860,
-        "tested": 265618,
-        "hospitalized": 5758,
+        "active": 55149,
+        "tested": 254500,
+        "hospitalized": 5515,
         "icu": 0,
         "spreadCommunity": "Yes, widespread",
         "cfr": 0,
-        "mortalityRate": 5.650045631792914,
-        "testingRate": 3869.8546513491415,
-        "hospitalizationRate": 9.554467767360823
+        "mortalityRate": 5.40804775136359,
+        "testingRate": 3707.8737463890116,
+        "hospitalizationRate": 9.45936674556619
       },
       "iso2": "US",
       "iso3": "USA",
@@ -910,7 +910,7 @@
         "country": "United States of America",
         "province": "Massachusetts",
         "jurisdiction": "",
-        "population": 6901215,
+        "population": 6901143,
         "populationEstimate": 0,
         "coord": {
           "long": "-71.5301",
@@ -918,21 +918,21 @@
         }
       },
       "key": "",
-      "lastUpdated": "2020-04-30T04:04:48.670Z"
+      "lastUpdated": "2020-04-30T02:28:58.832Z"
     },
     {
       "caseData": {
-        "confirmed": "40399",
+        "confirmed": 39262,
         "deaths": 0,
         "recovered": 8342,
-        "active": 36729,
-        "tested": 172352,
+        "active": 35694,
+        "tested": 164805,
         "hospitalized": 0,
         "icu": 0,
         "spreadCommunity": "Yes, widespread",
         "cfr": 0,
-        "mortalityRate": 9.084383276813783,
-        "testingRate": 2163.2533848843123,
+        "mortalityRate": 9.087667464724161,
+        "testingRate": 2068.528210266542,
         "hospitalizationRate": 0
       },
       "iso2": "US",
@@ -942,7 +942,7 @@
         "country": "United States of America",
         "province": "Michigan",
         "jurisdiction": "",
-        "population": 9990608,
+        "population": 9990577,
         "populationEstimate": 0,
         "coord": {
           "long": "-84.5361",
@@ -950,22 +950,22 @@
         }
       },
       "key": "",
-      "lastUpdated": "2020-04-30T04:04:48.671Z"
+      "lastUpdated": "2020-04-30T02:28:58.833Z"
     },
     {
       "caseData": {
         "confirmed": 4645,
         "deaths": 0,
-        "recovered": 2043,
-        "active": 4325,
-        "tested": 66744,
-        "hospitalized": 950,
+        "recovered": 1912,
+        "active": 3880,
+        "tested": 63829,
+        "hospitalized": 912,
         "icu": 0,
         "spreadCommunity": "Yes, widespread",
         "cfr": 0,
-        "mortalityRate": 6.869078380706288,
-        "testingRate": 1349.3324297889837,
-        "hospitalizationRate": 20.45650301464255
+        "mortalityRate": 7.199234632862951,
+        "testingRate": 1290.4012294888087,
+        "hospitalizationRate": 21.81296340588376
       },
       "iso2": "US",
       "iso3": "USA",
@@ -974,7 +974,7 @@
         "country": "United States of America",
         "province": "Minnesota",
         "jurisdiction": "",
-        "population": 5652337,
+        "population": 5652232,
         "populationEstimate": 0,
         "coord": {
           "long": "-93.9002",
@@ -982,22 +982,22 @@
         }
       },
       "key": "",
-      "lastUpdated": "2020-04-30T04:04:48.672Z"
+      "lastUpdated": "2020-04-30T02:28:58.833Z"
     },
     {
       "caseData": {
         "confirmed": 6569,
         "deaths": 0,
-        "recovered": 3413,
-        "active": 6319,
-        "tested": 66094,
-        "hospitalized": 1126,
+        "recovered": 0,
+        "active": 6103,
+        "tested": 64412,
+        "hospitalized": 1088,
         "icu": 0,
         "spreadCommunity": "Yes, widespread",
         "cfr": 0,
-        "mortalityRate": 3.8057543005023597,
-        "testingRate": 2282.87728058038,
-        "hospitalizationRate": 17.141117369462627
+        "mortalityRate": 3.7685272784610535,
+        "testingRate": 2224.7812418183717,
+        "hospitalizationRate": 17.155471460107222
       },
       "iso2": "US",
       "iso3": "USA",
@@ -1006,7 +1006,7 @@
         "country": "United States of America",
         "province": "Mississippi",
         "jurisdiction": "",
-        "population": 2975181,
+        "population": 2975189,
         "populationEstimate": 0,
         "coord": {
           "long": "-89.6787",
@@ -1014,21 +1014,21 @@
         }
       },
       "key": "",
-      "lastUpdated": "2020-04-30T04:04:48.674Z"
+      "lastUpdated": "2020-04-30T02:28:58.833Z"
     },
     {
       "caseData": {
-        "confirmed": "7660",
+        "confirmed": "7450",
         "deaths": 0,
         "recovered": 0,
-        "active": 7322,
-        "tested": 77159,
+        "active": 7120,
+        "tested": 73503,
         "hospitalized": 0,
         "icu": 0,
         "spreadCommunity": "Yes, widespread",
         "cfr": 0,
-        "mortalityRate": 4.412532637075718,
-        "testingRate": 1316.828729492977,
+        "mortalityRate": 4.429530201342282,
+        "testingRate": 1254.4338587063373,
         "hospitalizationRate": 0
       },
       "iso2": "US",
@@ -1038,7 +1038,7 @@
         "country": "United States of America",
         "province": "Missouri",
         "jurisdiction": "",
-        "population": 6142873,
+        "population": 6142828,
         "populationEstimate": 0,
         "coord": {
           "long": "-92.2884",
@@ -1046,21 +1046,21 @@
         }
       },
       "key": "",
-      "lastUpdated": "2020-04-30T04:04:48.675Z"
+      "lastUpdated": "2020-04-30T02:28:58.834Z"
     },
     {
       "caseData": {
         "confirmed": 451,
         "deaths": 0,
-        "recovered": 382,
-        "active": 435,
-        "tested": 13528,
+        "recovered": 356,
+        "active": 436,
+        "tested": 13191,
         "hospitalized": 61,
         "icu": 0,
         "spreadCommunity": "Yes, defined area(s)",
         "cfr": 0,
-        "mortalityRate": 3.5476718403547673,
-        "testingRate": 1562.1481615774833,
+        "mortalityRate": 3.3259423503325944,
+        "testingRate": 1523.2330277475296,
         "hospitalizationRate": 13.52549889135255
       },
       "iso2": "US",
@@ -1070,7 +1070,7 @@
         "country": "United States of America",
         "province": "Montana",
         "jurisdiction": "",
-        "population": 1071924,
+        "population": 1071898,
         "populationEstimate": 0,
         "coord": {
           "long": "-110.4544",
@@ -1078,21 +1078,21 @@
         }
       },
       "key": "",
-      "lastUpdated": "2020-04-30T04:04:48.676Z"
+      "lastUpdated": "2020-04-30T02:28:58.837Z"
     },
     {
       "caseData": {
-        "confirmed": "3851",
+        "confirmed": "3517",
         "deaths": 0,
         "recovered": 0,
-        "active": 3795,
-        "tested": 23631,
+        "active": 3461,
+        "tested": 23605,
         "hospitalized": 0,
         "icu": 0,
         "spreadCommunity": "Yes, widespread",
         "cfr": 0,
-        "mortalityRate": 1.4541677486367177,
-        "testingRate": 1549.2974367850456,
+        "mortalityRate": 1.592266135911288,
+        "testingRate": 1547.592822788329,
         "hospitalizationRate": 0
       },
       "iso2": "US",
@@ -1102,7 +1102,7 @@
         "country": "United States of America",
         "province": "Nebraska",
         "jurisdiction": "",
-        "population": 1938159,
+        "population": 1938128,
         "populationEstimate": 0,
         "coord": {
           "long": "-98.2681",
@@ -1110,21 +1110,21 @@
         }
       },
       "key": "",
-      "lastUpdated": "2020-04-30T04:04:48.676Z"
+      "lastUpdated": "2020-04-30T02:28:58.838Z"
     },
     {
       "caseData": {
-        "confirmed": "4934",
+        "confirmed": "4821",
         "deaths": 0,
-        "recovered": 100,
-        "active": 4704,
-        "tested": 41028,
+        "recovered": 0,
+        "active": 4602,
+        "tested": 40119,
         "hospitalized": 0,
         "icu": 0,
         "spreadCommunity": "Yes, widespread",
         "cfr": 0,
-        "mortalityRate": 4.661532225374949,
-        "testingRate": 1360.0305234499851,
+        "mortalityRate": 4.542626011200996,
+        "testingRate": 1329.898229752607,
         "hospitalizationRate": 0
       },
       "iso2": "US",
@@ -1134,7 +1134,7 @@
         "country": "United States of America",
         "province": "Nevada",
         "jurisdiction": "",
-        "population": 3098548,
+        "population": 3098396,
         "populationEstimate": 0,
         "coord": {
           "long": "-117.0554",
@@ -1142,22 +1142,22 @@
         }
       },
       "key": "",
-      "lastUpdated": "2020-04-30T04:04:48.677Z"
+      "lastUpdated": "2020-04-30T02:28:58.839Z"
     },
     {
       "caseData": {
-        "confirmed": "2058",
+        "confirmed": 2010,
         "deaths": 0,
-        "recovered": 936,
-        "active": 1998,
-        "tested": 20746,
-        "hospitalized": 249,
+        "recovered": 798,
+        "active": 1950,
+        "tested": 20145,
+        "hospitalized": 246,
         "icu": 0,
         "spreadCommunity": "Yes, widespread",
         "cfr": 0,
-        "mortalityRate": 2.9154518950437316,
-        "testingRate": 1562.0247141131863,
-        "hospitalizationRate": 12.099125364431487
+        "mortalityRate": 2.985074626865672,
+        "testingRate": 1516.773733047823,
+        "hospitalizationRate": 12.238805970149254
       },
       "iso2": "US",
       "iso3": "USA",
@@ -1166,7 +1166,7 @@
         "country": "United States of America",
         "province": "New Hampshire",
         "jurisdiction": "",
-        "population": 1361526,
+        "population": 1361511,
         "populationEstimate": 0,
         "coord": {
           "long": "-71.5639",
@@ -1174,21 +1174,21 @@
         }
       },
       "key": "",
-      "lastUpdated": "2020-04-30T04:04:48.680Z"
+      "lastUpdated": "2020-04-30T02:28:58.840Z"
     },
     {
       "caseData": {
-        "confirmed": "116365",
+        "confirmed": 113856,
         "deaths": 0,
         "recovered": 15642,
-        "active": 109594,
-        "tested": 241318,
+        "active": 107414,
+        "tested": 234359,
         "hospitalized": 0,
         "icu": 0,
         "spreadCommunity": "Yes, widespread",
         "cfr": 0,
-        "mortalityRate": 5.8187599364069955,
-        "testingRate": 2716.875004925587,
+        "mortalityRate": 5.658024170882518,
+        "testingRate": 2638.527210068688,
         "hospitalizationRate": 0
       },
       "iso2": "US",
@@ -1198,7 +1198,7 @@
         "country": "United States of America",
         "province": "New Jersey",
         "jurisdiction": "",
-        "population": 8883400,
+        "population": 8883390,
         "populationEstimate": 0,
         "coord": {
           "long": "-74.521",
@@ -1206,22 +1206,22 @@
         }
       },
       "key": "",
-      "lastUpdated": "2020-04-30T04:04:48.682Z"
+      "lastUpdated": "2020-04-30T02:28:58.842Z"
     },
     {
       "caseData": {
-        "confirmed": "3213",
+        "confirmed": 2974,
         "deaths": 0,
-        "recovered": 705,
-        "active": 3101,
-        "tested": 61745,
-        "hospitalized": 509,
+        "recovered": 666,
+        "active": 2869,
+        "tested": 58803,
+        "hospitalized": 481,
         "icu": 0,
         "spreadCommunity": "Yes, widespread",
         "cfr": 0,
-        "mortalityRate": 3.485838779956427,
-        "testingRate": 3702.775297400411,
-        "hospitalizationRate": 15.841892312480548
+        "mortalityRate": 3.5305985205110963,
+        "testingRate": 3526.347004826891,
+        "hospitalizationRate": 16.17350369872226
       },
       "iso2": "US",
       "iso3": "USA",
@@ -1230,7 +1230,7 @@
         "country": "United States of America",
         "province": "New Mexico",
         "jurisdiction": "",
-        "population": 2097313,
+        "population": 2097309,
         "populationEstimate": 0,
         "coord": {
           "long": "-106.2485",
@@ -1238,22 +1238,22 @@
         }
       },
       "key": "",
-      "lastUpdated": "2020-04-30T04:04:48.682Z"
+      "lastUpdated": "2020-04-30T02:28:58.843Z"
     },
     {
       "caseData": {
-        "confirmed": "299691",
+        "confirmed": "295106",
         "deaths": 0,
-        "recovered": 53238,
-        "active": 276214,
-        "tested": 872481,
-        "hospitalized": 65397,
+        "recovered": 51630,
+        "active": 272194,
+        "tested": 844994,
+        "hospitalized": 64275,
         "icu": 0,
         "spreadCommunity": "Yes, widespread",
         "cfr": 0,
-        "mortalityRate": 7.833735414143234,
-        "testingRate": 5174.543066035428,
-        "hospitalizationRate": 21.821476120404014
+        "mortalityRate": 7.763989888379091,
+        "testingRate": 5011.522134627046,
+        "hospitalizationRate": 21.780309448130502
       },
       "iso2": "US",
       "iso3": "USA",
@@ -1262,7 +1262,7 @@
         "country": "United States of America",
         "province": "New York",
         "jurisdiction": "",
-        "population": 19440493,
+        "population": 19440601,
         "populationEstimate": 0,
         "coord": {
           "long": "-74.9481",
@@ -1270,21 +1270,21 @@
         }
       },
       "key": "",
-      "lastUpdated": "2020-04-30T04:04:48.683Z"
+      "lastUpdated": "2020-04-30T02:28:58.844Z"
     },
     {
       "caseData": {
-        "confirmed": "10180",
+        "confirmed": "9755",
         "deaths": 0,
         "recovered": 0,
-        "active": 9798,
-        "tested": 118440,
+        "active": 9392,
+        "tested": 112752,
         "hospitalized": 0,
         "icu": 0,
         "spreadCommunity": "Yes, widespread",
         "cfr": 0,
-        "mortalityRate": 3.7524557956777995,
-        "testingRate": 1194.2074285066105,
+        "mortalityRate": 3.7211686314710404,
+        "testingRate": 1136.8564334597886,
         "hospitalizationRate": 0
       },
       "iso2": "US",
@@ -1294,7 +1294,7 @@
         "country": "United States of America",
         "province": "North Carolina",
         "jurisdiction": "",
-        "population": 10526078,
+        "population": 10525764,
         "populationEstimate": 0,
         "coord": {
           "long": "-79.8064",
@@ -1302,22 +1302,22 @@
         }
       },
       "key": "",
-      "lastUpdated": "2020-04-30T04:04:48.684Z"
+      "lastUpdated": "2020-04-30T02:28:58.845Z"
     },
     {
       "caseData": {
-        "confirmed": "1033",
+        "confirmed": 991,
         "deaths": 0,
-        "recovered": 437,
-        "active": 1014,
-        "tested": 25536,
-        "hospitalized": 82,
+        "recovered": 409,
+        "active": 972,
+        "tested": 23723,
+        "hospitalized": 79,
         "icu": 0,
         "spreadCommunity": "Yes, defined area(s)",
         "cfr": 0,
-        "mortalityRate": 1.8393030009680542,
-        "testingRate": 4210.956798775762,
-        "hospitalizationRate": 7.938044530493707
+        "mortalityRate": 1.917255297679112,
+        "testingRate": 3911.9881006170663,
+        "hospitalizationRate": 7.971745711402623
       },
       "iso2": "US",
       "iso3": "USA",
@@ -1326,7 +1326,7 @@
         "country": "United States of America",
         "province": "North Dakota",
         "jurisdiction": "",
-        "population": 763756,
+        "population": 763742,
         "populationEstimate": 0,
         "coord": {
           "long": "-99.78399999999999",
@@ -1334,22 +1334,22 @@
         }
       },
       "key": "",
-      "lastUpdated": "2020-04-30T04:04:48.685Z"
+      "lastUpdated": "2020-04-30T02:28:58.847Z"
     },
     {
       "caseData": {
-        "confirmed": "17303",
+        "confirmed": 16769,
         "deaths": 0,
         "recovered": 0,
-        "active": 16366,
-        "tested": 128908,
-        "hospitalized": 3421,
+        "active": 15970,
+        "tested": 122706,
+        "hospitalized": 3340,
         "icu": 0,
         "spreadCommunity": "Yes, defined area(s)",
         "cfr": 0,
-        "mortalityRate": 5.41524591111368,
-        "testingRate": 1153.6568383709837,
-        "hospitalizationRate": 19.771137952956135
+        "mortalityRate": 4.764744468960582,
+        "testingRate": 1098.1522947307376,
+        "hospitalizationRate": 19.91770528952233
       },
       "iso2": "US",
       "iso3": "USA",
@@ -1358,7 +1358,7 @@
         "country": "United States of America",
         "province": "Ohio",
         "jurisdiction": "",
-        "population": 11694908,
+        "population": 11694860,
         "populationEstimate": 0,
         "coord": {
           "long": "-82.7649",
@@ -1366,22 +1366,22 @@
         }
       },
       "key": "",
-      "lastUpdated": "2020-04-30T04:04:48.687Z"
+      "lastUpdated": "2020-04-30T02:28:58.848Z"
     },
     {
       "caseData": {
-        "confirmed": "3473",
+        "confirmed": 3410,
         "deaths": 0,
-        "recovered": 2319,
-        "active": 3259,
-        "tested": 61267,
-        "hospitalized": 693,
+        "recovered": 2260,
+        "active": 3203,
+        "tested": 59699,
+        "hospitalized": 656,
         "icu": 0,
         "spreadCommunity": "Yes, widespread",
         "cfr": 0,
-        "mortalityRate": 6.161819752375468,
-        "testingRate": 1675.0445779976892,
-        "hospitalizationRate": 19.953930319608407
+        "mortalityRate": 6.070381231671554,
+        "testingRate": 1632.17533520303,
+        "hospitalizationRate": 19.237536656891496
       },
       "iso2": "US",
       "iso3": "USA",
@@ -1390,7 +1390,7 @@
         "country": "United States of America",
         "province": "Oklahoma",
         "jurisdiction": "",
-        "population": 3962295,
+        "population": 3962251,
         "populationEstimate": 0,
         "coord": {
           "long": "-96.9289",
@@ -1398,22 +1398,22 @@
         }
       },
       "key": "",
-      "lastUpdated": "2020-04-30T04:04:48.687Z"
+      "lastUpdated": "2020-04-30T02:28:58.849Z"
     },
     {
       "caseData": {
-        "confirmed": "2446",
+        "confirmed": 2385,
         "deaths": 0,
         "recovered": 0,
-        "active": 2345,
-        "tested": 54472,
-        "hospitalized": 569,
+        "active": 2286,
+        "tested": 51198,
+        "hospitalized": 554,
         "icu": 0,
         "spreadCommunity": "Yes, widespread",
         "cfr": 0,
-        "mortalityRate": 4.129190515126737,
-        "testingRate": 1359.3959083361076,
-        "hospitalizationRate": 23.262469337694196
+        "mortalityRate": 4.150943396226415,
+        "testingRate": 1277.690404519607,
+        "hospitalizationRate": 23.228511530398322
       },
       "iso2": "US",
       "iso3": "USA",
@@ -1422,7 +1422,7 @@
         "country": "United States of America",
         "province": "Oregon",
         "jurisdiction": "",
-        "population": 4235282,
+        "population": 4235137,
         "populationEstimate": 0,
         "coord": {
           "long": "-122.0709",
@@ -1430,21 +1430,21 @@
         }
       },
       "key": "",
-      "lastUpdated": "2020-04-30T04:04:48.688Z"
+      "lastUpdated": "2020-04-30T02:28:58.849Z"
     },
     {
       "caseData": {
-        "confirmed": "46327",
+        "confirmed": "45137",
         "deaths": 0,
         "recovered": 0,
-        "active": 43954,
-        "tested": 214883,
+        "active": 43091,
+        "tested": 209088,
         "hospitalized": 0,
         "icu": 0,
         "spreadCommunity": "Yes, defined area(s)",
         "cfr": 0,
-        "mortalityRate": 5.122282901979407,
-        "testingRate": 1707.1146074553185,
+        "mortalityRate": 4.532866606110287,
+        "testingRate": 1661.0768606340084,
         "hospitalizationRate": 0
       },
       "iso2": "US",
@@ -1454,7 +1454,7 @@
         "country": "United States of America",
         "province": "Pennsylvania",
         "jurisdiction": "",
-        "population": 12802957,
+        "population": 12802949,
         "populationEstimate": 0,
         "coord": {
           "long": "-77.2098",
@@ -1462,21 +1462,21 @@
         }
       },
       "key": "",
-      "lastUpdated": "2020-04-30T04:04:48.692Z"
+      "lastUpdated": "2020-04-30T02:28:58.851Z"
     },
     {
       "caseData": {
-        "confirmed": "1433",
+        "confirmed": 1400,
         "deaths": 0,
         "recovered": 0,
-        "active": 1347,
-        "tested": 10746,
+        "active": 1314,
+        "tested": 10713,
         "hospitalized": 0,
         "icu": 0,
         "spreadCommunity": "Undetermined",
         "cfr": 0,
-        "mortalityRate": 6.001395673412421,
-        "testingRate": 366.33158428694543,
+        "mortalityRate": 6.142857142857143,
+        "testingRate": 365.2066129225802,
         "hospitalizationRate": 0
       },
       "iso2": "US",
@@ -1486,7 +1486,7 @@
         "country": "United States of America",
         "province": "Puerto Rico",
         "jurisdiction": "",
-        "population": 3172519,
+        "population": 3172694,
         "populationEstimate": 0,
         "coord": {
           "long": "-66.5901",
@@ -1494,22 +1494,22 @@
         }
       },
       "key": "",
-      "lastUpdated": "2020-04-30T04:04:48.693Z"
+      "lastUpdated": "2020-04-30T02:28:58.852Z"
     },
     {
       "caseData": {
-        "confirmed": "8247",
+        "confirmed": "7927",
         "deaths": 0,
-        "recovered": 391,
-        "active": 7996,
-        "tested": 60165,
-        "hospitalized": 750,
+        "recovered": 466,
+        "active": 7688,
+        "tested": 57693,
+        "hospitalized": 732,
         "icu": 0,
         "spreadCommunity": "Yes, widespread",
         "cfr": 0,
-        "mortalityRate": 3.043530980962774,
-        "testingRate": 5679.367090160956,
-        "hospitalizationRate": 9.094216078574027
+        "mortalityRate": 3.01501198435726,
+        "testingRate": 5446.018873641752,
+        "hospitalizationRate": 9.234262646650688
       },
       "iso2": "US",
       "iso3": "USA",
@@ -1518,7 +1518,7 @@
         "country": "United States of America",
         "province": "Rhode Island",
         "jurisdiction": "",
-        "population": 1059603,
+        "population": 1059601,
         "populationEstimate": 0,
         "coord": {
           "long": "-71.5118",
@@ -1526,22 +1526,22 @@
         }
       },
       "key": "",
-      "lastUpdated": "2020-04-30T04:04:48.694Z"
+      "lastUpdated": "2020-04-30T02:28:58.853Z"
     },
     {
       "caseData": {
-        "confirmed": "5882",
+        "confirmed": 5735,
         "deaths": 0,
-        "recovered": 3252,
-        "active": 5651,
-        "tested": 54217,
-        "hospitalized": 1000,
+        "recovered": 2830,
+        "active": 5543,
+        "tested": 52145,
+        "hospitalized": 944,
         "icu": 0,
         "spreadCommunity": "Yes, defined area(s)",
         "cfr": 0,
-        "mortalityRate": 3.9272356341380483,
-        "testingRate": 1075.739462993368,
-        "hospitalizationRate": 17.001020061203672
+        "mortalityRate": 3.347863993025283,
+        "testingRate": 1034.6281479570832,
+        "hospitalizationRate": 16.460331299040977
       },
       "iso2": "US",
       "iso3": "USA",
@@ -1550,7 +1550,7 @@
         "country": "United States of America",
         "province": "South Carolina",
         "jurisdiction": "",
-        "population": 5171099,
+        "population": 5170914,
         "populationEstimate": 0,
         "coord": {
           "long": "-80.945",
@@ -1558,22 +1558,22 @@
         }
       },
       "key": "",
-      "lastUpdated": "2020-04-30T04:04:48.695Z"
+      "lastUpdated": "2020-04-30T02:28:58.854Z"
     },
     {
       "caseData": {
-        "confirmed": "2373",
+        "confirmed": 2313,
         "deaths": 0,
-        "recovered": 1492,
-        "active": 2360,
-        "tested": 16833,
-        "hospitalized": 165,
+        "recovered": 1392,
+        "active": 2302,
+        "tested": 16612,
+        "hospitalized": 157,
         "icu": 0,
         "spreadCommunity": "Yes, widespread",
         "cfr": 0,
-        "mortalityRate": 0.5478297513695743,
-        "testingRate": 2287.4280465068246,
-        "hospitalizationRate": 6.95322376738306
+        "mortalityRate": 0.4755728491137051,
+        "testingRate": 2257.3964657857405,
+        "hospitalizationRate": 6.7877215737137915
       },
       "iso2": "US",
       "iso3": "USA",
@@ -1582,7 +1582,7 @@
         "country": "United States of America",
         "province": "South Dakota",
         "jurisdiction": "",
-        "population": 887079,
+        "population": 887059,
         "populationEstimate": 0,
         "coord": {
           "long": "-99.4388",
@@ -1590,22 +1590,22 @@
         }
       },
       "key": "",
-      "lastUpdated": "2020-04-30T04:04:48.696Z"
+      "lastUpdated": "2020-04-30T02:28:58.855Z"
     },
     {
       "caseData": {
-        "confirmed": "10366",
+        "confirmed": 10087,
         "deaths": 0,
-        "recovered": 5140,
-        "active": 10171,
-        "tested": 168549,
-        "hospitalized": 1013,
+        "recovered": 4921,
+        "active": 9864,
+        "tested": 161928,
+        "hospitalized": 894,
         "icu": 0,
         "spreadCommunity": "Yes, defined area(s)",
         "cfr": 0,
-        "mortalityRate": 1.8811499131776963,
-        "testingRate": 2567.4154282552026,
-        "hospitalizationRate": 9.772332625892341
+        "mortalityRate": 1.870274572224433,
+        "testingRate": 2466.561329147657,
+        "hospitalizationRate": 8.89375248706725
       },
       "iso2": "US",
       "iso3": "USA",
@@ -1614,7 +1614,7 @@
         "country": "United States of America",
         "province": "Tennessee",
         "jurisdiction": "",
-        "population": 6848776,
+        "population": 6848614,
         "populationEstimate": 0,
         "coord": {
           "long": "-86.6923",
@@ -1622,21 +1622,21 @@
         }
       },
       "key": "",
-      "lastUpdated": "2020-04-30T04:04:48.697Z"
+      "lastUpdated": "2020-04-30T02:28:58.858Z"
     },
     {
       "caseData": {
-        "confirmed": "27257",
+        "confirmed": "26357",
         "deaths": 0,
-        "recovered": 12507,
-        "active": 26503,
-        "tested": 314790,
+        "recovered": 11786,
+        "active": 25638,
+        "tested": 300384,
         "hospitalized": 0,
         "icu": 0,
         "spreadCommunity": "Yes, defined area(s)",
         "cfr": 0,
-        "mortalityRate": 2.766261877682797,
-        "testingRate": 1369.571513678247,
+        "mortalityRate": 2.727928064650757,
+        "testingRate": 1306.8946585492758,
         "hospitalizationRate": 0
       },
       "iso2": "US",
@@ -1646,7 +1646,7 @@
         "country": "United States of America",
         "province": "Texas",
         "jurisdiction": "",
-        "population": 29136604,
+        "population": 29135441,
         "populationEstimate": 0,
         "coord": {
           "long": "-97.5635",
@@ -1654,22 +1654,22 @@
         }
       },
       "key": "",
-      "lastUpdated": "2020-04-30T04:04:48.698Z"
+      "lastUpdated": "2020-04-30T02:28:58.858Z"
     },
     {
       "caseData": {
-        "confirmed": "4497",
+        "confirmed": 4423,
         "deaths": 0,
-        "recovered": 1790,
-        "active": 4452,
-        "tested": 105778,
-        "hospitalized": 383,
+        "recovered": 1704,
+        "active": 4304,
+        "tested": 102439,
+        "hospitalized": 370,
         "icu": 0,
         "spreadCommunity": "Yes, widespread",
         "cfr": 0,
-        "mortalityRate": 1.0006671114076051,
-        "testingRate": 3690.9405202307703,
-        "hospitalizationRate": 8.516788970424727
+        "mortalityRate": 0.9436133486766398,
+        "testingRate": 3574.431885192761,
+        "hospitalizationRate": 8.51553509781358
       },
       "iso2": "US",
       "iso3": "USA",
@@ -1678,7 +1678,7 @@
         "country": "United States of America",
         "province": "Utah",
         "jurisdiction": "",
-        "population": 3224713,
+        "population": 3224558,
         "populationEstimate": 0,
         "coord": {
           "long": "-111.8624",
@@ -1686,7 +1686,7 @@
         }
       },
       "key": "",
-      "lastUpdated": "2020-04-30T04:04:48.699Z"
+      "lastUpdated": "2020-04-30T02:28:58.859Z"
     },
     {
       "caseData": {
@@ -1694,13 +1694,13 @@
         "deaths": 0,
         "recovered": 0,
         "active": 815,
-        "tested": 15429,
+        "tested": 15215,
         "hospitalized": 0,
         "icu": 0,
         "spreadCommunity": "Yes, widespread",
         "cfr": 0,
         "mortalityRate": 5.452436194895592,
-        "testingRate": 2526.89607282125,
+        "testingRate": 2491.8480619596426,
         "hospitalizationRate": 0
       },
       "iso2": "US",
@@ -1710,7 +1710,7 @@
         "country": "United States of America",
         "province": "Vermont",
         "jurisdiction": "",
-        "population": 623868,
+        "population": 623869,
         "populationEstimate": 0,
         "coord": {
           "long": "-72.7107",
@@ -1718,22 +1718,22 @@
         }
       },
       "key": "",
-      "lastUpdated": "2020-04-30T04:04:48.702Z"
+      "lastUpdated": "2020-04-30T02:28:58.860Z"
     },
     {
       "caseData": {
-        "confirmed": "14962",
+        "confirmed": 14961,
         "deaths": 0,
-        "recovered": 2042,
-        "active": 14440,
-        "tested": 85940,
-        "hospitalized": 3608,
+        "recovered": 1914,
+        "active": 13847,
+        "tested": 82753,
+        "hospitalized": 3422,
         "icu": 0,
         "spreadCommunity": "Yes, widespread",
         "cfr": 0,
-        "mortalityRate": 3.4888383905894935,
-        "testingRate": 1086.8534240182719,
-        "hospitalizationRate": 24.114423205453818
+        "mortalityRate": 3.4312016179649905,
+        "testingRate": 1046.5485384894585,
+        "hospitalizationRate": 23.864983611130484
       },
       "iso2": "US",
       "iso3": "USA",
@@ -1742,7 +1742,7 @@
         "country": "United States of America",
         "province": "Virginia",
         "jurisdiction": "",
-        "population": 8550644,
+        "population": 8550519,
         "populationEstimate": 0,
         "coord": {
           "long": "-78.17",
@@ -1750,21 +1750,21 @@
         }
       },
       "key": "",
-      "lastUpdated": "2020-04-30T04:04:48.704Z"
+      "lastUpdated": "2020-04-30T02:28:58.862Z"
     },
     {
       "caseData": {
-        "confirmed": "14070",
+        "confirmed": 13842,
         "deaths": 0,
         "recovered": 0,
-        "active": 13269,
-        "tested": 182515,
+        "active": 13056,
+        "tested": 179679,
         "hospitalized": 0,
         "icu": 0,
         "spreadCommunity": "Yes, widespread",
         "cfr": 0,
-        "mortalityRate": 5.6929637526652455,
-        "testingRate": 2417.6083857226854,
+        "mortalityRate": 5.678370177719983,
+        "testingRate": 2380.0425013739496,
         "hospitalizationRate": 0
       },
       "iso2": "US",
@@ -1774,7 +1774,7 @@
         "country": "United States of America",
         "province": "Washington",
         "jurisdiction": "",
-        "population": 7653734,
+        "population": 7653413,
         "populationEstimate": 0,
         "coord": {
           "long": "-121.4905",
@@ -1782,21 +1782,21 @@
         }
       },
       "key": "",
-      "lastUpdated": "2020-04-30T04:04:48.705Z"
+      "lastUpdated": "2020-04-30T02:28:58.864Z"
     },
     {
       "caseData": {
-        "confirmed": "1110",
+        "confirmed": 1095,
         "deaths": 0,
-        "recovered": 504,
-        "active": 1072,
-        "tested": 43071,
+        "recovered": 481,
+        "active": 1057,
+        "tested": 43055,
         "hospitalized": 0,
         "icu": 0,
         "spreadCommunity": "Yes, defined area(s)",
         "cfr": 0,
-        "mortalityRate": 3.4234234234234235,
-        "testingRate": 3255.560477037758,
+        "mortalityRate": 3.470319634703196,
+        "testingRate": 3254.351102571584,
         "hospitalizationRate": 0
       },
       "iso2": "US",
@@ -1806,7 +1806,7 @@
         "country": "United States of America",
         "province": "West Virginia",
         "jurisdiction": "",
-        "population": 8550644,
+        "population": 8550519,
         "populationEstimate": 0,
         "coord": {
           "long": "-80.9545",
@@ -1814,22 +1814,22 @@
         }
       },
       "key": "",
-      "lastUpdated": "2020-04-30T04:04:48.706Z"
+      "lastUpdated": "2020-04-30T02:28:58.865Z"
     },
     {
       "caseData": {
-        "confirmed": "6520",
+        "confirmed": 6289,
         "deaths": 0,
         "recovered": 0,
-        "active": 6212,
-        "tested": 73150,
-        "hospitalized": 1489,
+        "active": 5989,
+        "tested": 69824,
+        "hospitalized": 1456,
         "icu": 0,
         "spreadCommunity": "Yes, widespread",
         "cfr": 0,
-        "mortalityRate": 4.723926380368098,
-        "testingRate": 1413.6437590671767,
-        "hospitalizationRate": 22.837423312883434
+        "mortalityRate": 4.770233741453331,
+        "testingRate": 1349.3678992905886,
+        "hospitalizationRate": 23.151534425186835
       },
       "iso2": "US",
       "iso3": "USA",
@@ -1838,7 +1838,7 @@
         "country": "United States of America",
         "province": "Wisconsin",
         "jurisdiction": "",
-        "population": 5827153,
+        "population": 5827114,
         "populationEstimate": 0,
         "coord": {
           "long": "-89.6165",
@@ -1846,22 +1846,22 @@
         }
       },
       "key": "",
-      "lastUpdated": "2020-04-30T04:04:48.707Z"
+      "lastUpdated": "2020-04-30T02:28:58.868Z"
     },
     {
       "caseData": {
-        "confirmed": "545",
+        "confirmed": 536,
         "deaths": 0,
-        "recovered": 362,
-        "active": 538,
-        "tested": 9217,
+        "recovered": 343,
+        "active": 529,
+        "tested": 8615,
         "hospitalized": 56,
         "icu": 0,
         "spreadCommunity": "Yes, defined area(s)",
         "cfr": 0,
-        "mortalityRate": 1.2844036697247707,
-        "testingRate": 1853.632048909983,
-        "hospitalizationRate": 10.275229357798166
+        "mortalityRate": 1.3059701492537314,
+        "testingRate": 1732.5637519105462,
+        "hospitalizationRate": 10.447761194029852
       },
       "iso2": "US",
       "iso3": "USA",
@@ -1870,7 +1870,7 @@
         "country": "United States of America",
         "province": "Wyoming",
         "jurisdiction": "",
-        "population": 578517,
+        "population": 578519,
         "populationEstimate": 0,
         "coord": {
           "long": "-107.3025",
@@ -1878,22 +1878,22 @@
         }
       },
       "key": "",
-      "lastUpdated": "2020-04-30T04:04:48.707Z"
+      "lastUpdated": "2020-04-30T02:28:58.869Z"
     },
     {
       "caseData": {
         "confirmed": 6925,
         "deaths": null,
         "recovered": 0,
-        "active": 6656,
+        "active": 6508,
         "tested": 27050,
         "hospitalized": 955,
         "icu": 288,
         "spreadCommunity": "Yes, defined area(s)",
         "cfr": 0,
-        "mortalityRate": 3.7037037037037037,
-        "testingRate": 1715.7339988487697,
-        "hospitalizationRate": 13.671875,
+        "mortalityRate": 3.585185185185185,
+        "testingRate": 1617.1607096509051,
+        "hospitalizationRate": 13.496296296296297,
         "vent": 170,
         "genderInfo": {
           "female": 3992,
@@ -1923,7 +1923,7 @@
         "country": "United States of America",
         "province": "Alabama",
         "jurisdiction": "",
-        "population": 4907299,
+        "population": 4907265,
         "populationEstimate": 0,
         "coord": {
           "long": "-86.9023",
@@ -1931,7 +1931,7 @@
         }
       },
       "key": "",
-      "lastUpdated": "2020-04-30T04:04:48.635Z",
+      "lastUpdated": "2020-04-30T02:28:58.815Z",
       "ha": "http://www.alabamapublichealth.gov/covid19/index.html"
     },
     {
@@ -1939,14 +1939,14 @@
         "confirmed": 355,
         "deaths": 9,
         "recovered": 355,
-        "active": 346,
-        "tested": 19119,
+        "active": 342,
+        "tested": 17089,
         "hospitalized": 36,
         "icu": 0,
         "spreadCommunity": "Yes, defined area(s)",
         "cfr": 2.54,
-        "mortalityRate": 2.535211267605634,
-        "testingRate": 3198.499704725562,
+        "mortalityRate": 2.5641025641025643,
+        "testingRate": 2858.892277527859,
         "hospitalizationRate": 0,
         "ageInfo": {
           "20to29": 60,
@@ -1972,7 +1972,7 @@
         "country": "United States of America",
         "province": "Alaska",
         "jurisdiction": "",
-        "population": 731182,
+        "population": 731185,
         "populationEstimate": 0,
         "coord": {
           "long": "-152.4044",
@@ -1980,7 +1980,7 @@
         }
       },
       "key": "",
-      "lastUpdated": "2020-04-30T04:04:48.636Z",
+      "lastUpdated": "2020-04-30T02:28:58.816Z",
       "data": {}
     },
     {
@@ -1988,14 +1988,14 @@
         "confirmed": "42164",
         "deaths": "1710",
         "recovered": 0,
-        "active": 46801,
-        "tested": 603139,
+        "active": 44300,
+        "tested": 577608,
         "hospitalized": "3324",
         "icu": "1184",
         "spreadCommunity": "Yes, widespread",
         "cfr": 4.06,
-        "mortalityRate": 3.992040535827846,
-        "testingRate": 1538.2816329674445,
+        "mortalityRate": 4.037778355428473,
+        "testingRate": 1473.1658497544672,
         "hospitalizationRate": 0,
         "tests": "526084",
         "ageInfo": {
@@ -2035,7 +2035,7 @@
         "country": "United States of America",
         "province": "California",
         "jurisdiction": "",
-        "population": 39573812,
+        "population": 39573303,
         "populationEstimate": 0,
         "coord": {
           "long": "-119.6816",
@@ -2043,7 +2043,7 @@
         }
       },
       "key": "",
-      "lastUpdated": "2020-04-30T04:04:48.647Z",
+      "lastUpdated": "2020-04-30T02:28:58.819Z",
       "lastUpdates": "2020-04-26",
       "ha": "https://covid19.ca.gov/"
     },
@@ -2052,14 +2052,14 @@
         "confirmed": 439779,
         "deaths": 27661,
         "recovered": 0,
-        "active": 24598,
-        "tested": 94818,
+        "active": 24225,
+        "tested": 92745,
         "hospitalized": 48425,
         "icu": 0,
         "spreadCommunity": "Yes, widespread",
         "cfr": 0,
-        "mortalityRate": 8.103261478686441,
-        "testingRate": 2659.4773436191813,
+        "mortalityRate": 7.931742170872606,
+        "testingRate": 2601.3333568938488,
         "hospitalizationRate": 0,
         "ageInfo": {
           "10-19": "537"
@@ -2072,7 +2072,7 @@
         "country": "United States of America",
         "province": "Connecticut",
         "jurisdiction": "",
-        "population": 3563351,
+        "population": 3563367,
         "populationEstimate": 0,
         "coord": {
           "long": "-72.7554",
@@ -2080,7 +2080,7 @@
         }
       },
       "key": "",
-      "lastUpdated": "2020-04-30T04:04:48.648Z",
+      "lastUpdated": "2020-04-30T02:28:58.821Z",
       "ha": "https://data.ct.gov/stories/s/COVID-19-data",
       "data": [
         [
@@ -2179,8 +2179,8 @@
         "icu": 60,
         "spreadCommunity": "Yes, widespread",
         "cfr": 3.09,
-        "mortalityRate": 3.093447905477981,
-        "testingRate": 2211.829560345217,
+        "mortalityRate": 2.9945355191256833,
+        "testingRate": 2175.0650054838748,
         "hospitalizationRate": 0,
         "genderInfo": {
           "male": 1557,
@@ -2201,7 +2201,7 @@
         "country": "United States of America",
         "province": "Delaware",
         "jurisdiction": "",
-        "population": 976547,
+        "population": 976524,
         "populationEstimate": 0,
         "coord": {
           "long": "-75.5071",
@@ -2209,7 +2209,7 @@
         }
       },
       "key": "",
-      "lastUpdated": "2020-04-30T04:04:48.649Z",
+      "lastUpdated": "2020-04-30T02:28:58.822Z",
       "confirmed": 4655,
       "ha": "https://coronavirus.delaware.gov/"
     },
@@ -2218,15 +2218,15 @@
         "confirmed": 33192,
         "deaths": 1218,
         "recovered": 0,
-        "active": 31975,
+        "active": 31677,
         "tested": 375300,
         "hospitalized": 5624,
         "icu": 0,
         "spreadCommunity": "Yes, widespread",
         "cfr": 0,
-        "mortalityRate": 3.669448377669991,
-        "testingRate": 1759.030427070516,
-        "hospitalizationRate": 16.943331425300514,
+        "mortalityRate": 3.564905017048222,
+        "testingRate": 1727.8849332013226,
+        "hospitalizationRate": 16.03141743789576,
         "ageInfo": {
           "undes5": 0,
           "5to14": 0,
@@ -2252,7 +2252,7 @@
         "country": "United States of America",
         "province": "Florida",
         "jurisdiction": "",
-        "population": 21591235,
+        "population": 21590297,
         "populationEstimate": 0,
         "coord": {
           "long": "-81.6868",
@@ -2260,22 +2260,22 @@
         }
       },
       "key": "",
-      "lastUpdated": "2020-04-30T04:04:48.651Z"
+      "lastUpdated": "2020-04-30T02:28:58.826Z"
     },
     {
       "caseData": {
         "confirmed": 25644,
         "deaths": 1095,
         "recovered": 0,
-        "active": 24674,
+        "active": 23886,
         "tested": null,
         "hospitalized": 4926,
         "icu": 0,
         "spreadCommunity": "Yes, widespread",
         "cfr": 4.27,
-        "mortalityRate": 4.271580989330747,
-        "testingRate": 1419.6017453904785,
-        "hospitalizationRate": 19.615906886517944,
+        "mortalityRate": 4.1569697456062915,
+        "testingRate": 1380.9505164658278,
+        "hospitalizationRate": 19.316266752267072,
         "genderInfo": {
           "male": 0,
           "female": 55,
@@ -2289,7 +2289,7 @@
         "country": "United States of America",
         "province": "Georgia",
         "jurisdiction": "",
-        "population": 10655054,
+        "population": 10654743,
         "populationEstimate": 0,
         "coord": {
           "long": "-83.6431",
@@ -2297,7 +2297,7 @@
         }
       },
       "key": "",
-      "lastUpdated": "2020-04-30T04:04:48.652Z"
+      "lastUpdated": "2020-04-30T02:28:58.826Z"
     },
     {
       "caseData": {
@@ -2392,15 +2392,15 @@
         "confirmed": 605,
         "deaths": 16,
         "recovered": 516,
-        "active": 597,
-        "tested": 29618,
+        "active": 593,
+        "tested": 29183,
         "hospitalized": 69,
         "icu": 0,
         "spreadCommunity": "Yes, defined area(s)",
         "cfr": 0,
-        "mortalityRate": 2.6101141924959217,
-        "testingRate": 2091.982827913258,
-        "hospitalizationRate": 11.256117455138662
+        "mortalityRate": 2.6272577996715927,
+        "testingRate": 2061.257845465346,
+        "hospitalizationRate": 11.16584564860427
       },
       "iso2": "US",
       "iso3": "USA",
@@ -2409,7 +2409,7 @@
         "country": "United States of America",
         "province": "Hawaii",
         "jurisdiction": "",
-        "population": 1415993,
+        "population": 1415992,
         "populationEstimate": 0,
         "coord": {
           "long": "-157.4983",
@@ -2417,7 +2417,7 @@
         }
       },
       "key": "",
-      "lastUpdated": "2020-04-30T04:04:48.658Z",
+      "lastUpdated": "2020-04-30T02:28:58.827Z",
       "ha": "https://hawaiicovid19.com/"
     },
     {
@@ -2425,14 +2425,14 @@
         "confirmed": 50355,
         "deaths": 2215,
         "recovered": 0,
-        "active": 48143,
+        "active": 45977,
         "tested": 256667,
         "hospitalized": 5036,
         "icu": 1290,
         "spreadCommunity": "Yes, widespread",
         "cfr": 4.4,
-        "mortalityRate": 4.398506692084673,
-        "testingRate": 2187.0704595645425,
+        "mortalityRate": 4.4176957299072805,
+        "testingRate": 2063.70280375536,
         "hospitalizationRate": 0,
         "ageInfo": {
           "unknown": 7,
@@ -2503,7 +2503,7 @@
         "country": "United States of America",
         "province": "Illinois",
         "jurisdiction": "",
-        "population": 12657906,
+        "population": 12658021,
         "populationEstimate": 0,
         "coord": {
           "long": "-88.9861",
@@ -2511,22 +2511,22 @@
         }
       },
       "key": "",
-      "lastUpdated": "2020-04-30T04:04:48.660Z",
-      "recovered": 2212
+      "lastUpdated": "2020-04-30T02:28:58.828Z",
+      "recovered": 4378
     },
     {
       "caseData": {
-        "confirmed": "17182",
+        "confirmed": 16588,
         "deaths": 964,
         "recovered": 0,
-        "active": 16218,
+        "active": 15687,
         "tested": 91550,
         "hospitalized": 1484,
         "icu": 570,
         "spreadCommunity": "Undetermined",
         "cfr": 0.05610522639972064,
-        "mortalityRate": 5.610522639972063,
-        "testingRate": 1398.9927252378288,
+        "mortalityRate": 5.431637328189052,
+        "testingRate": 1332.22921659158,
         "hospitalizationRate": 0,
         "confrmed": 17182,
         "data": [
@@ -2929,7 +2929,7 @@
         "country": "United States of America",
         "province": "Indiana",
         "jurisdiction": "",
-        "population": 6741536,
+        "population": 6741459,
         "populationEstimate": 0,
         "coord": {
           "long": "-86.2583",
@@ -2937,23 +2937,23 @@
         }
       },
       "key": "",
-      "lastUpdated": "2020-04-30T04:04:48.661Z",
+      "lastUpdated": "2020-04-30T02:28:58.829Z",
       "ha": "https://www.coronavirus.in.gov/"
     },
     {
       "caseData": {
         "confirmed": 6843,
         "deaths": 148,
-        "recovered": 266,
-        "active": 3705,
+        "recovered": 0,
+        "active": 3525,
         "tested": 41337,
         "hospitalized": 323,
         "icu": 0,
         "spreadCommunity": "Yes, defined area(s)",
         "cfr": 0,
-        "mortalityRate": 3.4904923157072156,
-        "testingRate": 1208.0436729645583,
-        "hospitalizationRate": 13.414951810367283,
+        "mortalityRate": 3.4775465498357065,
+        "testingRate": 1151.9433353783163,
+        "hospitalizationRate": 13.80065717415115,
         "genderInfo": {
           "male": 3565,
           "female": 3168
@@ -2972,7 +2972,7 @@
         "country": "United States of America",
         "province": "Kansas",
         "jurisdiction": "",
-        "population": 2914161,
+        "population": 2914154,
         "populationEstimate": 0,
         "coord": {
           "long": "-96.7265",
@@ -2980,7 +2980,7 @@
         }
       },
       "key": "",
-      "lastUpdated": "2020-04-30T04:04:48.662Z"
+      "lastUpdated": "2020-04-30T02:28:58.830Z"
     },
     {
       "caseData": {
@@ -5585,16 +5585,16 @@
       "caseData": {
         "confirmed": 235,
         "deaths": 235,
-        "recovered": 1617,
-        "active": 4303,
+        "recovered": 1521,
+        "active": 4150,
         "tested": 54101,
         "hospitalized": 1137,
         "icu": 121,
         "spreadCommunity": "Undetermined",
         "cfr": 100,
-        "mortalityRate": 5.157593123209169,
-        "testingRate": 1531.0067499137529,
-        "hospitalizationRate": 29.336566012783777,
+        "mortalityRate": 5.142857142857143,
+        "testingRate": 1425.494617333026,
+        "hospitalizationRate": 29.28,
         "data": {
           "death": {
             "male": 106,
@@ -5627,7 +5627,7 @@
         "country": "United States of America",
         "province": "Kentucky",
         "jurisdiction": "",
-        "population": 4471182,
+        "population": 4471153,
         "populationEstimate": 0,
         "coord": {
           "long": "-84.6701",
@@ -5635,7 +5635,7 @@
         }
       },
       "key": "",
-      "lastUpdated": "2020-04-30T04:04:48.663Z",
+      "lastUpdated": "2020-04-30T02:28:58.830Z",
       "ha": "https://govstatus.egov.com/kycovid19"
     }
   ],
@@ -5644,7 +5644,7 @@
       "caseData": {
         "confirmed": 1827,
         "deaths": 60,
-        "recovered": 252,
+        "recovered": 228,
         "active": "",
         "tested": "",
         "hospitalized": "",
@@ -5660,7 +5660,7 @@
         "province": "Afghanistan",
         "jurisdiction": "",
         "population": "38928.3460",
-        "populationEstimate": 39049.346
+        "populationEstimate": 39048.346
       },
       "key": "",
       "lastUpdated": "04-29-2020"
@@ -5671,7 +5671,7 @@
       "caseData": {
         "confirmed": 750,
         "deaths": 30,
-        "recovered": 455,
+        "recovered": 431,
         "active": "",
         "tested": "",
         "hospitalized": "",
@@ -5697,13 +5697,13 @@
     {
       "caseData": {
         "confirmed": 3649,
-        "deaths": 444,
-        "recovered": 1702,
+        "deaths": 437,
+        "recovered": 1651,
         "active": "",
         "tested": "",
         "hospitalized": "",
         "icu": "",
-        "cfr": 12.17,
+        "cfr": 3.79,
         "percentConfirmed": "0"
       },
       "iso2": "DZ",
@@ -5714,7 +5714,7 @@
         "province": "Algeria",
         "jurisdiction": "",
         "population": "43851.0440",
-        "populationEstimate": 43972.044
+        "populationEstimate": 43971.044
       },
       "key": "",
       "lastUpdated": "04-29-2020"
@@ -5724,13 +5724,13 @@
     {
       "caseData": {
         "confirmed": 748,
-        "deaths": 42,
-        "recovered": 423,
+        "deaths": 41,
+        "recovered": 398,
         "active": "",
         "tested": "",
         "hospitalized": "",
         "icu": "",
-        "cfr": 5.61,
+        "cfr": 20,
         "percentConfirmed": "0.000006471235358830001"
       },
       "iso2": "AD",
@@ -5752,7 +5752,7 @@
       "caseData": {
         "confirmed": 27,
         "deaths": 2,
-        "recovered": 7,
+        "recovered": 6,
         "active": "",
         "tested": "",
         "hospitalized": "",
@@ -5767,7 +5767,7 @@
         "province": "Angola",
         "jurisdiction": "",
         "population": "32866.2720",
-        "populationEstimate": 32987.272
+        "populationEstimate": 32986.272
       },
       "key": "",
       "lastUpdated": "04-29-2020"
@@ -5829,13 +5829,13 @@
     {
       "caseData": {
         "confirmed": 4114,
-        "deaths": 214,
-        "recovered": 1192,
+        "deaths": 207,
+        "recovered": 1162,
         "active": "",
         "tested": "",
         "hospitalized": "",
         "icu": "",
-        "cfr": 5.2,
+        "cfr": 8.06,
         "percentConfirmed": "0"
       },
       "iso2": "AR",
@@ -5846,7 +5846,7 @@
         "province": "Argentina",
         "jurisdiction": "",
         "population": "45195.7740",
-        "populationEstimate": 45316.774
+        "populationEstimate": 45315.774
       },
       "key": "",
       "lastUpdated": "04-29-2020"
@@ -5857,7 +5857,7 @@
       "caseData": {
         "confirmed": 1932,
         "deaths": 30,
-        "recovered": 900,
+        "recovered": 866,
         "active": "",
         "tested": "",
         "hospitalized": "",
@@ -5926,7 +5926,7 @@
         "province": "Australia",
         "jurisdiction": "",
         "population": "25499.8840",
-        "populationEstimate": 25620.884
+        "populationEstimate": 25619.884
       },
       "key": "",
       "lastUpdated": "04-29-2020"
@@ -5958,13 +5958,13 @@
     {
       "caseData": {
         "confirmed": 2857,
-        "deaths": 40,
-        "recovered": 2284,
+        "deaths": 39,
+        "recovered": 2266,
         "active": 0,
         "tested": 0,
         "hospitalized": 0,
         "icu": 0,
-        "cfr": 1.4
+        "cfr": 1.37
       },
       "iso2": "AU",
       "iso3": "AUS",
@@ -6006,7 +6006,7 @@
       "caseData": {
         "confirmed": 983,
         "deaths": 6,
-        "recovered": 943,
+        "recovered": 934,
         "active": 0,
         "tested": 0,
         "hospitalized": 0,
@@ -6053,13 +6053,13 @@
     {
       "caseData": {
         "confirmed": 133,
-        "deaths": 12,
-        "recovered": 144,
+        "deaths": 11,
+        "recovered": 137,
         "active": 0,
         "tested": 0,
         "hospitalized": 0,
         "icu": 0,
-        "cfr": 9.02
+        "cfr": 8.27
       },
       "iso2": "AU",
       "iso3": "AUS",
@@ -6078,7 +6078,7 @@
       "caseData": {
         "confirmed": 1268,
         "deaths": 18,
-        "recovered": 1291,
+        "recovered": 1287,
         "active": 0,
         "tested": 0,
         "hospitalized": 0,
@@ -6102,7 +6102,7 @@
       "caseData": {
         "confirmed": 514,
         "deaths": 8,
-        "recovered": 507,
+        "recovered": 495,
         "active": 0,
         "tested": 0,
         "hospitalized": 0,
@@ -6127,13 +6127,13 @@
     {
       "caseData": {
         "confirmed": 15314,
-        "deaths": 580,
-        "recovered": 12779,
+        "deaths": 569,
+        "recovered": 12580,
         "active": "",
         "tested": "",
         "hospitalized": "",
         "icu": "",
-        "cfr": 3.79,
+        "cfr": 34.48,
         "percentConfirmed": "0"
       },
       "iso2": "AT",
@@ -6154,13 +6154,13 @@
     {
       "caseData": {
         "confirmed": 1717,
-        "deaths": 23,
-        "recovered": 1267,
+        "deaths": 22,
+        "recovered": 1221,
         "active": "",
         "tested": "",
         "hospitalized": "",
         "icu": "",
-        "cfr": 1.34,
+        "cfr": 0,
         "percentConfirmed": "0"
       },
       "iso2": "AZ",
@@ -6208,7 +6208,7 @@
       "caseData": {
         "confirmed": 2811,
         "deaths": 8,
-        "recovered": 1455,
+        "recovered": 1310,
         "active": "",
         "tested": "",
         "hospitalized": "",
@@ -6234,13 +6234,13 @@
     {
       "caseData": {
         "confirmed": 6462,
-        "deaths": 163,
-        "recovered": 150,
+        "deaths": 155,
+        "recovered": 139,
         "active": "",
         "tested": "",
         "hospitalized": "",
         "icu": "",
-        "cfr": 2.52,
+        "cfr": 0.55,
         "percentConfirmed": "0"
       },
       "iso2": "BD",
@@ -6251,7 +6251,7 @@
         "province": "Bangladesh",
         "jurisdiction": "",
         "population": "164689.3830",
-        "populationEstimate": 165294.383
+        "populationEstimate": 165289.383
       },
       "key": "",
       "lastUpdated": "04-29-2020"
@@ -6261,13 +6261,13 @@
     {
       "caseData": {
         "confirmed": 80,
-        "deaths": 7,
+        "deaths": 6,
         "recovered": 39,
         "active": "",
         "tested": "",
         "hospitalized": "",
         "icu": "",
-        "cfr": 8.75
+        "cfr": 0
       },
       "iso2": "BB",
       "iso3": "BRB",
@@ -6287,13 +6287,13 @@
     {
       "caseData": {
         "confirmed": 12208,
-        "deaths": 84,
-        "recovered": 2072,
+        "deaths": 79,
+        "recovered": 1993,
         "active": "",
         "tested": "",
         "hospitalized": "",
         "icu": "",
-        "cfr": 0.69,
+        "cfr": 0.44,
         "percentConfirmed": "0.000009725564466364417"
       },
       "iso2": "BY",
@@ -6314,13 +6314,13 @@
     {
       "caseData": {
         "confirmed": 47334,
-        "deaths": 7501,
-        "recovered": 11283,
+        "deaths": 7331,
+        "recovered": 10943,
         "active": "",
         "tested": "",
         "hospitalized": "",
         "icu": "",
-        "cfr": 15.85,
+        "cfr": 19.17,
         "percentConfirmed": "0.000005582580209899839"
       },
       "iso2": "BE",
@@ -6445,13 +6445,13 @@
     {
       "caseData": {
         "confirmed": 1053,
-        "deaths": 59,
-        "recovered": 117,
+        "deaths": 55,
+        "recovered": 98,
         "active": "",
         "tested": "",
         "hospitalized": "",
         "icu": "",
-        "cfr": 5.6,
+        "cfr": 5.13,
         "percentConfirmed": "0"
       },
       "iso2": "BO",
@@ -6497,13 +6497,13 @@
     {
       "caseData": {
         "confirmed": 1588,
-        "deaths": 65,
-        "recovered": 710,
+        "deaths": 63,
+        "recovered": 682,
         "active": "",
         "tested": "",
         "hospitalized": "",
         "icu": "",
-        "cfr": 4.09,
+        "cfr": 3.97,
         "percentConfirmed": "0"
       },
       "iso2": "BA",
@@ -6525,7 +6525,7 @@
       "caseData": {
         "confirmed": 23,
         "deaths": 1,
-        "recovered": 5,
+        "recovered": 0,
         "active": "",
         "tested": "",
         "hospitalized": "",
@@ -6551,13 +6551,13 @@
     {
       "caseData": {
         "confirmed": 71886,
-        "deaths": 5513,
-        "recovered": 34132,
+        "deaths": 5083,
+        "recovered": 32544,
         "active": "",
         "tested": "",
         "hospitalized": "",
         "icu": "",
-        "cfr": 7.67,
+        "cfr": 7.07,
         "percentConfirmed": "0.0000025334092819797303"
       },
       "iso2": "BR",
@@ -6568,7 +6568,7 @@
         "province": "Brazil",
         "jurisdiction": "",
         "population": "212559.4170",
-        "populationEstimate": 213285.417
+        "populationEstimate": 213279.417
       },
       "key": "",
       "lastUpdated": "04-29-2020"
@@ -6630,13 +6630,13 @@
     {
       "caseData": {
         "confirmed": 1399,
-        "deaths": 64,
-        "recovered": 243,
+        "deaths": 58,
+        "recovered": 222,
         "active": "",
         "tested": "",
         "hospitalized": "",
         "icu": "",
-        "cfr": 4.57,
+        "cfr": 0,
         "percentConfirmed": "0"
       },
       "iso2": "BG",
@@ -6657,13 +6657,13 @@
     {
       "caseData": {
         "confirmed": 638,
-        "deaths": 43,
-        "recovered": 498,
+        "deaths": 42,
+        "recovered": 476,
         "active": "",
         "tested": "",
         "hospitalized": "",
         "icu": "",
-        "cfr": 6.74,
+        "cfr": 0,
         "percentConfirmed": "0"
       },
       "iso2": "BF",
@@ -6674,7 +6674,7 @@
         "province": "Burkina Faso",
         "jurisdiction": "",
         "population": "20903.2730",
-        "populationEstimate": 21024.273
+        "populationEstimate": 21023.273
       },
       "key": "",
       "lastUpdated": "04-29-2020"
@@ -6736,13 +6736,13 @@
     {
       "caseData": {
         "confirmed": 1806,
-        "deaths": 61,
-        "recovered": 934,
+        "deaths": 59,
+        "recovered": 915,
         "active": "",
         "tested": "",
         "hospitalized": "",
         "icu": "",
-        "cfr": 3.38,
+        "cfr": 0.54,
         "percentConfirmed": "0"
       },
       "iso2": "CM",
@@ -6753,7 +6753,7 @@
         "province": "Cameroon",
         "jurisdiction": "",
         "population": "26545.8630",
-        "populationEstimate": 26666.863
+        "populationEstimate": 26665.863
       },
       "key": "",
       "lastUpdated": "04-29-2020"
@@ -6869,13 +6869,13 @@
     {
       "caseData": {
         "confirmed": 14365,
-        "deaths": 216,
-        "recovered": 8057,
+        "deaths": 207,
+        "recovered": 7710,
         "active": "",
         "tested": "",
         "hospitalized": "",
         "icu": "",
-        "cfr": 1.5,
+        "cfr": 1.63,
         "percentConfirmed": "0.000002887603033678083"
       },
       "iso2": "CL",
@@ -6886,7 +6886,7 @@
         "province": "Chile",
         "jurisdiction": "",
         "population": "19116.2010",
-        "populationEstimate": 19237.201
+        "populationEstimate": 19236.201
       },
       "key": "",
       "lastUpdated": "04-29-2020"
@@ -6913,7 +6913,7 @@
         "province": "China",
         "jurisdiction": "",
         "population": "1439323.7760",
-        "populationEstimate": 1444163.776
+        "populationEstimate": 1444123.776
       },
       "key": "",
       "lastUpdated": "04-29-2020"
@@ -6946,7 +6946,7 @@
       "caseData": {
         "confirmed": 589,
         "deaths": 9,
-        "recovered": 542,
+        "recovered": 538,
         "active": 0,
         "tested": 0,
         "hospitalized": 0,
@@ -6994,7 +6994,7 @@
       "caseData": {
         "confirmed": 352,
         "deaths": 1,
-        "recovered": 353,
+        "recovered": 352,
         "active": 0,
         "tested": 0,
         "hospitalized": 0,
@@ -7042,7 +7042,7 @@
       "caseData": {
         "confirmed": 1552,
         "deaths": 8,
-        "recovered": 1557,
+        "recovered": 1554,
         "active": 0,
         "tested": 0,
         "hospitalized": 0,
@@ -7210,7 +7210,7 @@
       "caseData": {
         "confirmed": 1004,
         "deaths": 4,
-        "recovered": 830,
+        "recovered": 811,
         "active": 0,
         "tested": 0,
         "hospitalized": 0,
@@ -7282,7 +7282,7 @@
       "caseData": {
         "confirmed": 189,
         "deaths": 1,
-        "recovered": 150,
+        "recovered": 146,
         "active": 0,
         "tested": 0,
         "hospitalized": 0,
@@ -7306,7 +7306,7 @@
       "caseData": {
         "confirmed": 653,
         "deaths": 0,
-        "recovered": 648,
+        "recovered": 647,
         "active": 0,
         "tested": 0,
         "hospitalized": 0,
@@ -7401,7 +7401,7 @@
       "caseData": {
         "confirmed": 45,
         "deaths": 0,
-        "recovered": 34,
+        "recovered": 33,
         "active": 0,
         "tested": 0,
         "hospitalized": 0,
@@ -7494,7 +7494,7 @@
       "caseData": {
         "confirmed": 784,
         "deaths": 7,
-        "recovered": 772,
+        "recovered": 771,
         "active": 0,
         "tested": 0,
         "hospitalized": 0,
@@ -7518,7 +7518,7 @@
       "caseData": {
         "confirmed": 607,
         "deaths": 7,
-        "recovered": 597,
+        "recovered": 584,
         "active": 0,
         "tested": 0,
         "hospitalized": 0,
@@ -7542,7 +7542,7 @@
       "caseData": {
         "confirmed": 172,
         "deaths": 0,
-        "recovered": 164,
+        "recovered": 160,
         "active": 0,
         "tested": 0,
         "hospitalized": 0,
@@ -7684,7 +7684,7 @@
       "caseData": {
         "confirmed": 1267,
         "deaths": 1,
-        "recovered": 1263,
+        "recovered": 1262,
         "active": 0,
         "tested": 0,
         "hospitalized": 0,
@@ -7709,13 +7709,13 @@
     {
       "caseData": {
         "confirmed": 5949,
-        "deaths": 278,
-        "recovered": 1411,
+        "deaths": 269,
+        "recovered": 1268,
         "active": "",
         "tested": "",
         "hospitalized": "",
         "icu": "",
-        "cfr": 4.67,
+        "cfr": 4.55,
         "percentConfirmed": "0"
       },
       "iso2": "CO",
@@ -7726,7 +7726,7 @@
         "province": "Colombia",
         "jurisdiction": "",
         "population": "50882.8910",
-        "populationEstimate": 51003.891
+        "populationEstimate": 51002.891
       },
       "key": "",
       "lastUpdated": "04-29-2020"
@@ -7737,7 +7737,7 @@
       "caseData": {
         "confirmed": 234,
         "deaths": 30,
-        "recovered": 59,
+        "recovered": 56,
         "active": "",
         "tested": "",
         "hospitalized": "",
@@ -7763,7 +7763,7 @@
       "caseData": {
         "confirmed": 705,
         "deaths": 6,
-        "recovered": 323,
+        "recovered": 306,
         "active": "",
         "tested": "",
         "hospitalized": "",
@@ -7790,7 +7790,7 @@
       "caseData": {
         "confirmed": 1183,
         "deaths": 14,
-        "recovered": 557,
+        "recovered": 525,
         "active": "",
         "tested": "",
         "hospitalized": "",
@@ -7806,7 +7806,7 @@
         "province": "Cote d'Ivoire",
         "jurisdiction": "",
         "population": "26378.2740",
-        "populationEstimate": 26499.274
+        "populationEstimate": 26498.274
       },
       "key": "",
       "lastUpdated": "04-29-2020"
@@ -7816,13 +7816,13 @@
     {
       "caseData": {
         "confirmed": 2047,
-        "deaths": 67,
-        "recovered": 1288,
+        "deaths": 63,
+        "recovered": 1232,
         "active": "",
         "tested": "",
         "hospitalized": "",
         "icu": "",
-        "cfr": 3.27,
+        "cfr": 50,
         "percentConfirmed": "0"
       },
       "iso2": "HR",
@@ -7844,7 +7844,7 @@
       "caseData": {
         "confirmed": 1437,
         "deaths": 58,
-        "recovered": 617,
+        "recovered": 575,
         "active": "",
         "tested": "",
         "hospitalized": "",
@@ -7924,7 +7924,7 @@
       "caseData": {
         "confirmed": 7504,
         "deaths": 227,
-        "recovered": 3108,
+        "recovered": 2948,
         "active": "",
         "tested": "",
         "hospitalized": "",
@@ -7967,7 +7967,7 @@
         "province": "Democratic Republic of the Congo",
         "jurisdiction": "",
         "population": "89561.4030",
-        "populationEstimate": 89924.403
+        "populationEstimate": 89921.403
       },
       "key": "",
       "lastUpdated": "04-29-2020"
@@ -8023,13 +8023,13 @@
     {
       "caseData": {
         "confirmed": 8851,
-        "deaths": 443,
-        "recovered": 6366,
+        "deaths": 434,
+        "recovered": 6121,
         "active": "",
         "tested": "",
         "hospitalized": "",
         "icu": "",
-        "cfr": 5.01,
+        "cfr": 4.58,
         "percentConfirmed": "0.0000026414824621102648"
       },
       "iso2": "DK",
@@ -8051,7 +8051,7 @@
       "caseData": {
         "confirmed": 1072,
         "deaths": 2,
-        "recovered": 599,
+        "recovered": 498,
         "active": "",
         "tested": "",
         "hospitalized": "",
@@ -8103,13 +8103,13 @@
     {
       "caseData": {
         "confirmed": 6416,
-        "deaths": 293,
-        "recovered": 1228,
+        "deaths": 286,
+        "recovered": 1165,
         "active": "",
         "tested": "",
         "hospitalized": "",
         "icu": "",
-        "cfr": 4.57,
+        "cfr": 2.85,
         "percentConfirmed": "0.000002590360723862938"
       },
       "iso2": "DO",
@@ -8130,13 +8130,13 @@
     {
       "caseData": {
         "confirmed": 24258,
-        "deaths": 883,
+        "deaths": 871,
         "recovered": 1557,
         "active": "",
         "tested": "",
         "hospitalized": "",
         "icu": "",
-        "cfr": 3.64,
+        "cfr": 20.43,
         "percentConfirmed": "0.000005769976105043946"
       },
       "iso2": "EC",
@@ -8157,13 +8157,13 @@
     {
       "caseData": {
         "confirmed": 5042,
-        "deaths": 380,
-        "recovered": 1335,
+        "deaths": 359,
+        "recovered": 1304,
         "active": "",
         "tested": "",
         "hospitalized": "",
         "icu": "",
-        "cfr": 7.54,
+        "cfr": 8.46,
         "percentConfirmed": "0"
       },
       "iso2": "EG",
@@ -8174,7 +8174,7 @@
         "province": "Egypt",
         "jurisdiction": "",
         "population": "102334.4040",
-        "populationEstimate": 102697.404
+        "populationEstimate": 102694.404
       },
       "key": "",
       "lastUpdated": "04-29-2020"
@@ -8185,7 +8185,7 @@
       "caseData": {
         "confirmed": 345,
         "deaths": 9,
-        "recovered": 106,
+        "recovered": 97,
         "active": "",
         "tested": "",
         "hospitalized": "",
@@ -8265,7 +8265,7 @@
       "caseData": {
         "confirmed": 1660,
         "deaths": 50,
-        "recovered": 236,
+        "recovered": 240,
         "active": "",
         "tested": "",
         "hospitalized": "",
@@ -8319,7 +8319,7 @@
       "caseData": {
         "confirmed": 126,
         "deaths": 3,
-        "recovered": 58,
+        "recovered": 50,
         "active": "",
         "tested": "",
         "hospitalized": "",
@@ -8335,7 +8335,7 @@
         "province": "Ethiopia",
         "jurisdiction": "",
         "population": "114963.5880",
-        "populationEstimate": 115326.588
+        "populationEstimate": 115323.588
       },
       "key": "",
       "lastUpdated": "04-29-2020"
@@ -8423,13 +8423,13 @@
     {
       "caseData": {
         "confirmed": 4740,
-        "deaths": 206,
+        "deaths": 199,
         "recovered": 2800,
         "active": "",
         "tested": "",
         "hospitalized": "",
         "icu": "",
-        "cfr": 4.35,
+        "cfr": 13.33,
         "percentConfirmed": "0"
       },
       "iso2": "FI",
@@ -8475,7 +8475,7 @@
       "caseData": {
         "confirmed": 53,
         "deaths": 0,
-        "recovered": 50,
+        "recovered": 49,
         "active": 0,
         "tested": 0,
         "hospitalized": 0,
@@ -8662,13 +8662,13 @@
     {
       "caseData": {
         "confirmed": 126835,
-        "deaths": 24087,
-        "recovered": 48228,
+        "deaths": 23660,
+        "recovered": 46886,
         "active": "",
         "tested": "",
         "hospitalized": "",
         "icu": "",
-        "cfr": 18.99,
+        "cfr": 34.46,
         "percentConfirmed": "0.000001631596008371604"
       },
       "iso2": "FR",
@@ -8679,7 +8679,7 @@
         "province": "France",
         "jurisdiction": "",
         "population": "65273.5110",
-        "populationEstimate": 65515.511
+        "populationEstimate": 65513.511
       },
       "key": "",
       "lastUpdated": "04-29-2020"
@@ -8739,7 +8739,7 @@
       "caseData": {
         "confirmed": 238,
         "deaths": 3,
-        "recovered": 67,
+        "recovered": 53,
         "active": "",
         "tested": "",
         "hospitalized": "",
@@ -8792,7 +8792,7 @@
       "caseData": {
         "confirmed": 511,
         "deaths": 6,
-        "recovered": 178,
+        "recovered": 168,
         "active": "",
         "tested": "",
         "hospitalized": "",
@@ -8818,13 +8818,13 @@
     {
       "caseData": {
         "confirmed": 157641,
-        "deaths": 6467,
-        "recovered": 120400,
+        "deaths": 6314,
+        "recovered": 117400,
         "active": "",
         "tested": "",
         "hospitalized": "",
         "icu": "",
-        "cfr": 4.1,
+        "cfr": 4.01,
         "percentConfirmed": "0.0000015563841577184327"
       },
       "iso2": "DE",
@@ -8835,7 +8835,7 @@
         "province": "Germany",
         "jurisdiction": "",
         "population": "83783.9420",
-        "populationEstimate": 84025.942
+        "populationEstimate": 84023.942
       },
       "key": "",
       "lastUpdated": "04-29-2020"
@@ -8862,7 +8862,7 @@
         "province": "Ghana",
         "jurisdiction": "",
         "population": "31072.9400",
-        "populationEstimate": 31193.94
+        "populationEstimate": 31192.94
       },
       "key": "",
       "lastUpdated": "04-29-2020"
@@ -8898,13 +8898,13 @@
     {
       "caseData": {
         "confirmed": 2534,
-        "deaths": 139,
+        "deaths": 138,
         "recovered": 577,
         "active": "",
         "tested": "",
         "hospitalized": "",
         "icu": "",
-        "cfr": 5.49
+        "cfr": 5.45
       },
       "iso2": "GR",
       "iso3": "GRC",
@@ -8951,7 +8951,7 @@
       "caseData": {
         "confirmed": 18,
         "deaths": 0,
-        "recovered": 13,
+        "recovered": 10,
         "active": "",
         "tested": "",
         "hospitalized": "",
@@ -8981,12 +8981,10 @@
         "active": 136,
         "tested": 1847,
         "hospitalized": 0,
-        "icu": "",
+        "icu": 0,
         "cfr": 3.45,
-        "percentConfirmed": "0",
-        "spreadCommunity": "Yes, widespread",
         "mortalityRate": 3.5460992907801416,
-        "testingRate": 1124.6491179998661,
+        "testingRate": 1024.7885574411341,
         "hospitalizationRate": 0
       },
       "iso2": "GU",
@@ -9004,8 +9002,7 @@
         }
       },
       "key": "",
-      "lastUpdated": "4/30/2020",
-      "ha": "https://dphss.guam.gov/dph/"
+      "lastUpdated": "4/29/2020"
     }
   ],
   "Guatemala": [
@@ -9013,7 +9010,7 @@
       "caseData": {
         "confirmed": 557,
         "deaths": 16,
-        "recovered": 62,
+        "recovered": 49,
         "active": "",
         "tested": "",
         "hospitalized": "",
@@ -9029,7 +9026,7 @@
         "province": "Guatemala",
         "jurisdiction": "",
         "population": "17915.5680",
-        "populationEstimate": 18036.568
+        "populationEstimate": 18035.568
       },
       "key": "",
       "lastUpdated": "04-29-2020"
@@ -9065,7 +9062,7 @@
       "caseData": {
         "confirmed": 1240,
         "deaths": 7,
-        "recovered": 313,
+        "recovered": 269,
         "active": "",
         "tested": "",
         "hospitalized": "",
@@ -9092,7 +9089,7 @@
       "caseData": {
         "confirmed": 73,
         "deaths": 1,
-        "recovered": 19,
+        "recovered": 18,
         "active": "",
         "tested": "",
         "hospitalized": "",
@@ -9118,7 +9115,7 @@
       "caseData": {
         "confirmed": 75,
         "deaths": 8,
-        "recovered": 18,
+        "recovered": 15,
         "active": "",
         "tested": "",
         "hospitalized": "",
@@ -9197,7 +9194,7 @@
       "caseData": {
         "confirmed": 738,
         "deaths": 66,
-        "recovered": 73,
+        "recovered": 79,
         "active": "",
         "tested": "",
         "hospitalized": "",
@@ -9224,7 +9221,7 @@
       "caseData": {
         "confirmed": 2727,
         "deaths": 300,
-        "recovered": 536,
+        "recovered": 516,
         "active": "",
         "tested": "",
         "hospitalized": "",
@@ -9251,7 +9248,7 @@
       "caseData": {
         "confirmed": 1795,
         "deaths": 10,
-        "recovered": 1656,
+        "recovered": 1636,
         "active": "",
         "tested": "",
         "hospitalized": "",
@@ -9277,13 +9274,13 @@
     {
       "caseData": {
         "confirmed": 31332,
-        "deaths": 1079,
-        "recovered": 8437,
+        "deaths": 1008,
+        "recovered": 7747,
         "active": "",
         "tested": "",
         "hospitalized": "",
         "icu": "",
-        "cfr": 3.44,
+        "cfr": 3.22,
         "percentConfirmed": "0"
       },
       "iso2": "IN",
@@ -9294,7 +9291,7 @@
         "province": "India",
         "jurisdiction": "",
         "population": "1380004.3850",
-        "populationEstimate": 1384602.385
+        "populationEstimate": 1384564.385
       },
       "key": "",
       "lastUpdated": "04-29-2020"
@@ -9304,13 +9301,13 @@
     {
       "caseData": {
         "confirmed": 9511,
-        "deaths": 784,
-        "recovered": 1391,
+        "deaths": 773,
+        "recovered": 1254,
         "active": "",
         "tested": "",
         "hospitalized": "",
         "icu": "",
-        "cfr": 8.24,
+        "cfr": 1.93,
         "percentConfirmed": "0"
       },
       "iso2": "ID",
@@ -9321,7 +9318,7 @@
         "province": "Indonesia",
         "jurisdiction": "",
         "population": "273523.6150",
-        "populationEstimate": 274491.615
+        "populationEstimate": 274483.615
       },
       "key": "",
       "lastUpdated": "04-29-2020"
@@ -9331,13 +9328,13 @@
     {
       "caseData": {
         "confirmed": 92584,
-        "deaths": 5957,
-        "recovered": 73791,
+        "deaths": 5877,
+        "recovered": 72439,
         "active": "",
         "tested": "",
         "hospitalized": "",
         "icu": "",
-        "cfr": 6.43,
+        "cfr": 6.38,
         "percentConfirmed": "0.0000013239206543396874"
       },
       "iso2": "IR",
@@ -9348,7 +9345,7 @@
         "province": "Iran",
         "jurisdiction": "",
         "population": "83992.9490",
-        "populationEstimate": 84234.949
+        "populationEstimate": 84232.949
       },
       "key": "",
       "lastUpdated": "04-29-2020"
@@ -9358,13 +9355,13 @@
     {
       "caseData": {
         "confirmed": 1847,
-        "deaths": 92,
-        "recovered": 1346,
+        "deaths": 90,
+        "recovered": 1319,
         "active": "",
         "tested": "",
         "hospitalized": "",
         "icu": "",
-        "cfr": 4.98
+        "cfr": 4.87
       },
       "iso2": "IQ",
       "iso3": "IRQ",
@@ -9374,7 +9371,7 @@
         "province": "Iraq",
         "jurisdiction": "",
         "population": "40222.4930",
-        "populationEstimate": 40343.493
+        "populationEstimate": 40342.493
       },
       "key": "",
       "lastUpdated": "04-29-2020"
@@ -9384,13 +9381,13 @@
     {
       "caseData": {
         "confirmed": 19877,
-        "deaths": 1190,
-        "recovered": 13386,
+        "deaths": 1159,
+        "recovered": 9233,
         "active": "",
         "tested": "",
         "hospitalized": "",
         "icu": "",
-        "cfr": 5.99,
+        "cfr": 24.89,
         "percentConfirmed": "0.000004637706048824311"
       },
       "iso2": "IE",
@@ -9438,13 +9435,13 @@
     {
       "caseData": {
         "confirmed": 15589,
-        "deaths": 215,
-        "recovered": 8233,
+        "deaths": 210,
+        "recovered": 7746,
         "active": "",
         "tested": "",
         "hospitalized": "",
         "icu": "",
-        "cfr": 1.38,
+        "cfr": 1.35,
         "percentConfirmed": "0.0000014210560063589369"
       },
       "iso2": "IL",
@@ -9465,13 +9462,13 @@
     {
       "caseData": {
         "confirmed": 201505,
-        "deaths": 27682,
-        "recovered": 71252,
+        "deaths": 27359,
+        "recovered": 68941,
         "active": "",
         "tested": "",
         "hospitalized": "",
         "icu": "",
-        "cfr": 13.74,
+        "cfr": 18.27,
         "percentConfirmed": "0.0000034583804994576243"
       },
       "iso2": "IT",
@@ -9482,7 +9479,7 @@
         "province": "Italy",
         "jurisdiction": "",
         "population": "60461.8260",
-        "populationEstimate": 60703.826
+        "populationEstimate": 60701.826
       },
       "key": "",
       "lastUpdated": "04-29-2020"
@@ -9519,13 +9516,13 @@
     {
       "caseData": {
         "confirmed": 13852,
-        "deaths": 413,
-        "recovered": 2368,
+        "deaths": 394,
+        "recovered": 1899,
         "active": "",
         "tested": "",
         "hospitalized": "",
         "icu": "",
-        "cfr": 2.98,
+        "cfr": 2.84,
         "percentConfirmed": "0"
       },
       "iso2": "JP",
@@ -9536,7 +9533,7 @@
         "province": "Japan",
         "jurisdiction": "",
         "population": "126476.4610",
-        "populationEstimate": 126839.461
+        "populationEstimate": 126836.461
       },
       "key": "",
       "lastUpdated": "04-29-2020"
@@ -9573,7 +9570,7 @@
       "caseData": {
         "confirmed": 449,
         "deaths": 8,
-        "recovered": 356,
+        "recovered": 348,
         "active": "",
         "tested": "",
         "hospitalized": "",
@@ -9599,7 +9596,7 @@
       "caseData": {
         "confirmed": 3063,
         "deaths": 25,
-        "recovered": 819,
+        "recovered": 774,
         "active": "",
         "tested": "",
         "hospitalized": "",
@@ -9615,7 +9612,7 @@
         "province": "Kazakhstan",
         "jurisdiction": "",
         "population": "18776.7070",
-        "populationEstimate": 18897.707
+        "populationEstimate": 18896.707
       },
       "key": "",
       "lastUpdated": "04-29-2020"
@@ -9625,13 +9622,13 @@
     {
       "caseData": {
         "confirmed": 374,
-        "deaths": 15,
-        "recovered": 129,
+        "deaths": 14,
+        "recovered": 124,
         "active": "",
         "tested": "",
         "hospitalized": "",
         "icu": "",
-        "cfr": 4.01,
+        "cfr": 0,
         "percentConfirmed": "0"
       },
       "iso2": "KE",
@@ -9642,7 +9639,7 @@
         "province": "Kenya",
         "jurisdiction": "",
         "population": "53771.2960",
-        "populationEstimate": 54013.296
+        "populationEstimate": 54011.296
       },
       "key": "",
       "lastUpdated": "04-29-2020"
@@ -9679,13 +9676,13 @@
     {
       "caseData": {
         "confirmed": 3440,
-        "deaths": 24,
-        "recovered": 1389,
+        "deaths": 23,
+        "recovered": 1176,
         "active": "",
         "tested": "",
         "hospitalized": "",
         "icu": "",
-        "cfr": 0.7,
+        "cfr": 0.66,
         "percentConfirmed": "0.000003559243014575803"
       },
       "iso2": "KW",
@@ -9707,7 +9704,7 @@
       "caseData": {
         "confirmed": 729,
         "deaths": 8,
-        "recovered": 437,
+        "recovered": 416,
         "active": "",
         "tested": "",
         "hospitalized": "",
@@ -9759,13 +9756,13 @@
     {
       "caseData": {
         "confirmed": 836,
-        "deaths": 15,
-        "recovered": 348,
+        "deaths": 13,
+        "recovered": 267,
         "active": "",
         "tested": "",
         "hospitalized": "",
         "icu": "",
-        "cfr": 1.79,
+        "cfr": 0,
         "percentConfirmed": "0"
       },
       "iso2": "LV",
@@ -9787,7 +9784,7 @@
       "caseData": {
         "confirmed": 717,
         "deaths": 24,
-        "recovered": 150,
+        "recovered": 145,
         "active": "",
         "tested": "",
         "hospitalized": "",
@@ -9892,13 +9889,13 @@
     {
       "caseData": {
         "confirmed": 1449,
-        "deaths": 45,
-        "recovered": 563,
+        "deaths": 44,
+        "recovered": 536,
         "active": "",
         "tested": "",
         "hospitalized": "",
         "icu": "",
-        "cfr": 3.11
+        "cfr": 0
       },
       "iso2": "LT",
       "iso3": "LTU",
@@ -9919,7 +9916,7 @@
       "caseData": {
         "confirmed": 3741,
         "deaths": 89,
-        "recovered": 3134,
+        "recovered": 3123,
         "active": "",
         "tested": "",
         "hospitalized": "",
@@ -9946,7 +9943,7 @@
       "caseData": {
         "confirmed": 128,
         "deaths": 0,
-        "recovered": 90,
+        "recovered": 82,
         "active": "",
         "tested": "",
         "hospitalized": "",
@@ -9961,7 +9958,7 @@
         "province": "Madagascar",
         "jurisdiction": "",
         "population": "27691.0180",
-        "populationEstimate": 27812.018
+        "populationEstimate": 27811.018
       },
       "key": "",
       "lastUpdated": "04-29-2020"
@@ -9972,7 +9969,7 @@
       "caseData": {
         "confirmed": 36,
         "deaths": 3,
-        "recovered": 7,
+        "recovered": 5,
         "active": "",
         "tested": "",
         "hospitalized": "",
@@ -9987,7 +9984,7 @@
         "province": "Malawi",
         "jurisdiction": "",
         "population": "19129.9520",
-        "populationEstimate": 19250.952
+        "populationEstimate": 19249.952
       },
       "key": "",
       "lastUpdated": "04-29-2020"
@@ -9998,7 +9995,7 @@
       "caseData": {
         "confirmed": 5851,
         "deaths": 100,
-        "recovered": 4087,
+        "recovered": 4032,
         "active": "",
         "tested": "",
         "hospitalized": "",
@@ -10014,7 +10011,7 @@
         "province": "Malaysia",
         "jurisdiction": "",
         "population": "32365.9990",
-        "populationEstimate": 32486.999
+        "populationEstimate": 32485.999
       },
       "key": "",
       "lastUpdated": "04-29-2020"
@@ -10024,13 +10021,13 @@
     {
       "caseData": {
         "confirmed": 245,
-        "deaths": 1,
+        "deaths": 0,
         "recovered": 17,
         "active": "",
         "tested": "",
         "hospitalized": "",
         "icu": "",
-        "cfr": 0.41,
+        "cfr": 0,
         "percentConfirmed": "0.000005734963296234904"
       },
       "iso2": "MV",
@@ -10051,13 +10048,13 @@
     {
       "caseData": {
         "confirmed": 424,
-        "deaths": 25,
-        "recovered": 129,
+        "deaths": 24,
+        "recovered": 122,
         "active": "",
         "tested": "",
         "hospitalized": "",
         "icu": "",
-        "cfr": 5.9,
+        "cfr": 6.25,
         "percentConfirmed": "0"
       },
       "iso2": "ML",
@@ -10068,7 +10065,7 @@
         "province": "Mali",
         "jurisdiction": "",
         "population": "20250.8330",
-        "populationEstimate": 20371.833
+        "populationEstimate": 20370.833
       },
       "key": "",
       "lastUpdated": "04-29-2020"
@@ -10079,7 +10076,7 @@
       "caseData": {
         "confirmed": 450,
         "deaths": 4,
-        "recovered": 339,
+        "recovered": 303,
         "active": "",
         "tested": "",
         "hospitalized": "",
@@ -10131,7 +10128,7 @@
       "caseData": {
         "confirmed": 334,
         "deaths": 10,
-        "recovered": 306,
+        "recovered": 303,
         "active": "",
         "tested": "",
         "hospitalized": "",
@@ -10156,13 +10153,13 @@
     {
       "caseData": {
         "confirmed": 16752,
-        "deaths": 1732,
+        "deaths": 1569,
         "recovered": 11423,
         "active": "",
         "tested": "",
         "hospitalized": "",
         "icu": "",
-        "cfr": 10.34,
+        "cfr": 11.04,
         "percentConfirmed": "0"
       },
       "iso2": "MX",
@@ -10173,7 +10170,7 @@
         "province": "Mexico",
         "jurisdiction": "",
         "population": "128932.7530",
-        "populationEstimate": 129416.753
+        "populationEstimate": 129412.753
       },
       "key": "",
       "lastUpdated": "04-29-2020"
@@ -10183,13 +10180,13 @@
     {
       "caseData": {
         "confirmed": 3638,
-        "deaths": 111,
-        "recovered": 1114,
+        "deaths": 107,
+        "recovered": 975,
         "active": "",
         "tested": "",
         "hospitalized": "",
         "icu": "",
-        "cfr": 3.05,
+        "cfr": 3.18,
         "percentConfirmed": "0.000003891954388277731"
       },
       "iso2": "MD",
@@ -10211,7 +10208,7 @@
       "caseData": {
         "confirmed": 95,
         "deaths": 4,
-        "recovered": 58,
+        "recovered": 50,
         "active": "",
         "tested": "",
         "hospitalized": "",
@@ -10263,7 +10260,7 @@
       "caseData": {
         "confirmed": 321,
         "deaths": 7,
-        "recovered": 203,
+        "recovered": 199,
         "active": "",
         "tested": "",
         "hospitalized": "",
@@ -10314,13 +10311,13 @@
     {
       "caseData": {
         "confirmed": 4252,
-        "deaths": 168,
-        "recovered": 928,
+        "deaths": 165,
+        "recovered": 778,
         "active": "",
         "tested": "",
         "hospitalized": "",
         "icu": "",
-        "cfr": 3.95,
+        "cfr": 2.27,
         "percentConfirmed": "0"
       },
       "iso2": "MA",
@@ -10331,7 +10328,7 @@
         "province": "Morocco",
         "jurisdiction": "",
         "population": "36910.5600",
-        "populationEstimate": 37031.56
+        "populationEstimate": 37030.56
       },
       "key": "",
       "lastUpdated": "04-29-2020"
@@ -10357,7 +10354,7 @@
         "province": "Mozambique",
         "jurisdiction": "",
         "population": "31255.4350",
-        "populationEstimate": 31376.435
+        "populationEstimate": 31375.435
       },
       "key": "",
       "lastUpdated": "04-29-2020"
@@ -10367,13 +10364,13 @@
     {
       "caseData": {
         "confirmed": 150,
-        "deaths": 6,
-        "recovered": 27,
+        "deaths": 5,
+        "recovered": 16,
         "active": "",
         "tested": "",
         "hospitalized": "",
         "icu": "",
-        "cfr": 4,
+        "cfr": 0,
         "percentConfirmed": "0"
       },
       "iso2": "MM",
@@ -10384,7 +10381,7 @@
         "province": "Myanmar",
         "jurisdiction": "",
         "population": "54409.8000",
-        "populationEstimate": 54651.8
+        "populationEstimate": 54649.8
       },
       "key": "",
       "lastUpdated": "04-29-2020"
@@ -10437,7 +10434,7 @@
         "province": "Nepal",
         "jurisdiction": "",
         "population": "29136.8080",
-        "populationEstimate": 29257.808
+        "populationEstimate": 29256.808
       },
       "key": "",
       "lastUpdated": "04-29-2020"
@@ -10472,7 +10469,7 @@
       "caseData": {
         "confirmed": 14,
         "deaths": 1,
-        "recovered": 13,
+        "recovered": 11,
         "active": 0,
         "tested": 0,
         "hospitalized": 0,
@@ -10519,13 +10516,13 @@
     {
       "caseData": {
         "confirmed": 38416,
-        "deaths": 4711,
+        "deaths": 4566,
         "recovered": 0,
         "active": "",
         "tested": "",
         "hospitalized": "",
         "icu": "",
-        "cfr": 12.26,
+        "cfr": 28.07,
         "percentConfirmed": "0"
       },
       "iso2": "NL",
@@ -10596,7 +10593,7 @@
       "caseData": {
         "confirmed": 1330,
         "deaths": 19,
-        "recovered": 1241,
+        "recovered": 1229,
         "active": "",
         "tested": "",
         "hospitalized": "",
@@ -10648,13 +10645,13 @@
     {
       "caseData": {
         "confirmed": 709,
-        "deaths": 32,
-        "recovered": 435,
+        "deaths": 31,
+        "recovered": 403,
         "active": "",
         "tested": "",
         "hospitalized": "",
         "icu": "",
-        "cfr": 4.51,
+        "cfr": 25,
         "percentConfirmed": "0"
       },
       "iso2": "NE",
@@ -10665,7 +10662,7 @@
         "province": "Niger",
         "jurisdiction": "",
         "population": "24206.6440",
-        "populationEstimate": 24327.644
+        "populationEstimate": 24326.644
       },
       "key": "",
       "lastUpdated": "04-29-2020"
@@ -10675,13 +10672,13 @@
     {
       "caseData": {
         "confirmed": 1532,
-        "deaths": 51,
-        "recovered": 307,
+        "deaths": 44,
+        "recovered": 255,
         "active": "",
         "tested": "",
         "hospitalized": "",
         "icu": "",
-        "cfr": 3.33,
+        "cfr": 2.05,
         "percentConfirmed": "0"
       },
       "iso2": "NG",
@@ -10692,7 +10689,7 @@
         "province": "Nigeria",
         "jurisdiction": "",
         "population": "206139.5890",
-        "populationEstimate": 206865.589
+        "populationEstimate": 206859.589
       },
       "key": "",
       "lastUpdated": "04-29-2020"
@@ -10702,13 +10699,13 @@
     {
       "caseData": {
         "confirmed": 1421,
-        "deaths": 73,
-        "recovered": 627,
+        "deaths": 71,
+        "recovered": 589,
         "active": "",
         "tested": "",
         "hospitalized": "",
         "icu": "",
-        "cfr": 5.14,
+        "cfr": 27.27,
         "percentConfirmed": "0.0000010559793872823601"
       },
       "iso2": "MK",
@@ -10734,11 +10731,10 @@
         "active": 12,
         "tested": 224,
         "hospitalized": 0,
-        "icu": "",
+        "icu": 0,
         "cfr": 14.29,
-        "spreadCommunity": "Undetermined",
         "mortalityRate": 14.285714285714286,
-        "testingRate": 406.2091977368345,
+        "testingRate": 117.87320470042071,
         "hospitalizationRate": 0
       },
       "iso2": "MP",
@@ -10756,21 +10752,20 @@
         }
       },
       "key": "",
-      "lastUpdated": "4/30/2020",
-      "ha": "http://chcc.gov.mp/"
+      "lastUpdated": "4/29/2020"
     }
   ],
   "Norway": [
     {
       "caseData": {
         "confirmed": 7605,
-        "deaths": 207,
+        "deaths": 206,
         "recovered": 32,
         "active": "",
         "tested": "",
         "hospitalized": "",
         "icu": "",
-        "cfr": 2.72,
+        "cfr": 2.71,
         "percentConfirmed": "0.0000013281091912349958"
       },
       "iso2": "NO",
@@ -10818,13 +10813,13 @@
     {
       "caseData": {
         "confirmed": 14885,
-        "deaths": 343,
-        "recovered": 3425,
+        "deaths": 327,
+        "recovered": 3233,
         "active": "",
         "tested": "",
         "hospitalized": "",
         "icu": "",
-        "cfr": 2.3,
+        "cfr": 3.23,
         "percentConfirmed": "0"
       },
       "iso2": "PK",
@@ -10835,7 +10830,7 @@
         "province": "Pakistan",
         "jurisdiction": "",
         "population": "220892.3400",
-        "populationEstimate": 221618.34
+        "populationEstimate": 221612.34
       },
       "key": "",
       "lastUpdated": "04-29-2020"
@@ -10871,13 +10866,13 @@
     {
       "caseData": {
         "confirmed": 6200,
-        "deaths": 178,
-        "recovered": 527,
+        "deaths": 176,
+        "recovered": 455,
         "active": "",
         "tested": "",
         "hospitalized": "",
         "icu": "",
-        "cfr": 2.87,
+        "cfr": 5.03,
         "percentConfirmed": "0.000004148543826352616"
       },
       "iso2": "PA",
@@ -10951,13 +10946,13 @@
     {
       "caseData": {
         "confirmed": 31190,
-        "deaths": 943,
-        "recovered": 10037,
+        "deaths": 854,
+        "recovered": 9179,
         "active": "",
         "tested": "",
         "hospitalized": "",
         "icu": "",
-        "cfr": 3.02,
+        "cfr": 2.89,
         "percentConfirmed": "0.000007554928515697054"
       },
       "iso2": "PE",
@@ -10968,7 +10963,7 @@
         "province": "Peru",
         "jurisdiction": "",
         "population": "32971.8540",
-        "populationEstimate": 33092.854
+        "populationEstimate": 33091.854
       },
       "key": "",
       "lastUpdated": "04-29-2020"
@@ -10978,13 +10973,13 @@
     {
       "caseData": {
         "confirmed": 7958,
-        "deaths": 558,
-        "recovered": 1023,
+        "deaths": 530,
+        "recovered": 975,
         "active": "",
         "tested": "",
         "hospitalized": "",
         "icu": "",
-        "cfr": 7.01,
+        "cfr": 10.5,
         "percentConfirmed": "0"
       },
       "iso2": "PH",
@@ -10995,7 +10990,7 @@
         "province": "Philippines",
         "jurisdiction": "",
         "population": "109581.0780",
-        "populationEstimate": 109944.078
+        "populationEstimate": 109941.078
       },
       "key": "",
       "lastUpdated": "04-29-2020"
@@ -11005,13 +11000,13 @@
     {
       "caseData": {
         "confirmed": 12218,
-        "deaths": 624,
-        "recovered": 3025,
+        "deaths": 596,
+        "recovered": 2655,
         "active": "",
         "tested": "",
         "hospitalized": "",
         "icu": "",
-        "cfr": 5.11,
+        "cfr": 10.76,
         "percentConfirmed": "0"
       },
       "iso2": "PL",
@@ -11022,7 +11017,7 @@
         "province": "Poland",
         "jurisdiction": "",
         "population": "37846.6110",
-        "populationEstimate": 37967.611
+        "populationEstimate": 37966.611
       },
       "key": "",
       "lastUpdated": "04-29-2020"
@@ -11032,13 +11027,13 @@
     {
       "caseData": {
         "confirmed": 24322,
-        "deaths": 973,
-        "recovered": 1470,
+        "deaths": 948,
+        "recovered": 1389,
         "active": "",
         "tested": "",
         "hospitalized": "",
         "icu": "",
-        "cfr": 4,
+        "cfr": 6.78,
         "percentConfirmed": "0.0000028930903098244737"
       },
       "iso2": "PT",
@@ -11085,7 +11080,7 @@
       "caseData": {
         "confirmed": 11921,
         "deaths": 10,
-        "recovered": 1243,
+        "recovered": 1134,
         "active": "",
         "tested": "",
         "hospitalized": "",
@@ -11111,13 +11106,13 @@
     {
       "caseData": {
         "confirmed": 11616,
-        "deaths": 693,
-        "recovered": 3569,
+        "deaths": 663,
+        "recovered": 3404,
         "active": "",
         "tested": "",
         "hospitalized": "",
         "icu": "",
-        "cfr": 5.97,
+        "cfr": 5.71,
         "percentConfirmed": "0.0000014398817404853836"
       },
       "iso2": "RO",
@@ -11128,7 +11123,7 @@
         "province": "Romania",
         "jurisdiction": "",
         "population": "19237.6910",
-        "populationEstimate": 19358.691
+        "populationEstimate": 19357.691
       },
       "key": "",
       "lastUpdated": "04-29-2020"
@@ -11138,13 +11133,13 @@
     {
       "caseData": {
         "confirmed": 93558,
-        "deaths": 972,
-        "recovered": 10286,
+        "deaths": 867,
+        "recovered": 8456,
         "active": "",
         "tested": "",
         "hospitalized": "",
         "icu": "",
-        "cfr": 1.04,
+        "cfr": 1.12,
         "percentConfirmed": "0.000004393067896464373"
       },
       "iso2": "RU",
@@ -11155,7 +11150,7 @@
         "province": "Russia",
         "jurisdiction": "",
         "population": "145934.4620",
-        "populationEstimate": 146418.462
+        "populationEstimate": 146414.462
       },
       "key": "",
       "lastUpdated": "04-29-2020"
@@ -11166,7 +11161,7 @@
       "caseData": {
         "confirmed": 212,
         "deaths": 0,
-        "recovered": 98,
+        "recovered": 95,
         "active": "",
         "tested": "",
         "hospitalized": "",
@@ -11272,7 +11267,7 @@
       "caseData": {
         "confirmed": 553,
         "deaths": 41,
-        "recovered": 69,
+        "recovered": 64,
         "active": "",
         "tested": "",
         "hospitalized": "",
@@ -11325,13 +11320,13 @@
     {
       "caseData": {
         "confirmed": 20077,
-        "deaths": 157,
-        "recovered": 2953,
+        "deaths": 152,
+        "recovered": 2784,
         "active": "",
         "tested": "",
         "hospitalized": "",
         "icu": "",
-        "cfr": 0.78,
+        "cfr": 0.63,
         "percentConfirmed": "0.0000036364815621911165"
       },
       "iso2": "SA",
@@ -11342,7 +11337,7 @@
         "province": "Saudi Arabia",
         "jurisdiction": "",
         "population": "34813.8710",
-        "populationEstimate": 34934.871
+        "populationEstimate": 34933.871
       },
       "key": "",
       "lastUpdated": "04-29-2020"
@@ -11353,7 +11348,7 @@
       "caseData": {
         "confirmed": 823,
         "deaths": 9,
-        "recovered": 315,
+        "recovered": 296,
         "active": "",
         "tested": "",
         "hospitalized": "",
@@ -11460,7 +11455,7 @@
       "caseData": {
         "confirmed": 14951,
         "deaths": 14,
-        "recovered": 1188,
+        "recovered": 1128,
         "active": "",
         "tested": "",
         "hospitalized": "",
@@ -11512,13 +11507,13 @@
     {
       "caseData": {
         "confirmed": 1384,
-        "deaths": 22,
-        "recovered": 484,
+        "deaths": 20,
+        "recovered": 423,
         "active": "",
         "tested": "",
         "hospitalized": "",
         "icu": "",
-        "cfr": 1.59,
+        "cfr": 66.67,
         "percentConfirmed": "0"
       },
       "iso2": "SK",
@@ -11539,13 +11534,13 @@
     {
       "caseData": {
         "confirmed": 1408,
-        "deaths": 89,
-        "recovered": 230,
+        "deaths": 86,
+        "recovered": 223,
         "active": "",
         "tested": "",
         "hospitalized": "",
         "icu": "",
-        "cfr": 6.32,
+        "cfr": 300,
         "percentConfirmed": "0"
       },
       "iso2": "SI",
@@ -11567,7 +11562,7 @@
       "caseData": {
         "confirmed": 528,
         "deaths": 28,
-        "recovered": 20,
+        "recovered": 19,
         "active": "",
         "tested": "",
         "hospitalized": "",
@@ -11593,13 +11588,13 @@
     {
       "caseData": {
         "confirmed": 4996,
-        "deaths": 103,
+        "deaths": 93,
         "recovered": 2073,
         "active": "",
         "tested": "",
         "hospitalized": "",
         "icu": "",
-        "cfr": 2.06,
+        "cfr": 1.48,
         "percentConfirmed": "0"
       },
       "iso2": "ZA",
@@ -11610,7 +11605,7 @@
         "province": "South Africa",
         "jurisdiction": "",
         "population": "59308.6900",
-        "populationEstimate": 59550.69
+        "populationEstimate": 59548.69
       },
       "key": "",
       "lastUpdated": "04-29-2020"
@@ -11620,13 +11615,13 @@
     {
       "caseData": {
         "confirmed": 10761,
-        "deaths": 247,
-        "recovered": 9059,
+        "deaths": 246,
+        "recovered": 8922,
         "active": "",
         "tested": "",
         "hospitalized": "",
         "icu": "",
-        "cfr": 2.3,
+        "cfr": 22.22,
         "percentConfirmed": "0"
       },
       "iso2": "KR",
@@ -11637,7 +11632,7 @@
         "province": "South Korea",
         "jurisdiction": "",
         "population": "51269.1850",
-        "populationEstimate": 51390.185
+        "populationEstimate": 51389.185
       },
       "key": "",
       "lastUpdated": "04-29-2020"
@@ -11674,13 +11669,13 @@
     {
       "caseData": {
         "confirmed": 210773,
-        "deaths": 24275,
-        "recovered": 132929,
+        "deaths": 23822,
+        "recovered": 123903,
         "active": "",
         "tested": "",
         "hospitalized": "",
         "icu": "",
-        "cfr": 11.52,
+        "cfr": 48.32,
         "percentConfirmed": "0.000002797575041421435"
       },
       "iso2": "ES",
@@ -11691,7 +11686,7 @@
         "province": "Spain",
         "jurisdiction": "",
         "population": "46754.7780",
-        "populationEstimate": 46875.778
+        "populationEstimate": 46874.778
       },
       "key": "",
       "lastUpdated": "04-29-2020"
@@ -11702,7 +11697,7 @@
       "caseData": {
         "confirmed": 619,
         "deaths": 7,
-        "recovered": 136,
+        "recovered": 134,
         "active": "",
         "tested": "",
         "hospitalized": "",
@@ -11718,7 +11713,7 @@
         "province": "Sri Lanka",
         "jurisdiction": "",
         "population": "21413.2490",
-        "populationEstimate": 21534.249
+        "populationEstimate": 21533.249
       },
       "key": "",
       "lastUpdated": "04-29-2020"
@@ -11728,13 +11723,13 @@
     {
       "caseData": {
         "confirmed": 318,
-        "deaths": 28,
-        "recovered": 32,
+        "deaths": 25,
+        "recovered": 31,
         "active": "",
         "tested": "",
         "hospitalized": "",
         "icu": "",
-        "cfr": 8.81,
+        "cfr": 6.98,
         "percentConfirmed": "0"
       },
       "iso2": "SD",
@@ -11745,7 +11740,7 @@
         "province": "Sudan",
         "jurisdiction": "",
         "population": "43849.2600",
-        "populationEstimate": 43970.26
+        "populationEstimate": 43969.26
       },
       "key": "",
       "lastUpdated": "04-29-2020"
@@ -11756,7 +11751,7 @@
       "caseData": {
         "confirmed": 10,
         "deaths": 1,
-        "recovered": 8,
+        "recovered": 7,
         "active": "",
         "tested": "",
         "hospitalized": "",
@@ -11781,13 +11776,13 @@
     {
       "caseData": {
         "confirmed": 19621,
-        "deaths": 2462,
+        "deaths": 2355,
         "recovered": 1005,
         "active": "",
         "tested": "",
         "hospitalized": "",
         "icu": "",
-        "cfr": 12.55,
+        "cfr": 11.65,
         "percentConfirmed": "0.000006881688914985398"
       },
       "iso2": "SE",
@@ -11808,13 +11803,13 @@
     {
       "caseData": {
         "confirmed": 29181,
-        "deaths": 1716,
+        "deaths": 1699,
         "recovered": 22600,
         "active": "",
         "tested": "",
         "hospitalized": "",
         "icu": "",
-        "cfr": 5.88,
+        "cfr": 5.82,
         "percentConfirmed": "0.0000011554519654353477"
       },
       "iso2": "CH",
@@ -11862,7 +11857,7 @@
       "caseData": {
         "confirmed": 429,
         "deaths": 6,
-        "recovered": 311,
+        "recovered": 307,
         "active": "",
         "tested": "",
         "hospitalized": "",
@@ -11877,7 +11872,7 @@
         "province": "Taiwan",
         "jurisdiction": "",
         "population": "23816.7750",
-        "populationEstimate": 23937.775
+        "populationEstimate": 23936.775
       },
       "key": "",
       "lastUpdated": "04-29-2020"
@@ -11888,7 +11883,7 @@
       "caseData": {
         "confirmed": 2938,
         "deaths": 54,
-        "recovered": 2665,
+        "recovered": 2652,
         "active": "",
         "tested": "",
         "hospitalized": "",
@@ -11903,7 +11898,7 @@
         "province": "Thailand",
         "jurisdiction": "",
         "population": "69799.9780",
-        "populationEstimate": 70041.978
+        "populationEstimate": 70039.978
       },
       "key": "",
       "lastUpdated": "04-29-2020"
@@ -11939,13 +11934,13 @@
     {
       "caseData": {
         "confirmed": 99,
-        "deaths": 7,
-        "recovered": 64,
+        "deaths": 6,
+        "recovered": 63,
         "active": "",
         "tested": "",
         "hospitalized": "",
         "icu": "",
-        "cfr": 7.07
+        "cfr": 0
       },
       "iso2": "TG",
       "iso3": "TGO",
@@ -11966,7 +11961,7 @@
       "caseData": {
         "confirmed": 116,
         "deaths": 8,
-        "recovered": 71,
+        "recovered": 59,
         "active": "",
         "tested": "",
         "hospitalized": "",
@@ -11992,7 +11987,7 @@
       "caseData": {
         "confirmed": 975,
         "deaths": 40,
-        "recovered": 294,
+        "recovered": 279,
         "active": "",
         "tested": "",
         "hospitalized": "",
@@ -12018,13 +12013,13 @@
     {
       "caseData": {
         "confirmed": 114653,
-        "deaths": 3081,
-        "recovered": 44040,
+        "deaths": 2992,
+        "recovered": 38809,
         "active": "",
         "tested": "",
         "hospitalized": "",
         "icu": "",
-        "cfr": 2.69,
+        "cfr": 3.85,
         "percentConfirmed": "0.0000028361708103790145"
       },
       "iso2": "TR",
@@ -12035,7 +12030,7 @@
         "province": "Turkey",
         "jurisdiction": "",
         "population": "84339.0670",
-        "populationEstimate": 84581.067
+        "populationEstimate": 84579.067
       },
       "key": "",
       "lastUpdated": "04-29-2020"
@@ -12087,7 +12082,7 @@
         "province": "Uganda",
         "jurisdiction": "",
         "population": "45741.0070",
-        "populationEstimate": 45862.007
+        "populationEstimate": 45861.007
       },
       "key": "",
       "lastUpdated": "04-29-2020"
@@ -12097,13 +12092,13 @@
     {
       "caseData": {
         "confirmed": 9410,
-        "deaths": 250,
-        "recovered": 1103,
+        "deaths": 239,
+        "recovered": 992,
         "active": "",
         "tested": "",
         "hospitalized": "",
         "icu": "",
-        "cfr": 2.66,
+        "cfr": 4.74,
         "percentConfirmed": "0"
       },
       "iso2": "UA",
@@ -12114,7 +12109,7 @@
         "province": "Ukraine",
         "jurisdiction": "",
         "population": "43733.7620",
-        "populationEstimate": 43854.762
+        "populationEstimate": 43853.762
       },
       "key": "",
       "lastUpdated": "04-29-2020"
@@ -12124,13 +12119,13 @@
     {
       "caseData": {
         "confirmed": 11380,
-        "deaths": 98,
-        "recovered": 2329,
+        "deaths": 89,
+        "recovered": 2181,
         "active": "",
         "tested": "",
         "hospitalized": "",
         "icu": "",
-        "cfr": 0.86,
+        "cfr": 1.29,
         "percentConfirmed": "0.000005469949553112199"
       },
       "iso2": "AE",
@@ -12176,7 +12171,7 @@
       "caseData": {
         "confirmed": 57,
         "deaths": 6,
-        "recovered": 48,
+        "recovered": 44,
         "active": 0,
         "tested": 0,
         "hospitalized": 0,
@@ -12223,13 +12218,13 @@
     {
       "caseData": {
         "confirmed": 431,
-        "deaths": 38,
-        "recovered": 386,
+        "deaths": 36,
+        "recovered": 352,
         "active": 0,
         "tested": 0,
         "hospitalized": 0,
         "icu": 0,
-        "cfr": 8.82
+        "cfr": 8.35
       },
       "iso2": "GB",
       "iso3": "GBR",
@@ -12271,7 +12266,7 @@
       "caseData": {
         "confirmed": 228,
         "deaths": 21,
-        "recovered": 258,
+        "recovered": 252,
         "active": 0,
         "tested": 0,
         "hospitalized": 0,
@@ -12318,13 +12313,13 @@
     {
       "caseData": {
         "confirmed": 161145,
-        "deaths": 26097,
+        "deaths": 21678,
         "recovered": 0,
         "active": "",
         "tested": "",
         "hospitalized": "",
         "icu": "",
-        "cfr": 16.19,
+        "cfr": 14.66,
         "percentConfirmed": "0.000005886337908409437"
       },
       "iso2": "GB",
@@ -12335,7 +12330,7 @@
         "province": "United Kingdom",
         "jurisdiction": "",
         "population": "67886.0110",
-        "populationEstimate": 68128.011
+        "populationEstimate": 68126.011
       },
       "key": "",
       "lastUpdated": "04-29-2020"
@@ -12439,13 +12434,13 @@
     {
       "caseData": {
         "confirmed": 306,
-        "deaths": 16,
-        "recovered": 167,
+        "deaths": 10,
+        "recovered": 48,
         "active": "",
         "tested": "",
         "hospitalized": "",
         "icu": "",
-        "cfr": 5.23,
+        "cfr": 0,
         "percentConfirmed": "0"
       },
       "iso2": "TZ",
@@ -12456,7 +12451,7 @@
         "province": "Tanzania",
         "jurisdiction": "",
         "population": "59734.2180",
-        "populationEstimate": 59976.218
+        "populationEstimate": 59974.218
       },
       "key": "",
       "lastUpdated": "04-29-2020"
@@ -12465,17 +12460,16 @@
   "United States Virgin Islands": [
     {
       "caseData": {
-        "confirmed": 59,
+        "confirmed": 62,
         "deaths": 4,
         "recovered": 51,
         "active": 53,
         "tested": 794,
         "hospitalized": 0,
-        "icu": "",
-        "cfr": 6.78,
-        "spreadCommunity": "Yes, defined area(s)",
+        "icu": 0,
+        "cfr": 6.45,
         "mortalityRate": 7.017543859649122,
-        "testingRate": 740.2021106014842,
+        "testingRate": 725.2861990528396,
         "hospitalizationRate": 0
       },
       "iso2": "VI",
@@ -12493,8 +12487,7 @@
         }
       },
       "key": "",
-      "lastUpdated": "4/30/2020",
-      "ha": "https://doh.vi.gov/"
+      "lastUpdated": "4/29/2020"
     }
   ],
   "Uruguay": [
@@ -12502,7 +12495,7 @@
       "caseData": {
         "confirmed": 625,
         "deaths": 15,
-        "recovered": 412,
+        "recovered": 394,
         "active": "",
         "tested": "",
         "hospitalized": "",
@@ -12528,13 +12521,13 @@
     {
       "caseData": {
         "confirmed": 1939,
-        "deaths": 9,
-        "recovered": 1096,
+        "deaths": 8,
+        "recovered": 992,
         "active": "",
         "tested": "",
         "hospitalized": "",
         "icu": "",
-        "cfr": 0.46,
+        "cfr": 0,
         "percentConfirmed": "0"
       },
       "iso2": "UZ",
@@ -12545,7 +12538,7 @@
         "province": "Uzbekistan",
         "jurisdiction": "",
         "population": "33469.2030",
-        "populationEstimate": 33590.203
+        "populationEstimate": 33589.203
       },
       "key": "",
       "lastUpdated": "04-29-2020"
@@ -12571,7 +12564,7 @@
         "province": "Venezuela",
         "jurisdiction": "",
         "population": "28435.9400",
-        "populationEstimate": 28556.94
+        "populationEstimate": 28555.94
       },
       "key": "",
       "lastUpdated": "04-29-2020"
@@ -12597,7 +12590,7 @@
         "province": "Vietnam",
         "jurisdiction": "",
         "population": "97338.5790",
-        "populationEstimate": 97701.579
+        "populationEstimate": 97698.579
       },
       "key": "",
       "lastUpdated": "04-29-2020"
@@ -12649,7 +12642,7 @@
         "province": "Yemen",
         "jurisdiction": "",
         "population": "29825.9640",
-        "populationEstimate": 29946.964
+        "populationEstimate": 29945.964
       },
       "key": "",
       "lastUpdated": "04-29-2020"
@@ -12660,7 +12653,7 @@
       "caseData": {
         "confirmed": 95,
         "deaths": 3,
-        "recovered": 54,
+        "recovered": 42,
         "active": "",
         "tested": "",
         "hospitalized": "",
@@ -12676,7 +12669,7 @@
         "province": "Zambia",
         "jurisdiction": "",
         "population": "18383.9550",
-        "populationEstimate": 18504.955
+        "populationEstimate": 18503.955
       },
       "key": "",
       "lastUpdated": "04-29-2020"
@@ -13016,7 +13009,6 @@
         "tested": 3,
         "hospitalized": 0,
         "icu": 0,
-        "spreadCommunity": "N/A",
         "cfr": 0,
         "mortalityRate": 0,
         "testingRate": 5.3917075537822825,
@@ -13037,7 +13029,7 @@
         }
       },
       "key": "",
-      "lastUpdated": "4/30/2020"
+      "lastUpdated": "4/29/2020"
     }
   ],
   "Marshall Islands": [
@@ -13063,7 +13055,7 @@
         "populationEstimate": 0
       },
       "key": "",
-      "lastUpdated": "4/30/2020"
+      "lastUpdated": "4/29/2020"
     }
   ],
   "Palau": [
@@ -13089,7 +13081,7 @@
         "populationEstimate": 0
       },
       "key": "",
-      "lastUpdated": "4/30/2020"
+      "lastUpdated": "4/29/2020"
     }
   ]
 }

@@ -590,7 +590,7 @@
         "country": "United States of America",
         "province": "Arizona",
         "jurisdiction": "",
-        "population": 7316832,
+        "population": 7316517,
         "populationEstimate": 0,
         "coord": {
           "long": "-111.4312",
@@ -598,7 +598,7 @@
         }
       },
       "key": "",
-      "lastUpdated": "2020-04-30T04:04:48.643Z"
+      "lastUpdated": "2020-04-30T03:56:04.406Z"
     },
     {
       "caseData": {
@@ -622,7 +622,7 @@
         "country": "United States of America",
         "province": "Arkansas",
         "jurisdiction": "",
-        "population": 3021192,
+        "population": 3021164,
         "populationEstimate": 0,
         "coord": {
           "long": "-92.3731",
@@ -630,7 +630,7 @@
         }
       },
       "key": "",
-      "lastUpdated": "2020-04-30T04:04:48.645Z"
+      "lastUpdated": "2020-04-30T03:56:04.407Z"
     },
     {
       "caseData": {
@@ -654,7 +654,7 @@
         "country": "United States of America",
         "province": "Colorado",
         "jurisdiction": "",
-        "population": 5787050,
+        "population": 5786816,
         "populationEstimate": 0,
         "coord": {
           "long": "-105.3111",
@@ -662,7 +662,7 @@
         }
       },
       "key": "",
-      "lastUpdated": "2020-04-30T04:04:48.648Z"
+      "lastUpdated": "2020-04-30T03:56:04.408Z"
     },
     {
       "caseData": {
@@ -717,7 +717,7 @@
         "country": "United States of America",
         "province": "District of Columbia",
         "jurisdiction": "",
-        "population": 708774,
+        "population": 708749,
         "populationEstimate": 0,
         "coord": {
           "long": "-77.0268",
@@ -725,7 +725,7 @@
         }
       },
       "key": "",
-      "lastUpdated": "2020-04-30T04:04:48.650Z"
+      "lastUpdated": "2020-04-30T03:56:04.412Z"
     },
     {
       "caseData": {
@@ -750,7 +750,7 @@
         "country": "United States of America",
         "province": "Idaho",
         "jurisdiction": "",
-        "population": 1797955,
+        "population": 1797865,
         "populationEstimate": 0,
         "coord": {
           "long": "-114.4788",
@@ -758,7 +758,7 @@
         }
       },
       "key": "",
-      "lastUpdated": "2020-04-30T04:04:48.659Z"
+      "lastUpdated": "2020-04-30T03:56:04.418Z"
     },
     {
       "caseData": {
@@ -782,7 +782,7 @@
         "country": "United States of America",
         "province": "Iowa",
         "jurisdiction": "",
-        "population": 3158095,
+        "population": 3158070,
         "populationEstimate": 0,
         "coord": {
           "long": "-93.2105",
@@ -790,7 +790,7 @@
         }
       },
       "key": "",
-      "lastUpdated": "2020-04-30T04:04:48.662Z"
+      "lastUpdated": "2020-04-30T03:56:04.424Z"
     },
     {
       "caseData": {
@@ -814,7 +814,7 @@
         "country": "United States of America",
         "province": "Louisiana",
         "jurisdiction": "",
-        "population": 4649157,
+        "population": 4649154,
         "populationEstimate": 0,
         "coord": {
           "long": "-91.8678",
@@ -822,7 +822,7 @@
         }
       },
       "key": "",
-      "lastUpdated": "2020-04-30T04:04:48.664Z"
+      "lastUpdated": "2020-04-30T03:56:04.427Z"
     },
     {
       "caseData": {
@@ -846,7 +846,7 @@
         "country": "United States of America",
         "province": "Maine",
         "jurisdiction": "",
-        "population": 1345180,
+        "population": 1345172,
         "populationEstimate": 0,
         "coord": {
           "long": "-69.3819",
@@ -854,7 +854,7 @@
         }
       },
       "key": "",
-      "lastUpdated": "2020-04-30T04:04:48.665Z"
+      "lastUpdated": "2020-04-30T03:56:04.427Z"
     },
     {
       "caseData": {
@@ -878,7 +878,7 @@
         "country": "United States of America",
         "province": "Maryland",
         "jurisdiction": "",
-        "population": 6051609,
+        "population": 6051560,
         "populationEstimate": 0,
         "coord": {
           "long": "-76.8021",
@@ -886,7 +886,7 @@
         }
       },
       "key": "",
-      "lastUpdated": "2020-04-30T04:04:48.669Z"
+      "lastUpdated": "2020-04-30T03:56:04.429Z"
     },
     {
       "caseData": {
@@ -910,7 +910,7 @@
         "country": "United States of America",
         "province": "Massachusetts",
         "jurisdiction": "",
-        "population": 6901215,
+        "population": 6901143,
         "populationEstimate": 0,
         "coord": {
           "long": "-71.5301",
@@ -918,7 +918,7 @@
         }
       },
       "key": "",
-      "lastUpdated": "2020-04-30T04:04:48.670Z"
+      "lastUpdated": "2020-04-30T03:56:04.430Z"
     },
     {
       "caseData": {
@@ -942,7 +942,7 @@
         "country": "United States of America",
         "province": "Michigan",
         "jurisdiction": "",
-        "population": 9990608,
+        "population": 9990577,
         "populationEstimate": 0,
         "coord": {
           "long": "-84.5361",
@@ -950,7 +950,7 @@
         }
       },
       "key": "",
-      "lastUpdated": "2020-04-30T04:04:48.671Z"
+      "lastUpdated": "2020-04-30T03:56:04.431Z"
     },
     {
       "caseData": {
@@ -974,7 +974,7 @@
         "country": "United States of America",
         "province": "Minnesota",
         "jurisdiction": "",
-        "population": 5652337,
+        "population": 5652232,
         "populationEstimate": 0,
         "coord": {
           "long": "-93.9002",
@@ -982,7 +982,7 @@
         }
       },
       "key": "",
-      "lastUpdated": "2020-04-30T04:04:48.672Z"
+      "lastUpdated": "2020-04-30T03:56:04.434Z"
     },
     {
       "caseData": {
@@ -1006,7 +1006,7 @@
         "country": "United States of America",
         "province": "Mississippi",
         "jurisdiction": "",
-        "population": 2975181,
+        "population": 2975189,
         "populationEstimate": 0,
         "coord": {
           "long": "-89.6787",
@@ -1014,7 +1014,7 @@
         }
       },
       "key": "",
-      "lastUpdated": "2020-04-30T04:04:48.674Z"
+      "lastUpdated": "2020-04-30T03:56:04.435Z"
     },
     {
       "caseData": {
@@ -1038,7 +1038,7 @@
         "country": "United States of America",
         "province": "Missouri",
         "jurisdiction": "",
-        "population": 6142873,
+        "population": 6142828,
         "populationEstimate": 0,
         "coord": {
           "long": "-92.2884",
@@ -1046,7 +1046,7 @@
         }
       },
       "key": "",
-      "lastUpdated": "2020-04-30T04:04:48.675Z"
+      "lastUpdated": "2020-04-30T03:56:04.437Z"
     },
     {
       "caseData": {
@@ -1070,7 +1070,7 @@
         "country": "United States of America",
         "province": "Montana",
         "jurisdiction": "",
-        "population": 1071924,
+        "population": 1071898,
         "populationEstimate": 0,
         "coord": {
           "long": "-110.4544",
@@ -1078,7 +1078,7 @@
         }
       },
       "key": "",
-      "lastUpdated": "2020-04-30T04:04:48.676Z"
+      "lastUpdated": "2020-04-30T03:56:04.439Z"
     },
     {
       "caseData": {
@@ -1102,7 +1102,7 @@
         "country": "United States of America",
         "province": "Nebraska",
         "jurisdiction": "",
-        "population": 1938159,
+        "population": 1938128,
         "populationEstimate": 0,
         "coord": {
           "long": "-98.2681",
@@ -1110,7 +1110,7 @@
         }
       },
       "key": "",
-      "lastUpdated": "2020-04-30T04:04:48.676Z"
+      "lastUpdated": "2020-04-30T03:56:04.440Z"
     },
     {
       "caseData": {
@@ -1134,7 +1134,7 @@
         "country": "United States of America",
         "province": "Nevada",
         "jurisdiction": "",
-        "population": 3098548,
+        "population": 3098396,
         "populationEstimate": 0,
         "coord": {
           "long": "-117.0554",
@@ -1142,7 +1142,7 @@
         }
       },
       "key": "",
-      "lastUpdated": "2020-04-30T04:04:48.677Z"
+      "lastUpdated": "2020-04-30T03:56:04.441Z"
     },
     {
       "caseData": {
@@ -1166,7 +1166,7 @@
         "country": "United States of America",
         "province": "New Hampshire",
         "jurisdiction": "",
-        "population": 1361526,
+        "population": 1361511,
         "populationEstimate": 0,
         "coord": {
           "long": "-71.5639",
@@ -1174,7 +1174,7 @@
         }
       },
       "key": "",
-      "lastUpdated": "2020-04-30T04:04:48.680Z"
+      "lastUpdated": "2020-04-30T03:56:04.444Z"
     },
     {
       "caseData": {
@@ -1198,7 +1198,7 @@
         "country": "United States of America",
         "province": "New Jersey",
         "jurisdiction": "",
-        "population": 8883400,
+        "population": 8883390,
         "populationEstimate": 0,
         "coord": {
           "long": "-74.521",
@@ -1206,7 +1206,7 @@
         }
       },
       "key": "",
-      "lastUpdated": "2020-04-30T04:04:48.682Z"
+      "lastUpdated": "2020-04-30T03:56:04.445Z"
     },
     {
       "caseData": {
@@ -1230,7 +1230,7 @@
         "country": "United States of America",
         "province": "New Mexico",
         "jurisdiction": "",
-        "population": 2097313,
+        "population": 2097309,
         "populationEstimate": 0,
         "coord": {
           "long": "-106.2485",
@@ -1238,7 +1238,7 @@
         }
       },
       "key": "",
-      "lastUpdated": "2020-04-30T04:04:48.682Z"
+      "lastUpdated": "2020-04-30T03:56:04.448Z"
     },
     {
       "caseData": {
@@ -1262,7 +1262,7 @@
         "country": "United States of America",
         "province": "New York",
         "jurisdiction": "",
-        "population": 19440493,
+        "population": 19440601,
         "populationEstimate": 0,
         "coord": {
           "long": "-74.9481",
@@ -1270,7 +1270,7 @@
         }
       },
       "key": "",
-      "lastUpdated": "2020-04-30T04:04:48.683Z"
+      "lastUpdated": "2020-04-30T03:56:04.449Z"
     },
     {
       "caseData": {
@@ -1294,7 +1294,7 @@
         "country": "United States of America",
         "province": "North Carolina",
         "jurisdiction": "",
-        "population": 10526078,
+        "population": 10525764,
         "populationEstimate": 0,
         "coord": {
           "long": "-79.8064",
@@ -1302,7 +1302,7 @@
         }
       },
       "key": "",
-      "lastUpdated": "2020-04-30T04:04:48.684Z"
+      "lastUpdated": "2020-04-30T03:56:04.449Z"
     },
     {
       "caseData": {
@@ -1326,7 +1326,7 @@
         "country": "United States of America",
         "province": "North Dakota",
         "jurisdiction": "",
-        "population": 763756,
+        "population": 763742,
         "populationEstimate": 0,
         "coord": {
           "long": "-99.78399999999999",
@@ -1334,7 +1334,7 @@
         }
       },
       "key": "",
-      "lastUpdated": "2020-04-30T04:04:48.685Z"
+      "lastUpdated": "2020-04-30T03:56:04.450Z"
     },
     {
       "caseData": {
@@ -1358,7 +1358,7 @@
         "country": "United States of America",
         "province": "Ohio",
         "jurisdiction": "",
-        "population": 11694908,
+        "population": 11694860,
         "populationEstimate": 0,
         "coord": {
           "long": "-82.7649",
@@ -1366,7 +1366,7 @@
         }
       },
       "key": "",
-      "lastUpdated": "2020-04-30T04:04:48.687Z"
+      "lastUpdated": "2020-04-30T03:56:04.452Z"
     },
     {
       "caseData": {
@@ -1390,7 +1390,7 @@
         "country": "United States of America",
         "province": "Oklahoma",
         "jurisdiction": "",
-        "population": 3962295,
+        "population": 3962251,
         "populationEstimate": 0,
         "coord": {
           "long": "-96.9289",
@@ -1398,7 +1398,7 @@
         }
       },
       "key": "",
-      "lastUpdated": "2020-04-30T04:04:48.687Z"
+      "lastUpdated": "2020-04-30T03:56:04.453Z"
     },
     {
       "caseData": {
@@ -1422,7 +1422,7 @@
         "country": "United States of America",
         "province": "Oregon",
         "jurisdiction": "",
-        "population": 4235282,
+        "population": 4235137,
         "populationEstimate": 0,
         "coord": {
           "long": "-122.0709",
@@ -1430,7 +1430,7 @@
         }
       },
       "key": "",
-      "lastUpdated": "2020-04-30T04:04:48.688Z"
+      "lastUpdated": "2020-04-30T03:56:04.456Z"
     },
     {
       "caseData": {
@@ -1454,7 +1454,7 @@
         "country": "United States of America",
         "province": "Pennsylvania",
         "jurisdiction": "",
-        "population": 12802957,
+        "population": 12802949,
         "populationEstimate": 0,
         "coord": {
           "long": "-77.2098",
@@ -1462,7 +1462,7 @@
         }
       },
       "key": "",
-      "lastUpdated": "2020-04-30T04:04:48.692Z"
+      "lastUpdated": "2020-04-30T03:56:04.461Z"
     },
     {
       "caseData": {
@@ -1486,7 +1486,7 @@
         "country": "United States of America",
         "province": "Puerto Rico",
         "jurisdiction": "",
-        "population": 3172519,
+        "population": 3172694,
         "populationEstimate": 0,
         "coord": {
           "long": "-66.5901",
@@ -1494,7 +1494,7 @@
         }
       },
       "key": "",
-      "lastUpdated": "2020-04-30T04:04:48.693Z"
+      "lastUpdated": "2020-04-30T03:56:04.462Z"
     },
     {
       "caseData": {
@@ -1518,7 +1518,7 @@
         "country": "United States of America",
         "province": "Rhode Island",
         "jurisdiction": "",
-        "population": 1059603,
+        "population": 1059601,
         "populationEstimate": 0,
         "coord": {
           "long": "-71.5118",
@@ -1526,7 +1526,7 @@
         }
       },
       "key": "",
-      "lastUpdated": "2020-04-30T04:04:48.694Z"
+      "lastUpdated": "2020-04-30T03:56:04.463Z"
     },
     {
       "caseData": {
@@ -1550,7 +1550,7 @@
         "country": "United States of America",
         "province": "South Carolina",
         "jurisdiction": "",
-        "population": 5171099,
+        "population": 5170914,
         "populationEstimate": 0,
         "coord": {
           "long": "-80.945",
@@ -1558,7 +1558,7 @@
         }
       },
       "key": "",
-      "lastUpdated": "2020-04-30T04:04:48.695Z"
+      "lastUpdated": "2020-04-30T03:56:04.464Z"
     },
     {
       "caseData": {
@@ -1582,7 +1582,7 @@
         "country": "United States of America",
         "province": "South Dakota",
         "jurisdiction": "",
-        "population": 887079,
+        "population": 887059,
         "populationEstimate": 0,
         "coord": {
           "long": "-99.4388",
@@ -1590,7 +1590,7 @@
         }
       },
       "key": "",
-      "lastUpdated": "2020-04-30T04:04:48.696Z"
+      "lastUpdated": "2020-04-30T03:56:04.466Z"
     },
     {
       "caseData": {
@@ -1614,7 +1614,7 @@
         "country": "United States of America",
         "province": "Tennessee",
         "jurisdiction": "",
-        "population": 6848776,
+        "population": 6848614,
         "populationEstimate": 0,
         "coord": {
           "long": "-86.6923",
@@ -1622,7 +1622,7 @@
         }
       },
       "key": "",
-      "lastUpdated": "2020-04-30T04:04:48.697Z"
+      "lastUpdated": "2020-04-30T03:56:04.467Z"
     },
     {
       "caseData": {
@@ -1646,7 +1646,7 @@
         "country": "United States of America",
         "province": "Texas",
         "jurisdiction": "",
-        "population": 29136604,
+        "population": 29135441,
         "populationEstimate": 0,
         "coord": {
           "long": "-97.5635",
@@ -1654,7 +1654,7 @@
         }
       },
       "key": "",
-      "lastUpdated": "2020-04-30T04:04:48.698Z"
+      "lastUpdated": "2020-04-30T03:56:04.468Z"
     },
     {
       "caseData": {
@@ -1678,7 +1678,7 @@
         "country": "United States of America",
         "province": "Utah",
         "jurisdiction": "",
-        "population": 3224713,
+        "population": 3224558,
         "populationEstimate": 0,
         "coord": {
           "long": "-111.8624",
@@ -1686,7 +1686,7 @@
         }
       },
       "key": "",
-      "lastUpdated": "2020-04-30T04:04:48.699Z"
+      "lastUpdated": "2020-04-30T03:56:04.469Z"
     },
     {
       "caseData": {
@@ -1710,7 +1710,7 @@
         "country": "United States of America",
         "province": "Vermont",
         "jurisdiction": "",
-        "population": 623868,
+        "population": 623869,
         "populationEstimate": 0,
         "coord": {
           "long": "-72.7107",
@@ -1718,7 +1718,7 @@
         }
       },
       "key": "",
-      "lastUpdated": "2020-04-30T04:04:48.702Z"
+      "lastUpdated": "2020-04-30T03:56:04.470Z"
     },
     {
       "caseData": {
@@ -1742,7 +1742,7 @@
         "country": "United States of America",
         "province": "Virginia",
         "jurisdiction": "",
-        "population": 8550644,
+        "population": 8550519,
         "populationEstimate": 0,
         "coord": {
           "long": "-78.17",
@@ -1750,7 +1750,7 @@
         }
       },
       "key": "",
-      "lastUpdated": "2020-04-30T04:04:48.704Z"
+      "lastUpdated": "2020-04-30T03:56:04.472Z"
     },
     {
       "caseData": {
@@ -1774,7 +1774,7 @@
         "country": "United States of America",
         "province": "Washington",
         "jurisdiction": "",
-        "population": 7653734,
+        "population": 7653413,
         "populationEstimate": 0,
         "coord": {
           "long": "-121.4905",
@@ -1782,7 +1782,7 @@
         }
       },
       "key": "",
-      "lastUpdated": "2020-04-30T04:04:48.705Z"
+      "lastUpdated": "2020-04-30T03:56:04.473Z"
     },
     {
       "caseData": {
@@ -1806,7 +1806,7 @@
         "country": "United States of America",
         "province": "West Virginia",
         "jurisdiction": "",
-        "population": 8550644,
+        "population": 8550519,
         "populationEstimate": 0,
         "coord": {
           "long": "-80.9545",
@@ -1814,7 +1814,7 @@
         }
       },
       "key": "",
-      "lastUpdated": "2020-04-30T04:04:48.706Z"
+      "lastUpdated": "2020-04-30T03:56:04.473Z"
     },
     {
       "caseData": {
@@ -1838,7 +1838,7 @@
         "country": "United States of America",
         "province": "Wisconsin",
         "jurisdiction": "",
-        "population": 5827153,
+        "population": 5827114,
         "populationEstimate": 0,
         "coord": {
           "long": "-89.6165",
@@ -1846,7 +1846,7 @@
         }
       },
       "key": "",
-      "lastUpdated": "2020-04-30T04:04:48.707Z"
+      "lastUpdated": "2020-04-30T03:56:04.474Z"
     },
     {
       "caseData": {
@@ -1870,7 +1870,7 @@
         "country": "United States of America",
         "province": "Wyoming",
         "jurisdiction": "",
-        "population": 578517,
+        "population": 578519,
         "populationEstimate": 0,
         "coord": {
           "long": "-107.3025",
@@ -1878,7 +1878,7 @@
         }
       },
       "key": "",
-      "lastUpdated": "2020-04-30T04:04:48.707Z"
+      "lastUpdated": "2020-04-30T03:56:04.481Z"
     },
     {
       "caseData": {
@@ -1923,7 +1923,7 @@
         "country": "United States of America",
         "province": "Alabama",
         "jurisdiction": "",
-        "population": 4907299,
+        "population": 4907265,
         "populationEstimate": 0,
         "coord": {
           "long": "-86.9023",
@@ -1931,7 +1931,7 @@
         }
       },
       "key": "",
-      "lastUpdated": "2020-04-30T04:04:48.635Z",
+      "lastUpdated": "2020-04-30T03:56:04.401Z",
       "ha": "http://www.alabamapublichealth.gov/covid19/index.html"
     },
     {
@@ -1972,7 +1972,7 @@
         "country": "United States of America",
         "province": "Alaska",
         "jurisdiction": "",
-        "population": 731182,
+        "population": 731185,
         "populationEstimate": 0,
         "coord": {
           "long": "-152.4044",
@@ -1980,7 +1980,7 @@
         }
       },
       "key": "",
-      "lastUpdated": "2020-04-30T04:04:48.636Z",
+      "lastUpdated": "2020-04-30T03:56:04.402Z",
       "data": {}
     },
     {
@@ -2035,7 +2035,7 @@
         "country": "United States of America",
         "province": "California",
         "jurisdiction": "",
-        "population": 39573812,
+        "population": 39573303,
         "populationEstimate": 0,
         "coord": {
           "long": "-119.6816",
@@ -2043,7 +2043,7 @@
         }
       },
       "key": "",
-      "lastUpdated": "2020-04-30T04:04:48.647Z",
+      "lastUpdated": "2020-04-30T03:56:04.407Z",
       "lastUpdates": "2020-04-26",
       "ha": "https://covid19.ca.gov/"
     },
@@ -2072,7 +2072,7 @@
         "country": "United States of America",
         "province": "Connecticut",
         "jurisdiction": "",
-        "population": 3563351,
+        "population": 3563367,
         "populationEstimate": 0,
         "coord": {
           "long": "-72.7554",
@@ -2080,7 +2080,7 @@
         }
       },
       "key": "",
-      "lastUpdated": "2020-04-30T04:04:48.648Z",
+      "lastUpdated": "2020-04-30T03:56:04.410Z",
       "ha": "https://data.ct.gov/stories/s/COVID-19-data",
       "data": [
         [
@@ -2201,7 +2201,7 @@
         "country": "United States of America",
         "province": "Delaware",
         "jurisdiction": "",
-        "population": 976547,
+        "population": 976524,
         "populationEstimate": 0,
         "coord": {
           "long": "-75.5071",
@@ -2209,7 +2209,7 @@
         }
       },
       "key": "",
-      "lastUpdated": "2020-04-30T04:04:48.649Z",
+      "lastUpdated": "2020-04-30T03:56:04.411Z",
       "confirmed": 4655,
       "ha": "https://coronavirus.delaware.gov/"
     },
@@ -2252,7 +2252,7 @@
         "country": "United States of America",
         "province": "Florida",
         "jurisdiction": "",
-        "population": 21591235,
+        "population": 21590297,
         "populationEstimate": 0,
         "coord": {
           "long": "-81.6868",
@@ -2260,7 +2260,7 @@
         }
       },
       "key": "",
-      "lastUpdated": "2020-04-30T04:04:48.651Z"
+      "lastUpdated": "2020-04-30T03:56:04.413Z"
     },
     {
       "caseData": {
@@ -2289,7 +2289,7 @@
         "country": "United States of America",
         "province": "Georgia",
         "jurisdiction": "",
-        "population": 10655054,
+        "population": 10654743,
         "populationEstimate": 0,
         "coord": {
           "long": "-83.6431",
@@ -2297,7 +2297,7 @@
         }
       },
       "key": "",
-      "lastUpdated": "2020-04-30T04:04:48.652Z"
+      "lastUpdated": "2020-04-30T03:56:04.414Z"
     },
     {
       "caseData": {
@@ -2409,7 +2409,7 @@
         "country": "United States of America",
         "province": "Hawaii",
         "jurisdiction": "",
-        "population": 1415993,
+        "population": 1415992,
         "populationEstimate": 0,
         "coord": {
           "long": "-157.4983",
@@ -2417,7 +2417,7 @@
         }
       },
       "key": "",
-      "lastUpdated": "2020-04-30T04:04:48.658Z",
+      "lastUpdated": "2020-04-30T03:56:04.416Z",
       "ha": "https://hawaiicovid19.com/"
     },
     {
@@ -2503,7 +2503,7 @@
         "country": "United States of America",
         "province": "Illinois",
         "jurisdiction": "",
-        "population": 12657906,
+        "population": 12658021,
         "populationEstimate": 0,
         "coord": {
           "long": "-88.9861",
@@ -2511,7 +2511,7 @@
         }
       },
       "key": "",
-      "lastUpdated": "2020-04-30T04:04:48.660Z",
+      "lastUpdated": "2020-04-30T03:56:04.423Z",
       "recovered": 2212
     },
     {
@@ -2929,7 +2929,7 @@
         "country": "United States of America",
         "province": "Indiana",
         "jurisdiction": "",
-        "population": 6741536,
+        "population": 6741459,
         "populationEstimate": 0,
         "coord": {
           "long": "-86.2583",
@@ -2937,7 +2937,7 @@
         }
       },
       "key": "",
-      "lastUpdated": "2020-04-30T04:04:48.661Z",
+      "lastUpdated": "2020-04-30T03:56:04.423Z",
       "ha": "https://www.coronavirus.in.gov/"
     },
     {
@@ -2972,7 +2972,7 @@
         "country": "United States of America",
         "province": "Kansas",
         "jurisdiction": "",
-        "population": 2914161,
+        "population": 2914154,
         "populationEstimate": 0,
         "coord": {
           "long": "-96.7265",
@@ -2980,7 +2980,7 @@
         }
       },
       "key": "",
-      "lastUpdated": "2020-04-30T04:04:48.662Z"
+      "lastUpdated": "2020-04-30T03:56:04.425Z"
     },
     {
       "caseData": {
@@ -5627,7 +5627,7 @@
         "country": "United States of America",
         "province": "Kentucky",
         "jurisdiction": "",
-        "population": 4471182,
+        "population": 4471153,
         "populationEstimate": 0,
         "coord": {
           "long": "-84.6701",
@@ -5635,7 +5635,7 @@
         }
       },
       "key": "",
-      "lastUpdated": "2020-04-30T04:04:48.663Z",
+      "lastUpdated": "2020-04-30T03:56:04.426Z",
       "ha": "https://govstatus.egov.com/kycovid19"
     }
   ],
