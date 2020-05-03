@@ -587,8 +587,6 @@
         "hospitalized": 0,
         "icu": 0
       },
-      "iso2": "CA",
-      "iso3": "CAN",
       "location": {
         "continent": "North America",
         "country": "Canada",
@@ -600,8 +598,6 @@
       "key": [
         "Canada",
         "Yukon",
-        "CA",
-        "CAN",
         "YK"
       ],
       "ha": "https://yukon.ca/en/health-and-wellness/covid-19",
@@ -745,7 +741,7 @@
         "US",
         "USA"
       ],
-      "lastUpdated": "2020-05-03T01:22:47.835Z"
+      "lastUpdated": "2020-05-03T01:16:01.170Z"
     },
     {
       "caseData": {
@@ -782,7 +778,7 @@
         "US",
         "USA"
       ],
-      "lastUpdated": "2020-05-03T01:22:47.837Z"
+      "lastUpdated": "2020-05-03T01:16:01.171Z"
     },
     {
       "caseData": {
@@ -855,7 +851,7 @@
         "US",
         "USA"
       ],
-      "lastUpdated": "2020-05-03T01:22:47.851Z"
+      "lastUpdated": "2020-05-03T01:16:01.175Z"
     },
     {
       "caseData": {
@@ -892,7 +888,7 @@
         "US",
         "USA"
       ],
-      "lastUpdated": "2020-05-03T01:22:47.860Z"
+      "lastUpdated": "2020-05-03T01:16:01.180Z"
     },
     {
       "caseData": {
@@ -930,7 +926,7 @@
         "US",
         "USA"
       ],
-      "lastUpdated": "2020-05-03T01:22:47.866Z"
+      "lastUpdated": "2020-05-03T01:16:01.183Z"
     },
     {
       "caseData": {
@@ -967,7 +963,7 @@
         "US",
         "USA"
       ],
-      "lastUpdated": "2020-05-03T01:22:47.875Z"
+      "lastUpdated": "2020-05-03T01:16:01.185Z"
     },
     {
       "caseData": {
@@ -1004,7 +1000,7 @@
         "US",
         "USA"
       ],
-      "lastUpdated": "2020-05-03T01:22:47.885Z"
+      "lastUpdated": "2020-05-03T01:16:01.190Z"
     },
     {
       "caseData": {
@@ -1041,7 +1037,7 @@
         "US",
         "USA"
       ],
-      "lastUpdated": "2020-05-03T01:22:47.887Z"
+      "lastUpdated": "2020-05-03T01:16:01.191Z"
     },
     {
       "caseData": {
@@ -1078,7 +1074,7 @@
         "US",
         "USA"
       ],
-      "lastUpdated": "2020-05-03T01:22:47.900Z"
+      "lastUpdated": "2020-05-03T01:16:01.194Z"
     },
     {
       "caseData": {
@@ -1115,7 +1111,7 @@
         "US",
         "USA"
       ],
-      "lastUpdated": "2020-05-03T01:22:47.902Z"
+      "lastUpdated": "2020-05-03T01:16:01.195Z"
     },
     {
       "caseData": {
@@ -1152,7 +1148,7 @@
         "US",
         "USA"
       ],
-      "lastUpdated": "2020-05-03T01:22:47.904Z"
+      "lastUpdated": "2020-05-03T01:16:01.196Z"
     },
     {
       "caseData": {
@@ -1189,7 +1185,7 @@
         "US",
         "USA"
       ],
-      "lastUpdated": "2020-05-03T01:22:47.906Z"
+      "lastUpdated": "2020-05-03T01:16:01.197Z"
     },
     {
       "caseData": {
@@ -1226,7 +1222,7 @@
         "US",
         "USA"
       ],
-      "lastUpdated": "2020-05-03T01:22:47.911Z"
+      "lastUpdated": "2020-05-03T01:16:01.198Z"
     },
     {
       "caseData": {
@@ -1263,7 +1259,7 @@
         "US",
         "USA"
       ],
-      "lastUpdated": "2020-05-03T01:22:47.914Z"
+      "lastUpdated": "2020-05-03T01:16:01.202Z"
     },
     {
       "caseData": {
@@ -1300,7 +1296,7 @@
         "US",
         "USA"
       ],
-      "lastUpdated": "2020-05-03T01:22:47.917Z"
+      "lastUpdated": "2020-05-03T01:16:01.203Z"
     },
     {
       "caseData": {
@@ -1337,7 +1333,7 @@
         "US",
         "USA"
       ],
-      "lastUpdated": "2020-05-03T01:22:47.928Z"
+      "lastUpdated": "2020-05-03T01:16:01.204Z"
     },
     {
       "caseData": {
@@ -1374,7 +1370,7 @@
         "US",
         "USA"
       ],
-      "lastUpdated": "2020-05-03T01:22:47.941Z"
+      "lastUpdated": "2020-05-03T01:16:01.205Z"
     },
     {
       "caseData": {
@@ -1411,7 +1407,7 @@
         "US",
         "USA"
       ],
-      "lastUpdated": "2020-05-03T01:22:47.944Z"
+      "lastUpdated": "2020-05-03T01:16:01.206Z"
     },
     {
       "caseData": {
@@ -1448,7 +1444,7 @@
         "US",
         "USA"
       ],
-      "lastUpdated": "2020-05-03T01:22:47.951Z"
+      "lastUpdated": "2020-05-03T01:16:01.207Z"
     },
     {
       "caseData": {
@@ -1485,7 +1481,7 @@
         "US",
         "USA"
       ],
-      "lastUpdated": "2020-05-03T01:22:47.956Z"
+      "lastUpdated": "2020-05-03T01:16:01.208Z"
     },
     {
       "caseData": {
@@ -1522,7 +1518,7 @@
         "US",
         "USA"
       ],
-      "lastUpdated": "2020-05-03T01:22:47.962Z"
+      "lastUpdated": "2020-05-03T01:16:01.208Z"
     },
     {
       "caseData": {
@@ -1559,7 +1555,7 @@
         "US",
         "USA"
       ],
-      "lastUpdated": "2020-05-03T01:22:47.964Z"
+      "lastUpdated": "2020-05-03T01:16:01.209Z"
     },
     {
       "caseData": {
@@ -1596,7 +1592,7 @@
         "US",
         "USA"
       ],
-      "lastUpdated": "2020-05-03T01:22:47.989Z"
+      "lastUpdated": "2020-05-03T01:16:01.210Z"
     },
     {
       "caseData": {
@@ -1633,7 +1629,7 @@
         "US",
         "USA"
       ],
-      "lastUpdated": "2020-05-03T01:22:48.006Z"
+      "lastUpdated": "2020-05-03T01:16:01.214Z"
     },
     {
       "caseData": {
@@ -1670,7 +1666,7 @@
         "US",
         "USA"
       ],
-      "lastUpdated": "2020-05-03T01:22:48.010Z"
+      "lastUpdated": "2020-05-03T01:16:01.216Z"
     },
     {
       "caseData": {
@@ -1707,7 +1703,7 @@
         "US",
         "USA"
       ],
-      "lastUpdated": "2020-05-03T01:22:48.017Z"
+      "lastUpdated": "2020-05-03T01:16:01.216Z"
     },
     {
       "caseData": {
@@ -1744,7 +1740,7 @@
         "US",
         "USA"
       ],
-      "lastUpdated": "2020-05-03T01:22:48.038Z"
+      "lastUpdated": "2020-05-03T01:16:01.220Z"
     },
     {
       "caseData": {
@@ -1781,7 +1777,7 @@
         "US",
         "USA"
       ],
-      "lastUpdated": "2020-05-03T01:22:48.046Z"
+      "lastUpdated": "2020-05-03T01:16:01.221Z"
     },
     {
       "caseData": {
@@ -1818,7 +1814,7 @@
         "US",
         "USA"
       ],
-      "lastUpdated": "2020-05-03T01:22:48.048Z"
+      "lastUpdated": "2020-05-03T01:16:01.222Z"
     },
     {
       "caseData": {
@@ -1855,7 +1851,7 @@
         "US",
         "USA"
       ],
-      "lastUpdated": "2020-05-03T01:22:48.050Z"
+      "lastUpdated": "2020-05-03T01:16:01.225Z"
     },
     {
       "caseData": {
@@ -1892,7 +1888,7 @@
         "US",
         "USA"
       ],
-      "lastUpdated": "2020-05-03T01:22:48.068Z"
+      "lastUpdated": "2020-05-03T01:16:01.226Z"
     },
     {
       "caseData": {
@@ -1929,7 +1925,7 @@
         "US",
         "USA"
       ],
-      "lastUpdated": "2020-05-03T01:22:48.071Z"
+      "lastUpdated": "2020-05-03T01:16:01.227Z"
     },
     {
       "caseData": {
@@ -1966,7 +1962,7 @@
         "US",
         "USA"
       ],
-      "lastUpdated": "2020-05-03T01:22:48.074Z"
+      "lastUpdated": "2020-05-03T01:16:01.228Z"
     },
     {
       "caseData": {
@@ -2003,7 +1999,7 @@
         "US",
         "USA"
       ],
-      "lastUpdated": "2020-05-03T01:22:48.082Z"
+      "lastUpdated": "2020-05-03T01:16:01.229Z"
     },
     {
       "caseData": {
@@ -2040,7 +2036,7 @@
         "US",
         "USA"
       ],
-      "lastUpdated": "2020-05-03T01:22:48.084Z"
+      "lastUpdated": "2020-05-03T01:16:01.230Z"
     },
     {
       "caseData": {
@@ -2077,7 +2073,7 @@
         "US",
         "USA"
       ],
-      "lastUpdated": "2020-05-03T01:22:48.089Z"
+      "lastUpdated": "2020-05-03T01:16:01.231Z"
     },
     {
       "caseData": {
@@ -2114,7 +2110,7 @@
         "US",
         "USA"
       ],
-      "lastUpdated": "2020-05-03T01:22:48.091Z"
+      "lastUpdated": "2020-05-03T01:16:01.232Z"
     },
     {
       "caseData": {
@@ -2151,7 +2147,7 @@
         "US",
         "USA"
       ],
-      "lastUpdated": "2020-05-03T01:22:48.097Z"
+      "lastUpdated": "2020-05-03T01:16:01.233Z"
     },
     {
       "caseData": {
@@ -2188,7 +2184,7 @@
         "US",
         "USA"
       ],
-      "lastUpdated": "2020-05-03T01:22:48.099Z"
+      "lastUpdated": "2020-05-03T01:16:01.234Z"
     },
     {
       "caseData": {
@@ -2225,7 +2221,7 @@
         "US",
         "USA"
       ],
-      "lastUpdated": "2020-05-03T01:22:48.111Z"
+      "lastUpdated": "2020-05-03T01:16:01.237Z"
     },
     {
       "caseData": {
@@ -72031,7 +72027,7 @@
         "US",
         "USA"
       ],
-      "lastUpdated": "2020-05-03T01:22:47.818Z",
+      "lastUpdated": "2020-05-03T01:16:01.167Z",
       "ha": "http://www.alabamapublichealth.gov/covid19/index.html",
       "data": {
         "testSites": {
@@ -75465,7 +75461,7 @@
         "US",
         "USA"
       ],
-      "lastUpdated": "2020-05-03T01:22:47.820Z",
+      "lastUpdated": "2020-05-03T01:16:01.167Z",
       "data": {}
     },
     {
@@ -75533,7 +75529,7 @@
         "US",
         "USA"
       ],
-      "lastUpdated": "2020-05-03T01:22:47.839Z",
+      "lastUpdated": "2020-05-03T01:16:01.172Z",
       "lastUpdates": "2020-05-01",
       "data": {},
       "ha": "https://covid19.ca.gov/"
@@ -77571,7 +77567,7 @@
         "US",
         "USA"
       ],
-      "lastUpdated": "2020-05-03T01:22:47.845Z"
+      "lastUpdated": "2020-05-03T01:16:01.172Z"
     },
     {
       "caseData": {
@@ -77609,7 +77605,58 @@
         "US",
         "USA"
       ],
-      "lastUpdated": "2020-05-03T01:22:47.848Z",
+      "lastUpdated": "2020-05-03T01:16:01.173Z",
+      "data": {}
+    },
+    {
+      "caseData": {
+        "confirmed": 4918,
+        "deaths": 168,
+        "recovered": 1546,
+        "active": 3324,
+        "tested": 18074,
+        "hospitalized": 300,
+        "icu": 64,
+        "spreadCommunity": "Yes, widespread",
+        "cfr": 3.42,
+        "mortalityRate": 3.2330215534770232,
+        "testingRate": 2319.3504791715445,
+        "hospitalizationRate": 0,
+        "genderInfo": {
+          "male": 2308,
+          "female": 2709
+        },
+        "ageInfo": {
+          "under5": 46,
+          "5to17": 152,
+          "18to49": 2688,
+          "50to64": 1268,
+          "65+": 884
+        }
+      },
+      "iso2": "US",
+      "iso3": "USA",
+      "location": {
+        "continent": "North America",
+        "country": "United States of America",
+        "province": "Delaware",
+        "jurisdiction": "",
+        "population": 976593,
+        "populationEstimate": 0,
+        "coord": {
+          "long": "-75.5071",
+          "lat": "39.3185"
+        }
+      },
+      "key": [
+        "United States of America",
+        "Delaware",
+        "US",
+        "USA"
+      ],
+      "lastUpdated": "2020-05-03T01:16:01.174Z",
+      "confirmed": 5038,
+      "ha": "https://coronavirus.delaware.gov/",
       "data": {}
     },
     {
@@ -77691,58 +77738,7 @@
         "US",
         "USA"
       ],
-      "lastUpdated": "2020-05-03T01:22:47.857Z",
-      "data": {}
-    },
-    {
-      "caseData": {
-        "confirmed": 4918,
-        "deaths": 168,
-        "recovered": 1546,
-        "active": 3324,
-        "tested": 18074,
-        "hospitalized": 300,
-        "icu": 64,
-        "spreadCommunity": "Yes, widespread",
-        "cfr": 3.42,
-        "mortalityRate": 3.2330215534770232,
-        "testingRate": 2319.3504791715445,
-        "hospitalizationRate": 0,
-        "genderInfo": {
-          "male": 2308,
-          "female": 2709
-        },
-        "ageInfo": {
-          "under5": 46,
-          "5to17": 152,
-          "18to49": 2688,
-          "50to64": 1268,
-          "65+": 884
-        }
-      },
-      "iso2": "US",
-      "iso3": "USA",
-      "location": {
-        "continent": "North America",
-        "country": "United States of America",
-        "province": "Delaware",
-        "jurisdiction": "",
-        "population": 976593,
-        "populationEstimate": 0,
-        "coord": {
-          "long": "-75.5071",
-          "lat": "39.3185"
-        }
-      },
-      "key": [
-        "United States of America",
-        "Delaware",
-        "US",
-        "USA"
-      ],
-      "lastUpdated": "2020-05-03T01:22:47.849Z",
-      "confirmed": 5038,
-      "ha": "https://coronavirus.delaware.gov/",
+      "lastUpdated": "2020-05-03T01:16:01.179Z",
       "data": {}
     },
     {
@@ -77892,7 +77888,7 @@
         "US",
         "USA"
       ],
-      "lastUpdated": "2020-05-03T01:22:47.864Z",
+      "lastUpdated": "2020-05-03T01:16:01.182Z",
       "ha": "https://hawaiicovid19.com/"
     },
     {
@@ -80903,7 +80899,7 @@
         "US",
         "USA"
       ],
-      "lastUpdated": "2020-05-03T01:22:47.870Z",
+      "lastUpdated": "2020-05-03T01:16:01.184Z",
       "data": {},
       "recovered": 4907
     },
@@ -81335,7 +81331,7 @@
         "US",
         "USA"
       ],
-      "lastUpdated": "2020-05-03T01:22:47.872Z",
+      "lastUpdated": "2020-05-03T01:16:01.185Z",
       "ha": "https://www.coronavirus.in.gov/"
     },
     {
@@ -81383,7 +81379,7 @@
         "US",
         "USA"
       ],
-      "lastUpdated": "2020-05-03T01:22:47.878Z"
+      "lastUpdated": "2020-05-03T01:16:01.186Z"
     },
     {
       "caseData": {
@@ -84692,7 +84688,7 @@
         "US",
         "USA"
       ],
-      "lastUpdated": "2020-05-03T01:22:47.883Z",
+      "lastUpdated": "2020-05-03T01:16:01.189Z",
       "ha": "https://govstatus.egov.com/kycovid19"
     }
   ],
