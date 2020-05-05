@@ -58,13 +58,14 @@ DataSet{
           ageDetails : {optional object},
           
           raceDetails : {optional object}
+     }
           
-          data : {
+     data : {
           
                
-               ha : {type : link , link:string },  // Health Authority -  available on **most** data sets
+          ha : {type : link , link:string },  // Health Authority -  available on **most** data sets
                
-               testingCenter : [{type:link, link:string}, {type:json , json: object} ] // This is being added to ***most** data sets
+              testingCenter : [{type:link, link:string}, {type:json , json: object} ] // This is being added to ***most** data sets
                
                // Optional Items
           
