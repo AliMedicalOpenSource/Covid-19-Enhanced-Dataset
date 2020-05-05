@@ -10,5 +10,5 @@ mkdir ..\au\nsw
 copy temp\ ..\au\nsw
 del /s /q temp
 git add .
-git commit -m 'AutoUpdate'
+git commit -m "Auto Update"
 git push -u origin master
