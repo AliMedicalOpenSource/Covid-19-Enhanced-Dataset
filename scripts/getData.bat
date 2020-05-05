@@ -5,9 +5,10 @@ curl  https://nswdac-np-covid-19-postcode-heatmap.azurewebsites.net/datafiles/ag
 curl  https://nswdac-np-covid-19-postcode-heatmap.azurewebsites.net/datafiles/usecase2.json > temp/au-nsw-case2.json
 curl https://nswdac-np-covid-19-postcode-heatmap.azurewebsites.net/datafiles/data_cases.json >> temp/au-nsw-case.json
 curl  https://nswdac-np-covid-19-postcode-heatmap.azurewebsites.net/datafiles/fatalitiesdata.json  >> temp/au-nsw-fatalities.json
-mkdir ..\au
-mkdir ..\au\nsw
-copy temp\ ..\au\nsw
+mkdir ..\raw
+mkdir ..\raw\au
+mkdir ..\raw\au\nsw
+copy temp\ ..\raw\au\nsw
 del /s /q temp
 git add  ..\.
 git commit -m "Auto Update"
