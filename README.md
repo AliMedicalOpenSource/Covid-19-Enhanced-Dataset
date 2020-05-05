@@ -62,13 +62,19 @@ DataSet{
           data : {
           
                
-               ha : {type : link , link:string },  //Health Authority -  available on most data sets
+               ha : {type : link , link:string },  // Health Authority -  available on **most** data sets
+               
+               testingCenter : [{type:link, link:string}, {type:json , json: object} ] // This is being added to ***most** data sets
+               
+               // Optional Items
           
-               objcetName : {type : link , link:string },
+               objcetName : [{type : link , link:string }],
           
-               objcetName : {type : json , json:string },
+               objcetName : [{type : json , json:string }],
           
-               objcetName : {type : phone , phone:string }
+               objcetName : [{type : phone , phone:string }],
+          
+               objcetName : [{type : link , link:string },{type : phone , phone:string },{type : json , json:string }]
           
           }
           
