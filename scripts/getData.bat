@@ -11,5 +11,16 @@ mkdir ..\raw\au\nsw
 copy temp\ ..\raw\au\nsw
 del /s /q temp
 git add  ..\.
-git commit -m "Auto Update"
-git push -u origin master
+
+mkdir ..\raw
+mkdir ..\raw\usa
+mkdir ..\raw\usa\ga
+curl https://ga-covid19.ondemand.sas.com/docs/ga_covid_data.zip > ..\temp\us_ga_covid.zip
+unzip ..\temp\us_ga_covid.zip 
+copy *.csv ..\raw\usa\ga
+del /s /q ..\temp\us_ga_covid.zip
+del *.csv
+
+
+# git commit -m "Auto Update"
+# git push -u origin master
