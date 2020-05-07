@@ -19,7 +19,7 @@ unzip ..\temp\us_ga_covid.zip
 copy *.csv ..\raw\usa\ga
 del /s /q ..\temp\us_ga_covid.zip
 del /s /q *.csv
-curl  https://novascotia.ca/coronavirus/data/COVID-19-data.csv ..\temp\ca_ns_covid.json
+curl  https://novascotia.ca/coronavirus/data/COVID-19-data.csv > ..\temp\ca_ns_covid.json
 
 mkdir ..\raw
 mkdir ..\raw\ca
@@ -27,7 +27,5 @@ mkdir ..\raw\ca\ns
 copy temp\ ..\raw\ca\ns
 del /s /q temp\
 git add  ..\.
-
-
-  git commit -m "Auto Update"
-    git push -u origin master
+git commit -m "Auto Update"
+git push -u origin master
