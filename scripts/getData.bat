@@ -24,7 +24,7 @@ curl  https://novascotia.ca/coronavirus/data/COVID-19-data.csv ..\temp\ca_ns_cov
 mkdir ..\raw
 mkdir ..\raw\ca
 mkdir ..\raw\ca\ns
-copy temp\ ..\raw\ca\ns\nsw 
+copy temp\ ..\raw\ca\ns
 del /s /q temp\
 git add  ..\.
 
