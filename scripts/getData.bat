@@ -19,7 +19,7 @@ unzip ..\temp\us_ga_covid.zip
 copy *.csv ..\raw\usa\ga
 del /s /q ..\temp\us_ga_covid.zip
 del /s /q *.csv
-curl  https://novascotia.ca/coronavirus/data/COVID-19-data.csv >> temp\ca_ns_covid.json
+curl  https://novascotia.ca/coronavirus/data/COVID-19-data.csv >> temp\ca_ns_covid.csv
 
 mkdir ..\raw
 mkdir ..\raw\ca
