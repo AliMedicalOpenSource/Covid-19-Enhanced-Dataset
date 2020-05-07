@@ -730,6 +730,16 @@
     "Cumulative Confirmed": 3392
   },
   {
+    "day": "2020-05-07",
+    "Country": "AF",
+    "Country Name": "Afghanistan",
+    "Region": "EMRO",
+    "Deaths": 1,
+    "Cumulative Deaths": 105,
+    "Confirmed": 171,
+    "Cumulative Confirmed": 3563
+  },
+  {
     "day": "2020-03-09",
     "Country": "AL",
     "Country Name": "Albania",
@@ -1317,6 +1327,16 @@
     "Deaths": 0,
     "Cumulative Deaths": 31,
     "Confirmed": 12,
+    "Cumulative Confirmed": 832
+  },
+  {
+    "day": "2020-05-07",
+    "Country": "AL",
+    "Country Name": "Albania",
+    "Region": "EURO",
+    "Deaths": 0,
+    "Cumulative Deaths": 31,
+    "Confirmed": 0,
     "Cumulative Confirmed": 832
   },
   {
@@ -2040,6 +2060,16 @@
     "Cumulative Confirmed": 4838
   },
   {
+    "day": "2020-05-07",
+    "Country": "DZ",
+    "Country Name": "Algeria",
+    "Region": "AFRO",
+    "Deaths": 6,
+    "Cumulative Deaths": 476,
+    "Confirmed": 159,
+    "Cumulative Confirmed": 4997
+  },
+  {
     "day": "2020-03-02",
     "Country": "AD",
     "Country Name": "Andorra",
@@ -2700,6 +2730,16 @@
     "Cumulative Confirmed": 751
   },
   {
+    "day": "2020-05-07",
+    "Country": "AD",
+    "Country Name": "Andorra",
+    "Region": "EURO",
+    "Deaths": 1,
+    "Cumulative Deaths": 47,
+    "Confirmed": 1,
+    "Cumulative Confirmed": 752
+  },
+  {
     "day": "2020-03-21",
     "Country": "AO",
     "Country Name": "Angola",
@@ -3170,6 +3210,16 @@
     "Cumulative Confirmed": 36
   },
   {
+    "day": "2020-05-07",
+    "Country": "AO",
+    "Country Name": "Angola",
+    "Region": "AFRO",
+    "Deaths": 0,
+    "Cumulative Deaths": 2,
+    "Confirmed": 0,
+    "Cumulative Confirmed": 36
+  },
+  {
     "day": "2020-03-26",
     "Country": "AI",
     "Country Name": "Anguilla",
@@ -3581,6 +3631,16 @@
   },
   {
     "day": "2020-05-06",
+    "Country": "AI",
+    "Country Name": "Anguilla",
+    "Region": "AMRO",
+    "Deaths": 0,
+    "Cumulative Deaths": 0,
+    "Confirmed": 0,
+    "Cumulative Confirmed": 3
+  },
+  {
+    "day": "2020-05-07",
     "Country": "AI",
     "Country Name": "Anguilla",
     "Region": "AMRO",
@@ -4131,6 +4191,16 @@
   },
   {
     "day": "2020-05-06",
+    "Country": "AG",
+    "Country Name": "Antigua and Barbuda",
+    "Region": "AMRO",
+    "Deaths": 0,
+    "Cumulative Deaths": 3,
+    "Confirmed": 0,
+    "Cumulative Confirmed": 25
+  },
+  {
+    "day": "2020-05-07",
     "Country": "AG",
     "Country Name": "Antigua and Barbuda",
     "Region": "AMRO",
@@ -4788,6 +4858,16 @@
     "Cumulative Deaths": 262,
     "Confirmed": 123,
     "Cumulative Confirmed": 4922
+  },
+  {
+    "day": "2020-05-07",
+    "Country": "AR",
+    "Country Name": "Argentina",
+    "Region": "AMRO",
+    "Deaths": 2,
+    "Cumulative Deaths": 264,
+    "Confirmed": 154,
+    "Cumulative Confirmed": 5076
   },
   {
     "day": "2020-03-01",
@@ -5460,6 +5540,16 @@
     "Cumulative Confirmed": 2782
   },
   {
+    "day": "2020-05-07",
+    "Country": "AM",
+    "Country Name": "Armenia",
+    "Region": "EURO",
+    "Deaths": 2,
+    "Cumulative Deaths": 42,
+    "Confirmed": 102,
+    "Cumulative Confirmed": 2884
+  },
+  {
     "day": "2020-03-17",
     "Country": "AW",
     "Country Name": "Aruba",
@@ -5967,6 +6057,16 @@
     "Deaths": 0,
     "Cumulative Deaths": 2,
     "Confirmed": 1,
+    "Cumulative Confirmed": 101
+  },
+  {
+    "day": "2020-05-07",
+    "Country": "AW",
+    "Country Name": "Aruba",
+    "Region": "AMRO",
+    "Deaths": 0,
+    "Cumulative Deaths": 2,
+    "Confirmed": 0,
     "Cumulative Confirmed": 101
   },
   {
@@ -7000,6 +7100,16 @@
     "Cumulative Confirmed": 6849
   },
   {
+    "day": "2020-05-07",
+    "Country": "AU",
+    "Country Name": "Australia",
+    "Region": "WPRO",
+    "Deaths": 1,
+    "Cumulative Deaths": 97,
+    "Confirmed": 26,
+    "Cumulative Confirmed": 6875
+  },
+  {
     "day": "2020-02-25",
     "Country": "AT",
     "Country Name": "Austria",
@@ -7720,6 +7830,16 @@
     "Cumulative Confirmed": 15586
   },
   {
+    "day": "2020-05-07",
+    "Country": "AT",
+    "Country Name": "Austria",
+    "Region": "EURO",
+    "Deaths": 2,
+    "Cumulative Deaths": 608,
+    "Confirmed": 65,
+    "Cumulative Confirmed": 15651
+  },
+  {
     "day": "2020-02-29",
     "Country": "AZ",
     "Country Name": "Azerbaijan",
@@ -8400,6 +8520,16 @@
     "Cumulative Confirmed": 2060
   },
   {
+    "day": "2020-05-07",
+    "Country": "AZ",
+    "Country Name": "Azerbaijan",
+    "Region": "EURO",
+    "Deaths": 2,
+    "Cumulative Deaths": 28,
+    "Confirmed": 67,
+    "Cumulative Confirmed": 2127
+  },
+  {
     "day": "2020-03-17",
     "Country": "BS",
     "Country Name": "Bahamas",
@@ -8908,6 +9038,16 @@
     "Cumulative Deaths": 11,
     "Confirmed": 1,
     "Cumulative Confirmed": 84
+  },
+  {
+    "day": "2020-05-07",
+    "Country": "BS",
+    "Country Name": "Bahamas",
+    "Region": "AMRO",
+    "Deaths": 0,
+    "Cumulative Deaths": 11,
+    "Confirmed": 5,
+    "Cumulative Confirmed": 89
   },
   {
     "day": "2020-02-24",
@@ -9640,6 +9780,16 @@
     "Cumulative Confirmed": 3842
   },
   {
+    "day": "2020-05-07",
+    "Country": "BH",
+    "Country Name": "Bahrain",
+    "Region": "EMRO",
+    "Deaths": 0,
+    "Cumulative Deaths": 8,
+    "Confirmed": 289,
+    "Cumulative Confirmed": 4131
+  },
+  {
     "day": "2020-03-08",
     "Country": "BD",
     "Country Name": "Bangladesh",
@@ -10240,6 +10390,16 @@
     "Cumulative Confirmed": 11719
   },
   {
+    "day": "2020-05-07",
+    "Country": "BD",
+    "Country Name": "Bangladesh",
+    "Region": "SEARO",
+    "Deaths": 0,
+    "Cumulative Deaths": 186,
+    "Confirmed": 706,
+    "Cumulative Confirmed": 12425
+  },
+  {
     "day": "2020-03-18",
     "Country": "BB",
     "Country Name": "Barbados",
@@ -10731,6 +10891,16 @@
   },
   {
     "day": "2020-05-06",
+    "Country": "BB",
+    "Country Name": "Barbados",
+    "Region": "AMRO",
+    "Deaths": 0,
+    "Cumulative Deaths": 7,
+    "Confirmed": 0,
+    "Cumulative Confirmed": 82
+  },
+  {
+    "day": "2020-05-07",
     "Country": "BB",
     "Country Name": "Barbados",
     "Region": "AMRO",
@@ -11427,6 +11597,16 @@
     "Deaths": 9,
     "Cumulative Deaths": 112,
     "Confirmed": 1766,
+    "Cumulative Confirmed": 19255
+  },
+  {
+    "day": "2020-05-07",
+    "Country": "BY",
+    "Country Name": "Belarus",
+    "Region": "EURO",
+    "Deaths": 0,
+    "Cumulative Deaths": 112,
+    "Confirmed": 0,
     "Cumulative Confirmed": 19255
   },
   {
@@ -12360,6 +12540,16 @@
     "Cumulative Confirmed": 50509
   },
   {
+    "day": "2020-05-07",
+    "Country": "BE",
+    "Country Name": "Belgium",
+    "Region": "EURO",
+    "Deaths": 323,
+    "Cumulative Deaths": 8339,
+    "Confirmed": 272,
+    "Cumulative Confirmed": 50781
+  },
+  {
     "day": "2020-03-24",
     "Country": "BZ",
     "Country Name": "Belize",
@@ -12791,6 +12981,16 @@
   },
   {
     "day": "2020-05-06",
+    "Country": "BZ",
+    "Country Name": "Belize",
+    "Region": "AMRO",
+    "Deaths": 0,
+    "Cumulative Deaths": 2,
+    "Confirmed": 0,
+    "Cumulative Confirmed": 18
+  },
+  {
+    "day": "2020-05-07",
     "Country": "BZ",
     "Country Name": "Belize",
     "Region": "AMRO",
@@ -13310,6 +13510,16 @@
     "Cumulative Confirmed": 102
   },
   {
+    "day": "2020-05-07",
+    "Country": "BJ",
+    "Country Name": "Benin",
+    "Region": "AFRO",
+    "Deaths": 0,
+    "Cumulative Deaths": 2,
+    "Confirmed": 0,
+    "Cumulative Confirmed": 102
+  },
+  {
     "day": "2020-03-18",
     "Country": "BM",
     "Country Name": "Bermuda",
@@ -13801,6 +14011,16 @@
   },
   {
     "day": "2020-05-06",
+    "Country": "BM",
+    "Country Name": "Bermuda",
+    "Region": "AMRO",
+    "Deaths": 0,
+    "Cumulative Deaths": 7,
+    "Confirmed": 0,
+    "Cumulative Confirmed": 115
+  },
+  {
+    "day": "2020-05-07",
     "Country": "BM",
     "Country Name": "Bermuda",
     "Region": "AMRO",
@@ -14430,6 +14650,16 @@
     "Cumulative Confirmed": 7
   },
   {
+    "day": "2020-05-07",
+    "Country": "BT",
+    "Country Name": "Bhutan",
+    "Region": "SEARO",
+    "Deaths": 0,
+    "Cumulative Deaths": 0,
+    "Confirmed": 0,
+    "Cumulative Confirmed": 7
+  },
+  {
     "day": "2020-03-11",
     "Country": "BO",
     "Country Name": "Bolivia (Plurinational State of)",
@@ -15000,6 +15230,16 @@
     "Cumulative Confirmed": 1681
   },
   {
+    "day": "2020-05-07",
+    "Country": "BO",
+    "Country Name": "Bolivia (Plurinational State of)",
+    "Region": "AMRO",
+    "Deaths": 4,
+    "Cumulative Deaths": 86,
+    "Confirmed": 121,
+    "Cumulative Confirmed": 1802
+  },
+  {
     "day": "2020-04-04",
     "Country": "BQ",
     "Country Name": "Bonaire, Sint Eustatius and Saba",
@@ -15321,6 +15561,16 @@
   },
   {
     "day": "2020-05-06",
+    "Country": "BQ",
+    "Country Name": "Bonaire, Sint Eustatius and Saba",
+    "Region": "AMRO",
+    "Deaths": 0,
+    "Cumulative Deaths": 0,
+    "Confirmed": 0,
+    "Cumulative Confirmed": 6
+  },
+  {
+    "day": "2020-05-07",
     "Country": "BQ",
     "Country Name": "Bonaire, Sint Eustatius and Saba",
     "Region": "AMRO",
@@ -15960,6 +16210,16 @@
     "Cumulative Confirmed": 1968
   },
   {
+    "day": "2020-05-07",
+    "Country": "BA",
+    "Country Name": "Bosnia and Herzegovina",
+    "Region": "EURO",
+    "Deaths": 5,
+    "Cumulative Deaths": 87,
+    "Confirmed": 49,
+    "Cumulative Confirmed": 2017
+  },
+  {
     "day": "2020-04-01",
     "Country": "BW",
     "Country Name": "Botswana",
@@ -16311,6 +16571,16 @@
   },
   {
     "day": "2020-05-06",
+    "Country": "BW",
+    "Country Name": "Botswana",
+    "Region": "AFRO",
+    "Deaths": 0,
+    "Cumulative Deaths": 1,
+    "Confirmed": 0,
+    "Cumulative Confirmed": 23
+  },
+  {
+    "day": "2020-05-07",
     "Country": "BW",
     "Country Name": "Botswana",
     "Region": "AFRO",
@@ -17030,6 +17300,16 @@
     "Cumulative Confirmed": 107780
   },
   {
+    "day": "2020-05-07",
+    "Country": "BR",
+    "Country Name": "Brazil",
+    "Region": "AMRO",
+    "Deaths": 600,
+    "Cumulative Deaths": 7921,
+    "Confirmed": 6935,
+    "Cumulative Confirmed": 114715
+  },
+  {
     "day": "2020-03-26",
     "Country": "VG",
     "Country Name": "British Virgin Islands",
@@ -17447,6 +17727,16 @@
     "Deaths": 0,
     "Cumulative Deaths": 1,
     "Confirmed": 1,
+    "Cumulative Confirmed": 7
+  },
+  {
+    "day": "2020-05-07",
+    "Country": "VG",
+    "Country Name": "British Virgin Islands",
+    "Region": "AMRO",
+    "Deaths": 0,
+    "Cumulative Deaths": 1,
+    "Confirmed": 0,
     "Cumulative Confirmed": 7
   },
   {
@@ -18028,6 +18318,16 @@
     "Cumulative Deaths": 1,
     "Confirmed": 0,
     "Cumulative Confirmed": 138
+  },
+  {
+    "day": "2020-05-07",
+    "Country": "BN",
+    "Country Name": "Brunei Darussalam",
+    "Region": "WPRO",
+    "Deaths": 0,
+    "Cumulative Deaths": 1,
+    "Confirmed": 1,
+    "Cumulative Confirmed": 139
   },
   {
     "day": "2020-03-08",
@@ -18630,6 +18930,16 @@
     "Cumulative Confirmed": 1689
   },
   {
+    "day": "2020-05-07",
+    "Country": "BG",
+    "Country Name": "Bulgaria",
+    "Region": "EURO",
+    "Deaths": 6,
+    "Cumulative Deaths": 84,
+    "Confirmed": 89,
+    "Cumulative Confirmed": 1778
+  },
+  {
     "day": "2020-03-11",
     "Country": "BF",
     "Country Name": "Burkina Faso",
@@ -19200,6 +19510,16 @@
     "Cumulative Confirmed": 689
   },
   {
+    "day": "2020-05-07",
+    "Country": "BF",
+    "Country Name": "Burkina Faso",
+    "Region": "AFRO",
+    "Deaths": 0,
+    "Cumulative Deaths": 48,
+    "Confirmed": 40,
+    "Cumulative Confirmed": 729
+  },
+  {
     "day": "2020-04-01",
     "Country": "BI",
     "Country Name": "Burundi",
@@ -19551,6 +19871,16 @@
   },
   {
     "day": "2020-05-06",
+    "Country": "BI",
+    "Country Name": "Burundi",
+    "Region": "AFRO",
+    "Deaths": 0,
+    "Cumulative Deaths": 1,
+    "Confirmed": 0,
+    "Cumulative Confirmed": 19
+  },
+  {
+    "day": "2020-05-07",
     "Country": "BI",
     "Country Name": "Burundi",
     "Region": "AFRO",
@@ -20038,6 +20368,16 @@
     "Cumulative Deaths": 2,
     "Confirmed": 21,
     "Cumulative Confirmed": 186
+  },
+  {
+    "day": "2020-05-07",
+    "Country": "CV",
+    "Country Name": "Cabo Verde",
+    "Region": "AFRO",
+    "Deaths": 0,
+    "Cumulative Deaths": 2,
+    "Confirmed": 5,
+    "Cumulative Confirmed": 191
   },
   {
     "day": "2020-01-27",
@@ -21050,6 +21390,16 @@
     "Cumulative Confirmed": 122
   },
   {
+    "day": "2020-05-07",
+    "Country": "KH",
+    "Country Name": "Cambodia",
+    "Region": "WPRO",
+    "Deaths": 0,
+    "Cumulative Deaths": 0,
+    "Confirmed": 0,
+    "Cumulative Confirmed": 122
+  },
+  {
     "day": "2020-03-06",
     "Country": "CM",
     "Country Name": "Cameroon",
@@ -21667,6 +22017,16 @@
     "Deaths": 44,
     "Cumulative Deaths": 108,
     "Confirmed": 188,
+    "Cumulative Confirmed": 2265
+  },
+  {
+    "day": "2020-05-07",
+    "Country": "CM",
+    "Country Name": "Cameroon",
+    "Region": "AFRO",
+    "Deaths": 0,
+    "Cumulative Deaths": 108,
+    "Confirmed": 0,
     "Cumulative Confirmed": 2265
   },
   {
@@ -22690,6 +23050,16 @@
     "Cumulative Confirmed": 61159
   },
   {
+    "day": "2020-05-07",
+    "Country": "CA",
+    "Country Name": "Canada",
+    "Region": "AMRO",
+    "Deaths": 196,
+    "Cumulative Deaths": 4111,
+    "Confirmed": 1299,
+    "Cumulative Confirmed": 62458
+  },
+  {
     "day": "2020-03-13",
     "Country": "KY",
     "Country Name": "Cayman Islands",
@@ -23240,6 +23610,16 @@
     "Cumulative Confirmed": 75
   },
   {
+    "day": "2020-05-07",
+    "Country": "KY",
+    "Country Name": "Cayman Islands",
+    "Region": "AMRO",
+    "Deaths": 0,
+    "Cumulative Deaths": 1,
+    "Confirmed": 3,
+    "Cumulative Confirmed": 78
+  },
+  {
     "day": "2020-03-14",
     "Country": "CF",
     "Country Name": "Central African Republic",
@@ -23780,6 +24160,16 @@
     "Cumulative Confirmed": 94
   },
   {
+    "day": "2020-05-07",
+    "Country": "CF",
+    "Country Name": "Central African Republic",
+    "Region": "AFRO",
+    "Deaths": 0,
+    "Cumulative Deaths": 0,
+    "Confirmed": 0,
+    "Cumulative Confirmed": 94
+  },
+  {
     "day": "2020-03-19",
     "Country": "TD",
     "Country Name": "Chad",
@@ -24267,6 +24657,16 @@
     "Deaths": 7,
     "Cumulative Deaths": 17,
     "Confirmed": 53,
+    "Cumulative Confirmed": 170
+  },
+  {
+    "day": "2020-05-07",
+    "Country": "TD",
+    "Country Name": "Chad",
+    "Region": "AFRO",
+    "Deaths": 0,
+    "Cumulative Deaths": 17,
+    "Confirmed": 0,
     "Cumulative Confirmed": 170
   },
   {
@@ -24918,6 +25318,16 @@
     "Cumulative Deaths": 275,
     "Confirmed": 1373,
     "Cumulative Confirmed": 22016
+  },
+  {
+    "day": "2020-05-07",
+    "Country": "CL",
+    "Country Name": "Chile",
+    "Region": "AMRO",
+    "Deaths": 6,
+    "Cumulative Deaths": 281,
+    "Confirmed": 1032,
+    "Cumulative Confirmed": 23048
   },
   {
     "day": "2020-01-11",
@@ -26090,6 +26500,16 @@
     "Cumulative Confirmed": 84406
   },
   {
+    "day": "2020-05-07",
+    "Country": "CN",
+    "Country Name": "China",
+    "Region": "WPRO",
+    "Deaths": 0,
+    "Cumulative Deaths": 4643,
+    "Confirmed": 3,
+    "Cumulative Confirmed": 84409
+  },
+  {
     "day": "2020-03-06",
     "Country": "CO",
     "Country Name": "Colombia",
@@ -26710,6 +27130,16 @@
     "Cumulative Confirmed": 7973
   },
   {
+    "day": "2020-05-07",
+    "Country": "CO",
+    "Country Name": "Colombia",
+    "Region": "AMRO",
+    "Deaths": 20,
+    "Cumulative Deaths": 378,
+    "Confirmed": 640,
+    "Cumulative Confirmed": 8613
+  },
+  {
     "day": "2020-05-01",
     "Country": "KM",
     "Country Name": "Comoros",
@@ -26768,6 +27198,16 @@
     "Cumulative Deaths": 1,
     "Confirmed": 0,
     "Cumulative Confirmed": 4
+  },
+  {
+    "day": "2020-05-07",
+    "Country": "KM",
+    "Country Name": "Comoros",
+    "Region": "AFRO",
+    "Deaths": 0,
+    "Cumulative Deaths": 1,
+    "Confirmed": 4,
+    "Cumulative Confirmed": 8
   },
   {
     "day": "2020-03-15",
@@ -27298,6 +27738,16 @@
     "Cumulative Deaths": 10,
     "Confirmed": 0,
     "Cumulative Confirmed": 236
+  },
+  {
+    "day": "2020-05-07",
+    "Country": "CG",
+    "Country Name": "Congo",
+    "Region": "AFRO",
+    "Deaths": 0,
+    "Cumulative Deaths": 10,
+    "Confirmed": 28,
+    "Cumulative Confirmed": 264
   },
   {
     "day": "2020-03-08",
@@ -27900,6 +28350,16 @@
     "Cumulative Confirmed": 742
   },
   {
+    "day": "2020-05-07",
+    "Country": "CR",
+    "Country Name": "Costa Rica",
+    "Region": "AMRO",
+    "Deaths": 0,
+    "Cumulative Deaths": 6,
+    "Confirmed": 13,
+    "Cumulative Confirmed": 755
+  },
+  {
     "day": "2020-03-12",
     "Country": "CI",
     "Country Name": "Côte d’Ivoire",
@@ -28458,6 +28918,16 @@
     "Cumulative Deaths": 18,
     "Confirmed": 32,
     "Cumulative Confirmed": 1464
+  },
+  {
+    "day": "2020-05-07",
+    "Country": "CI",
+    "Country Name": "Côte d’Ivoire",
+    "Region": "AFRO",
+    "Deaths": 0,
+    "Cumulative Deaths": 18,
+    "Confirmed": 52,
+    "Cumulative Confirmed": 1516
   },
   {
     "day": "2020-02-25",
@@ -29180,6 +29650,16 @@
     "Cumulative Confirmed": 2112
   },
   {
+    "day": "2020-05-07",
+    "Country": "HR",
+    "Country Name": "Croatia",
+    "Region": "EURO",
+    "Deaths": 2,
+    "Cumulative Deaths": 85,
+    "Confirmed": 7,
+    "Cumulative Confirmed": 2119
+  },
+  {
     "day": "2020-03-13",
     "Country": "CU",
     "Country Name": "Cuba",
@@ -29730,6 +30210,16 @@
     "Cumulative Confirmed": 1685
   },
   {
+    "day": "2020-05-07",
+    "Country": "CU",
+    "Country Name": "Cuba",
+    "Region": "AMRO",
+    "Deaths": 0,
+    "Cumulative Deaths": 69,
+    "Confirmed": 18,
+    "Cumulative Confirmed": 1703
+  },
+  {
     "day": "2020-03-13",
     "Country": "CW",
     "Country Name": "Curacao",
@@ -30271,6 +30761,16 @@
   },
   {
     "day": "2020-05-06",
+    "Country": "CW",
+    "Country Name": "Curacao",
+    "Region": "AMRO",
+    "Deaths": 0,
+    "Cumulative Deaths": 1,
+    "Confirmed": 0,
+    "Cumulative Confirmed": 16
+  },
+  {
+    "day": "2020-05-07",
     "Country": "CW",
     "Country Name": "Curacao",
     "Region": "AMRO",
@@ -30868,6 +31368,16 @@
     "Cumulative Deaths": 20,
     "Confirmed": 4,
     "Cumulative Confirmed": 878
+  },
+  {
+    "day": "2020-05-07",
+    "Country": "CY",
+    "Country Name": "Cyprus",
+    "Region": "EURO",
+    "Deaths": 1,
+    "Cumulative Deaths": 21,
+    "Confirmed": 5,
+    "Cumulative Confirmed": 883
   },
   {
     "day": "2020-03-01",
@@ -31540,6 +32050,16 @@
     "Cumulative Confirmed": 7896
   },
   {
+    "day": "2020-05-07",
+    "Country": "CZ",
+    "Country Name": "Czechia",
+    "Region": "EURO",
+    "Deaths": 5,
+    "Cumulative Deaths": 262,
+    "Confirmed": 78,
+    "Cumulative Confirmed": 7974
+  },
+  {
     "day": "2020-03-11",
     "Country": "CD",
     "Country Name": "Democratic Republic of the Congo",
@@ -32108,6 +32628,16 @@
     "Cumulative Deaths": 34,
     "Confirmed": 23,
     "Cumulative Confirmed": 705
+  },
+  {
+    "day": "2020-05-07",
+    "Country": "CD",
+    "Country Name": "Democratic Republic of the Congo",
+    "Region": "AFRO",
+    "Deaths": 1,
+    "Cumulative Deaths": 35,
+    "Confirmed": 92,
+    "Cumulative Confirmed": 797
   },
   {
     "day": "2020-02-27",
@@ -32810,6 +33340,16 @@
     "Cumulative Confirmed": 9821
   },
   {
+    "day": "2020-05-07",
+    "Country": "DK",
+    "Country Name": "Denmark",
+    "Region": "EURO",
+    "Deaths": 3,
+    "Cumulative Deaths": 506,
+    "Confirmed": 162,
+    "Cumulative Confirmed": 9983
+  },
+  {
     "day": "2020-03-18",
     "Country": "DJ",
     "Country Name": "Djibouti",
@@ -33310,6 +33850,16 @@
     "Cumulative Confirmed": 1120
   },
   {
+    "day": "2020-05-07",
+    "Country": "DJ",
+    "Country Name": "Djibouti",
+    "Region": "EMRO",
+    "Deaths": 1,
+    "Cumulative Deaths": 3,
+    "Confirmed": 13,
+    "Cumulative Confirmed": 1133
+  },
+  {
     "day": "2020-03-24",
     "Country": "DM",
     "Country Name": "Dominica",
@@ -33741,6 +34291,16 @@
   },
   {
     "day": "2020-05-06",
+    "Country": "DM",
+    "Country Name": "Dominica",
+    "Region": "AMRO",
+    "Deaths": 0,
+    "Cumulative Deaths": 0,
+    "Confirmed": 0,
+    "Cumulative Confirmed": 16
+  },
+  {
+    "day": "2020-05-07",
     "Country": "DM",
     "Country Name": "Dominica",
     "Region": "AMRO",
@@ -34408,6 +34968,16 @@
     "Cumulative Deaths": 354,
     "Confirmed": 245,
     "Cumulative Confirmed": 8480
+  },
+  {
+    "day": "2020-05-07",
+    "Country": "DO",
+    "Country Name": "Dominican Republic",
+    "Region": "AMRO",
+    "Deaths": 8,
+    "Cumulative Deaths": 362,
+    "Confirmed": 327,
+    "Cumulative Confirmed": 8807
   },
   {
     "day": "2020-02-29",
@@ -35088,6 +35658,16 @@
     "Cumulative Deaths": 1569,
     "Confirmed": 0,
     "Cumulative Confirmed": 31881
+  },
+  {
+    "day": "2020-05-07",
+    "Country": "EC",
+    "Country Name": "Ecuador",
+    "Region": "AMRO",
+    "Deaths": 49,
+    "Cumulative Deaths": 1618,
+    "Confirmed": -2461,
+    "Cumulative Confirmed": 29420
   },
   {
     "day": "2020-02-14",
@@ -35920,6 +36500,16 @@
     "Cumulative Confirmed": 7588
   },
   {
+    "day": "2020-05-07",
+    "Country": "EG",
+    "Country Name": "Egypt",
+    "Region": "EMRO",
+    "Deaths": 0,
+    "Cumulative Deaths": 469,
+    "Confirmed": 0,
+    "Cumulative Confirmed": 7588
+  },
+  {
     "day": "2020-03-19",
     "Country": "SV",
     "Country Name": "El Salvador",
@@ -36408,6 +36998,16 @@
     "Cumulative Deaths": 13,
     "Confirmed": 32,
     "Cumulative Confirmed": 587
+  },
+  {
+    "day": "2020-05-07",
+    "Country": "SV",
+    "Country Name": "El Salvador",
+    "Region": "AMRO",
+    "Deaths": 1,
+    "Cumulative Deaths": 14,
+    "Confirmed": 46,
+    "Cumulative Confirmed": 633
   },
   {
     "day": "2020-03-14",
@@ -36950,6 +37550,16 @@
     "Cumulative Confirmed": 439
   },
   {
+    "day": "2020-05-07",
+    "Country": "GQ",
+    "Country Name": "Equatorial Guinea",
+    "Region": "AFRO",
+    "Deaths": 0,
+    "Cumulative Deaths": 4,
+    "Confirmed": 0,
+    "Cumulative Confirmed": 439
+  },
+  {
     "day": "2020-03-21",
     "Country": "ER",
     "Country Name": "Eritrea",
@@ -37411,6 +38021,16 @@
   },
   {
     "day": "2020-05-06",
+    "Country": "ER",
+    "Country Name": "Eritrea",
+    "Region": "AFRO",
+    "Deaths": 0,
+    "Cumulative Deaths": 0,
+    "Confirmed": 0,
+    "Cumulative Confirmed": 39
+  },
+  {
+    "day": "2020-05-07",
     "Country": "ER",
     "Country Name": "Eritrea",
     "Region": "AFRO",
@@ -38120,6 +38740,16 @@
     "Cumulative Confirmed": 1711
   },
   {
+    "day": "2020-05-07",
+    "Country": "EE",
+    "Country Name": "Estonia",
+    "Region": "EURO",
+    "Deaths": 0,
+    "Cumulative Deaths": 55,
+    "Confirmed": 2,
+    "Cumulative Confirmed": 1713
+  },
+  {
     "day": "2020-03-14",
     "Country": "SZ",
     "Country Name": "Eswatini",
@@ -38658,6 +39288,16 @@
     "Cumulative Deaths": 1,
     "Confirmed": 3,
     "Cumulative Confirmed": 119
+  },
+  {
+    "day": "2020-05-07",
+    "Country": "SZ",
+    "Country Name": "Eswatini",
+    "Region": "AFRO",
+    "Deaths": 1,
+    "Cumulative Deaths": 2,
+    "Confirmed": 4,
+    "Cumulative Confirmed": 123
   },
   {
     "day": "2020-03-14",
@@ -39200,6 +39840,16 @@
     "Cumulative Confirmed": 145
   },
   {
+    "day": "2020-05-07",
+    "Country": "ET",
+    "Country Name": "Ethiopia",
+    "Region": "AFRO",
+    "Deaths": 0,
+    "Cumulative Deaths": 4,
+    "Confirmed": 17,
+    "Cumulative Confirmed": 162
+  },
+  {
     "day": "2020-04-05",
     "Country": "FK",
     "Country Name": "Falkland Islands (Malvinas)",
@@ -39511,6 +40161,16 @@
   },
   {
     "day": "2020-05-06",
+    "Country": "FK",
+    "Country Name": "Falkland Islands (Malvinas)",
+    "Region": "AMRO",
+    "Deaths": 0,
+    "Cumulative Deaths": 0,
+    "Confirmed": 0,
+    "Cumulative Confirmed": 13
+  },
+  {
+    "day": "2020-05-07",
     "Country": "FK",
     "Country Name": "Falkland Islands (Malvinas)",
     "Region": "AMRO",
@@ -40150,6 +40810,16 @@
     "Cumulative Confirmed": 187
   },
   {
+    "day": "2020-05-07",
+    "Country": "FO",
+    "Country Name": "Faroe Islands",
+    "Region": "EURO",
+    "Deaths": 0,
+    "Cumulative Deaths": 0,
+    "Confirmed": 0,
+    "Cumulative Confirmed": 187
+  },
+  {
     "day": "2020-03-19",
     "Country": "FJ",
     "Country Name": "Fiji",
@@ -40631,6 +41301,16 @@
   },
   {
     "day": "2020-05-06",
+    "Country": "FJ",
+    "Country Name": "Fiji",
+    "Region": "WPRO",
+    "Deaths": 0,
+    "Cumulative Deaths": 0,
+    "Confirmed": 0,
+    "Cumulative Confirmed": 18
+  },
+  {
+    "day": "2020-05-07",
     "Country": "FJ",
     "Country Name": "Fiji",
     "Region": "WPRO",
@@ -41628,6 +42308,16 @@
     "Cumulative Deaths": 246,
     "Confirmed": 85,
     "Cumulative Confirmed": 5412
+  },
+  {
+    "day": "2020-05-07",
+    "Country": "FI",
+    "Country Name": "Finland",
+    "Region": "EURO",
+    "Deaths": 6,
+    "Cumulative Deaths": 252,
+    "Confirmed": 161,
+    "Cumulative Confirmed": 5573
   },
   {
     "day": "2020-01-24",
@@ -42670,6 +43360,16 @@
     "Cumulative Confirmed": 131292
   },
   {
+    "day": "2020-05-07",
+    "Country": "FR",
+    "Country Name": "France",
+    "Region": "EURO",
+    "Deaths": 278,
+    "Cumulative Deaths": 25769,
+    "Confirmed": 4176,
+    "Cumulative Confirmed": 135468
+  },
+  {
     "day": "2020-03-07",
     "Country": "GF",
     "Country Name": "French Guiana",
@@ -43280,6 +43980,16 @@
     "Cumulative Confirmed": 133
   },
   {
+    "day": "2020-05-07",
+    "Country": "GF",
+    "Country Name": "French Guiana",
+    "Region": "AMRO",
+    "Deaths": 0,
+    "Cumulative Deaths": 1,
+    "Confirmed": 5,
+    "Cumulative Confirmed": 138
+  },
+  {
     "day": "2020-03-12",
     "Country": "PF",
     "Country Name": "French Polynesia",
@@ -43840,6 +44550,16 @@
     "Cumulative Confirmed": 60
   },
   {
+    "day": "2020-05-07",
+    "Country": "PF",
+    "Country Name": "French Polynesia",
+    "Region": "WPRO",
+    "Deaths": 0,
+    "Cumulative Deaths": 0,
+    "Confirmed": 0,
+    "Cumulative Confirmed": 60
+  },
+  {
     "day": "2020-03-14",
     "Country": "GA",
     "Country Name": "Gabon",
@@ -44380,6 +45100,16 @@
     "Cumulative Confirmed": 397
   },
   {
+    "day": "2020-05-07",
+    "Country": "GA",
+    "Country Name": "Gabon",
+    "Region": "AFRO",
+    "Deaths": 0,
+    "Cumulative Deaths": 6,
+    "Confirmed": 0,
+    "Cumulative Confirmed": 397
+  },
+  {
     "day": "2020-03-18",
     "Country": "GM",
     "Country Name": "Gambia",
@@ -44871,6 +45601,16 @@
   },
   {
     "day": "2020-05-06",
+    "Country": "GM",
+    "Country Name": "Gambia",
+    "Region": "AFRO",
+    "Deaths": 0,
+    "Cumulative Deaths": 1,
+    "Confirmed": 0,
+    "Cumulative Confirmed": 17
+  },
+  {
+    "day": "2020-05-07",
     "Country": "GM",
     "Country Name": "Gambia",
     "Region": "AFRO",
@@ -45588,6 +46328,16 @@
     "Cumulative Deaths": 9,
     "Confirmed": 6,
     "Cumulative Confirmed": 610
+  },
+  {
+    "day": "2020-05-07",
+    "Country": "GE",
+    "Country Name": "Georgia",
+    "Region": "EURO",
+    "Deaths": 0,
+    "Cumulative Deaths": 9,
+    "Confirmed": 4,
+    "Cumulative Confirmed": 614
   },
   {
     "day": "2020-01-28",
@@ -46590,6 +47340,16 @@
     "Cumulative Confirmed": 164897
   },
   {
+    "day": "2020-05-07",
+    "Country": "DE",
+    "Country Name": "Germany",
+    "Region": "EURO",
+    "Deaths": 123,
+    "Cumulative Deaths": 7119,
+    "Confirmed": 1194,
+    "Cumulative Confirmed": 166091
+  },
+  {
     "day": "2020-03-14",
     "Country": "GH",
     "Country Name": "Ghana",
@@ -47121,6 +47881,16 @@
   },
   {
     "day": "2020-05-06",
+    "Country": "GH",
+    "Country Name": "Ghana",
+    "Region": "AFRO",
+    "Deaths": 0,
+    "Cumulative Deaths": 18,
+    "Confirmed": 0,
+    "Cumulative Confirmed": 2719
+  },
+  {
+    "day": "2020-05-07",
     "Country": "GH",
     "Country Name": "Ghana",
     "Region": "AFRO",
@@ -47771,6 +48541,16 @@
   },
   {
     "day": "2020-05-06",
+    "Country": "GI",
+    "Country Name": "Gibraltar",
+    "Region": "EURO",
+    "Deaths": 0,
+    "Cumulative Deaths": 0,
+    "Confirmed": 0,
+    "Cumulative Confirmed": 144
+  },
+  {
+    "day": "2020-05-07",
     "Country": "GI",
     "Country Name": "Gibraltar",
     "Region": "EURO",
@@ -48490,6 +49270,16 @@
     "Cumulative Confirmed": 2642
   },
   {
+    "day": "2020-05-07",
+    "Country": "GR",
+    "Country Name": "Greece",
+    "Region": "EURO",
+    "Deaths": 1,
+    "Cumulative Deaths": 147,
+    "Confirmed": 21,
+    "Cumulative Confirmed": 2663
+  },
+  {
     "day": "2020-03-18",
     "Country": "GL",
     "Country Name": "Greenland",
@@ -48990,6 +49780,16 @@
     "Cumulative Confirmed": 11
   },
   {
+    "day": "2020-05-07",
+    "Country": "GL",
+    "Country Name": "Greenland",
+    "Region": "EURO",
+    "Deaths": 0,
+    "Cumulative Deaths": 0,
+    "Confirmed": 0,
+    "Cumulative Confirmed": 11
+  },
+  {
     "day": "2020-03-23",
     "Country": "GD",
     "Country Name": "Grenada",
@@ -49431,6 +50231,16 @@
   },
   {
     "day": "2020-05-06",
+    "Country": "GD",
+    "Country Name": "Grenada",
+    "Region": "AMRO",
+    "Deaths": 0,
+    "Cumulative Deaths": 0,
+    "Confirmed": 0,
+    "Cumulative Confirmed": 21
+  },
+  {
+    "day": "2020-05-07",
     "Country": "GD",
     "Country Name": "Grenada",
     "Region": "AMRO",
@@ -49980,6 +50790,16 @@
     "Cumulative Confirmed": 152
   },
   {
+    "day": "2020-05-07",
+    "Country": "GP",
+    "Country Name": "Guadeloupe",
+    "Region": "AMRO",
+    "Deaths": 0,
+    "Cumulative Deaths": 13,
+    "Confirmed": 1,
+    "Cumulative Confirmed": 153
+  },
+  {
     "day": "2020-03-17",
     "Country": "GU",
     "Country Name": "Guam",
@@ -50488,6 +51308,16 @@
     "Cumulative Deaths": 5,
     "Confirmed": 0,
     "Cumulative Confirmed": 145
+  },
+  {
+    "day": "2020-05-07",
+    "Country": "GU",
+    "Country Name": "Guam",
+    "Region": "WPRO",
+    "Deaths": 0,
+    "Cumulative Deaths": 5,
+    "Confirmed": 2,
+    "Cumulative Confirmed": 147
   },
   {
     "day": "2020-03-15",
@@ -51018,6 +51848,16 @@
     "Cumulative Deaths": 19,
     "Confirmed": 27,
     "Cumulative Confirmed": 730
+  },
+  {
+    "day": "2020-05-07",
+    "Country": "GT",
+    "Country Name": "Guatemala",
+    "Region": "AMRO",
+    "Deaths": 0,
+    "Cumulative Deaths": 19,
+    "Confirmed": 33,
+    "Cumulative Confirmed": 763
   },
   {
     "day": "2020-03-09",
@@ -51610,6 +52450,16 @@
     "Cumulative Confirmed": 252
   },
   {
+    "day": "2020-05-07",
+    "Country": "GG",
+    "Country Name": "Guernsey",
+    "Region": "EURO",
+    "Deaths": 0,
+    "Cumulative Deaths": 13,
+    "Confirmed": 0,
+    "Cumulative Confirmed": 252
+  },
+  {
     "day": "2020-03-14",
     "Country": "GN",
     "Country Name": "Guinea",
@@ -52150,6 +53000,16 @@
     "Cumulative Confirmed": 1811
   },
   {
+    "day": "2020-05-07",
+    "Country": "GN",
+    "Country Name": "Guinea",
+    "Region": "AFRO",
+    "Deaths": 1,
+    "Cumulative Deaths": 11,
+    "Confirmed": 45,
+    "Cumulative Confirmed": 1856
+  },
+  {
     "day": "2020-03-26",
     "Country": "GW",
     "Country Name": "Guinea-Bissau",
@@ -52568,6 +53428,16 @@
     "Cumulative Deaths": 2,
     "Confirmed": 0,
     "Cumulative Confirmed": 292
+  },
+  {
+    "day": "2020-05-07",
+    "Country": "GW",
+    "Country Name": "Guinea-Bissau",
+    "Region": "AFRO",
+    "Deaths": 0,
+    "Cumulative Deaths": 2,
+    "Confirmed": 216,
+    "Cumulative Confirmed": 508
   },
   {
     "day": "2020-03-13",
@@ -53120,6 +53990,16 @@
     "Cumulative Confirmed": 92
   },
   {
+    "day": "2020-05-07",
+    "Country": "GY",
+    "Country Name": "Guyana",
+    "Region": "AMRO",
+    "Deaths": 1,
+    "Cumulative Deaths": 10,
+    "Confirmed": 1,
+    "Cumulative Confirmed": 93
+  },
+  {
     "day": "2020-03-20",
     "Country": "HT",
     "Country Name": "Haiti",
@@ -53598,6 +54478,16 @@
     "Cumulative Deaths": 11,
     "Confirmed": 12,
     "Cumulative Confirmed": 100
+  },
+  {
+    "day": "2020-05-07",
+    "Country": "HT",
+    "Country Name": "Haiti",
+    "Region": "AMRO",
+    "Deaths": 1,
+    "Cumulative Deaths": 12,
+    "Confirmed": 1,
+    "Cumulative Confirmed": 101
   },
   {
     "day": "2020-03-06",
@@ -54220,6 +55110,16 @@
     "Cumulative Confirmed": 11
   },
   {
+    "day": "2020-05-07",
+    "Country": "VA",
+    "Country Name": "Holy See",
+    "Region": "EURO",
+    "Deaths": 0,
+    "Cumulative Deaths": 0,
+    "Confirmed": 1,
+    "Cumulative Confirmed": 12
+  },
+  {
     "day": "2020-03-12",
     "Country": "HN",
     "Country Name": "Honduras",
@@ -54778,6 +55678,16 @@
     "Cumulative Deaths": 89,
     "Confirmed": 123,
     "Cumulative Confirmed": 1178
+  },
+  {
+    "day": "2020-05-07",
+    "Country": "HN",
+    "Country Name": "Honduras",
+    "Region": "AMRO",
+    "Deaths": 4,
+    "Cumulative Deaths": 93,
+    "Confirmed": 92,
+    "Cumulative Confirmed": 1270
   },
   {
     "day": "2020-03-04",
@@ -55418,6 +56328,16 @@
     "Cumulative Deaths": 373,
     "Confirmed": 46,
     "Cumulative Confirmed": 3111
+  },
+  {
+    "day": "2020-05-07",
+    "Country": "HU",
+    "Country Name": "Hungary",
+    "Region": "EURO",
+    "Deaths": 10,
+    "Cumulative Deaths": 383,
+    "Confirmed": 39,
+    "Cumulative Confirmed": 3150
   },
   {
     "day": "2020-03-01",
@@ -56081,6 +57001,16 @@
   },
   {
     "day": "2020-05-06",
+    "Country": "IS",
+    "Country Name": "Iceland",
+    "Region": "EURO",
+    "Deaths": 0,
+    "Cumulative Deaths": 10,
+    "Confirmed": 0,
+    "Cumulative Confirmed": 1799
+  },
+  {
+    "day": "2020-05-07",
     "Country": "IS",
     "Country Name": "Iceland",
     "Region": "EURO",
@@ -57070,6 +58000,16 @@
     "Cumulative Confirmed": 49391
   },
   {
+    "day": "2020-05-07",
+    "Country": "IN",
+    "Country Name": "India",
+    "Region": "SEARO",
+    "Deaths": 89,
+    "Cumulative Deaths": 1783,
+    "Confirmed": 3561,
+    "Cumulative Confirmed": 52952
+  },
+  {
     "day": "2020-03-02",
     "Country": "ID",
     "Country Name": "Indonesia",
@@ -57728,6 +58668,16 @@
     "Cumulative Deaths": 895,
     "Confirmed": 367,
     "Cumulative Confirmed": 12438
+  },
+  {
+    "day": "2020-05-07",
+    "Country": "ID",
+    "Country Name": "Indonesia",
+    "Region": "SEARO",
+    "Deaths": 35,
+    "Cumulative Deaths": 930,
+    "Confirmed": 338,
+    "Cumulative Confirmed": 12776
   },
   {
     "day": "2020-02-05",
@@ -58650,6 +59600,16 @@
     "Cumulative Confirmed": 712
   },
   {
+    "day": "2020-05-07",
+    "Country": "",
+    "Country Name": "International conveyance (Diamond Princess)",
+    "Region": "",
+    "Deaths": 0,
+    "Cumulative Deaths": 13,
+    "Confirmed": 0,
+    "Cumulative Confirmed": 712
+  },
+  {
     "day": "2020-02-19",
     "Country": "IR",
     "Country Name": "Iran (Islamic Republic of)",
@@ -59430,6 +60390,16 @@
     "Cumulative Confirmed": 101650
   },
   {
+    "day": "2020-05-07",
+    "Country": "IR",
+    "Country Name": "Iran (Islamic Republic of)",
+    "Region": "EMRO",
+    "Deaths": 68,
+    "Cumulative Deaths": 6486,
+    "Confirmed": 1485,
+    "Cumulative Confirmed": 103135
+  },
+  {
     "day": "2020-02-24",
     "Country": "IQ",
     "Country Name": "Iraq",
@@ -60160,6 +61130,16 @@
     "Cumulative Confirmed": 2431
   },
   {
+    "day": "2020-05-07",
+    "Country": "IQ",
+    "Country Name": "Iraq",
+    "Region": "EMRO",
+    "Deaths": 0,
+    "Cumulative Deaths": 102,
+    "Confirmed": 49,
+    "Cumulative Confirmed": 2480
+  },
+  {
     "day": "2020-03-01",
     "Country": "IE",
     "Country Name": "Ireland",
@@ -60830,6 +61810,16 @@
     "Cumulative Confirmed": 21983
   },
   {
+    "day": "2020-05-07",
+    "Country": "IE",
+    "Country Name": "Ireland",
+    "Region": "EURO",
+    "Deaths": 36,
+    "Cumulative Deaths": 1375,
+    "Confirmed": 265,
+    "Cumulative Confirmed": 22248
+  },
+  {
     "day": "2020-03-20",
     "Country": "IM",
     "Country Name": "Isle of Man",
@@ -61308,6 +62298,16 @@
     "Cumulative Deaths": 23,
     "Confirmed": 4,
     "Cumulative Confirmed": 325
+  },
+  {
+    "day": "2020-05-07",
+    "Country": "IM",
+    "Country Name": "Isle of Man",
+    "Region": "EURO",
+    "Deaths": 0,
+    "Cumulative Deaths": 23,
+    "Confirmed": 1,
+    "Cumulative Confirmed": 326
   },
   {
     "day": "2020-02-21",
@@ -62068,6 +63068,16 @@
     "Cumulative Deaths": 237,
     "Confirmed": 31,
     "Cumulative Confirmed": 16268
+  },
+  {
+    "day": "2020-05-07",
+    "Country": "IL",
+    "Country Name": "Israel",
+    "Region": "EURO",
+    "Deaths": 1,
+    "Cumulative Deaths": 238,
+    "Confirmed": 46,
+    "Cumulative Confirmed": 16314
   },
   {
     "day": "2020-01-29",
@@ -63060,6 +64070,16 @@
     "Cumulative Confirmed": 213013
   },
   {
+    "day": "2020-05-07",
+    "Country": "IT",
+    "Country Name": "Italy",
+    "Region": "EURO",
+    "Deaths": 369,
+    "Cumulative Deaths": 29684,
+    "Confirmed": 1444,
+    "Cumulative Confirmed": 214457
+  },
+  {
     "day": "2020-03-10",
     "Country": "JM",
     "Country Name": "Jamaica",
@@ -63638,6 +64658,16 @@
     "Cumulative Deaths": 9,
     "Confirmed": 2,
     "Cumulative Confirmed": 471
+  },
+  {
+    "day": "2020-05-07",
+    "Country": "JM",
+    "Country Name": "Jamaica",
+    "Region": "AMRO",
+    "Deaths": 0,
+    "Cumulative Deaths": 9,
+    "Confirmed": 2,
+    "Cumulative Confirmed": 473
   },
   {
     "day": "2020-01-14",
@@ -64780,6 +65810,16 @@
     "Cumulative Confirmed": 15354
   },
   {
+    "day": "2020-05-07",
+    "Country": "JP",
+    "Country Name": "Japan",
+    "Region": "WPRO",
+    "Deaths": 8,
+    "Cumulative Deaths": 551,
+    "Confirmed": 109,
+    "Cumulative Confirmed": 15463
+  },
+  {
     "day": "2020-03-12",
     "Country": "JE",
     "Country Name": "Jersey",
@@ -65337,6 +66377,16 @@
     "Deaths": 0,
     "Cumulative Deaths": 24,
     "Confirmed": 1,
+    "Cumulative Confirmed": 293
+  },
+  {
+    "day": "2020-05-07",
+    "Country": "JE",
+    "Country Name": "Jersey",
+    "Region": "EURO",
+    "Deaths": 0,
+    "Cumulative Deaths": 24,
+    "Confirmed": 0,
     "Cumulative Confirmed": 293
   },
   {
@@ -66000,6 +67050,16 @@
     "Cumulative Confirmed": 473
   },
   {
+    "day": "2020-05-07",
+    "Country": "JO",
+    "Country Name": "Jordan",
+    "Region": "EMRO",
+    "Deaths": 0,
+    "Cumulative Deaths": 9,
+    "Confirmed": 11,
+    "Cumulative Confirmed": 484
+  },
+  {
     "day": "2020-03-14",
     "Country": "KZ",
     "Country Name": "Kazakhstan",
@@ -66540,6 +67600,16 @@
     "Cumulative Confirmed": 4298
   },
   {
+    "day": "2020-05-07",
+    "Country": "KZ",
+    "Country Name": "Kazakhstan",
+    "Region": "EURO",
+    "Deaths": 1,
+    "Cumulative Deaths": 30,
+    "Confirmed": 211,
+    "Cumulative Confirmed": 4509
+  },
+  {
     "day": "2020-03-14",
     "Country": "KE",
     "Country Name": "Kenya",
@@ -67074,10 +68144,20 @@
     "Country": "KE",
     "Country Name": "Kenya",
     "Region": "AFRO",
-    "Deaths": -1,
-    "Cumulative Deaths": 23,
+    "Deaths": 2,
+    "Cumulative Deaths": 26,
     "Confirmed": 45,
     "Cumulative Confirmed": 535
+  },
+  {
+    "day": "2020-05-07",
+    "Country": "KE",
+    "Country Name": "Kenya",
+    "Region": "AFRO",
+    "Deaths": 0,
+    "Cumulative Deaths": 26,
+    "Confirmed": 47,
+    "Cumulative Confirmed": 582
   },
   {
     "day": "2020-03-13",
@@ -67628,6 +68708,16 @@
     "Cumulative Deaths": 27,
     "Confirmed": 1,
     "Cumulative Confirmed": 856
+  },
+  {
+    "day": "2020-05-07",
+    "Country": "XK",
+    "Country Name": "Kosovo[1]",
+    "Region": "EURO",
+    "Deaths": 0,
+    "Cumulative Deaths": 27,
+    "Confirmed": 4,
+    "Cumulative Confirmed": 860
   },
   {
     "day": "2020-02-24",
@@ -68360,6 +69450,16 @@
     "Cumulative Confirmed": 6289
   },
   {
+    "day": "2020-05-07",
+    "Country": "KW",
+    "Country Name": "Kuwait",
+    "Region": "EMRO",
+    "Deaths": 2,
+    "Cumulative Deaths": 44,
+    "Confirmed": 278,
+    "Cumulative Confirmed": 6567
+  },
+  {
     "day": "2020-03-18",
     "Country": "KG",
     "Country Name": "Kyrgyzstan",
@@ -68860,6 +69960,16 @@
     "Cumulative Confirmed": 871
   },
   {
+    "day": "2020-05-07",
+    "Country": "KG",
+    "Country Name": "Kyrgyzstan",
+    "Region": "EURO",
+    "Deaths": 0,
+    "Cumulative Deaths": 12,
+    "Confirmed": 24,
+    "Cumulative Confirmed": 895
+  },
+  {
     "day": "2020-03-24",
     "Country": "LA",
     "Country Name": "Lao People's Democratic Republic",
@@ -69291,6 +70401,16 @@
   },
   {
     "day": "2020-05-06",
+    "Country": "LA",
+    "Country Name": "Lao People's Democratic Republic",
+    "Region": "WPRO",
+    "Deaths": 0,
+    "Cumulative Deaths": 0,
+    "Confirmed": 0,
+    "Cumulative Confirmed": 19
+  },
+  {
+    "day": "2020-05-07",
     "Country": "LA",
     "Country Name": "Lao People's Democratic Republic",
     "Region": "WPRO",
@@ -69958,6 +71078,16 @@
     "Cumulative Deaths": 17,
     "Confirmed": 0,
     "Cumulative Confirmed": 896
+  },
+  {
+    "day": "2020-05-07",
+    "Country": "LV",
+    "Country Name": "Latvia",
+    "Region": "EURO",
+    "Deaths": 0,
+    "Cumulative Deaths": 17,
+    "Confirmed": 4,
+    "Cumulative Confirmed": 900
   },
   {
     "day": "2020-02-21",
@@ -70720,6 +71850,16 @@
     "Cumulative Confirmed": 750
   },
   {
+    "day": "2020-05-07",
+    "Country": "LB",
+    "Country Name": "Lebanon",
+    "Region": "EMRO",
+    "Deaths": 0,
+    "Cumulative Deaths": 25,
+    "Confirmed": 34,
+    "Cumulative Confirmed": 784
+  },
+  {
     "day": "2020-03-17",
     "Country": "LR",
     "Country Name": "Liberia",
@@ -71230,6 +72370,16 @@
     "Cumulative Confirmed": 170
   },
   {
+    "day": "2020-05-07",
+    "Country": "LR",
+    "Country Name": "Liberia",
+    "Region": "AFRO",
+    "Deaths": 0,
+    "Cumulative Deaths": 20,
+    "Confirmed": 8,
+    "Cumulative Confirmed": 178
+  },
+  {
     "day": "2020-03-25",
     "Country": "LY",
     "Country Name": "Libya",
@@ -71657,6 +72807,16 @@
     "Deaths": 0,
     "Cumulative Deaths": 3,
     "Confirmed": 1,
+    "Cumulative Confirmed": 64
+  },
+  {
+    "day": "2020-05-07",
+    "Country": "LY",
+    "Country Name": "Libya",
+    "Region": "EMRO",
+    "Deaths": 0,
+    "Cumulative Deaths": 3,
+    "Confirmed": 0,
     "Cumulative Confirmed": 64
   },
   {
@@ -72281,6 +73441,16 @@
   },
   {
     "day": "2020-05-06",
+    "Country": "LI",
+    "Country Name": "Liechtenstein",
+    "Region": "EURO",
+    "Deaths": 0,
+    "Cumulative Deaths": 1,
+    "Confirmed": 0,
+    "Cumulative Confirmed": 83
+  },
+  {
+    "day": "2020-05-07",
     "Country": "LI",
     "Country Name": "Liechtenstein",
     "Region": "EURO",
@@ -72980,6 +74150,16 @@
     "Cumulative Confirmed": 1423
   },
   {
+    "day": "2020-05-07",
+    "Country": "LT",
+    "Country Name": "Lithuania",
+    "Region": "EURO",
+    "Deaths": 2,
+    "Cumulative Deaths": 48,
+    "Confirmed": 5,
+    "Cumulative Confirmed": 1428
+  },
+  {
     "day": "2020-03-01",
     "Country": "LU",
     "Country Name": "Luxembourg",
@@ -73650,6 +74830,16 @@
     "Cumulative Confirmed": 3840
   },
   {
+    "day": "2020-05-07",
+    "Country": "LU",
+    "Country Name": "Luxembourg",
+    "Region": "EURO",
+    "Deaths": 2,
+    "Cumulative Deaths": 98,
+    "Confirmed": 11,
+    "Cumulative Confirmed": 3851
+  },
+  {
     "day": "2020-03-21",
     "Country": "MG",
     "Country Name": "Madagascar",
@@ -74120,6 +75310,16 @@
     "Cumulative Confirmed": 158
   },
   {
+    "day": "2020-05-07",
+    "Country": "MG",
+    "Country Name": "Madagascar",
+    "Region": "AFRO",
+    "Deaths": 0,
+    "Cumulative Deaths": 0,
+    "Confirmed": 35,
+    "Cumulative Confirmed": 193
+  },
+  {
     "day": "2020-04-03",
     "Country": "MW",
     "Country Name": "Malawi",
@@ -74458,6 +75658,16 @@
     "Cumulative Deaths": 3,
     "Confirmed": 0,
     "Cumulative Confirmed": 41
+  },
+  {
+    "day": "2020-05-07",
+    "Country": "MW",
+    "Country Name": "Malawi",
+    "Region": "AFRO",
+    "Deaths": 0,
+    "Cumulative Deaths": 3,
+    "Confirmed": 2,
+    "Cumulative Confirmed": 43
   },
   {
     "day": "2020-01-25",
@@ -75490,6 +76700,16 @@
     "Cumulative Confirmed": 6383
   },
   {
+    "day": "2020-05-07",
+    "Country": "MY",
+    "Country Name": "Malaysia",
+    "Region": "WPRO",
+    "Deaths": 1,
+    "Cumulative Deaths": 107,
+    "Confirmed": 45,
+    "Cumulative Confirmed": 6428
+  },
+  {
     "day": "2020-03-07",
     "Country": "MV",
     "Country Name": "Maldives",
@@ -76100,6 +77320,16 @@
     "Cumulative Confirmed": 618
   },
   {
+    "day": "2020-05-07",
+    "Country": "MV",
+    "Country Name": "Maldives",
+    "Region": "SEARO",
+    "Deaths": 0,
+    "Cumulative Deaths": 2,
+    "Confirmed": 0,
+    "Cumulative Confirmed": 618
+  },
+  {
     "day": "2020-03-26",
     "Country": "ML",
     "Country Name": "Mali",
@@ -76518,6 +77748,16 @@
     "Cumulative Deaths": 32,
     "Confirmed": 32,
     "Cumulative Confirmed": 612
+  },
+  {
+    "day": "2020-05-07",
+    "Country": "ML",
+    "Country Name": "Mali",
+    "Region": "AFRO",
+    "Deaths": 0,
+    "Cumulative Deaths": 32,
+    "Confirmed": 19,
+    "Cumulative Confirmed": 631
   },
   {
     "day": "2020-03-07",
@@ -77130,6 +78370,16 @@
     "Cumulative Confirmed": 482
   },
   {
+    "day": "2020-05-07",
+    "Country": "MT",
+    "Country Name": "Malta",
+    "Region": "EURO",
+    "Deaths": 0,
+    "Cumulative Deaths": 5,
+    "Confirmed": 2,
+    "Cumulative Confirmed": 484
+  },
+  {
     "day": "2020-03-07",
     "Country": "MQ",
     "Country Name": "Martinique",
@@ -77740,6 +78990,16 @@
     "Cumulative Confirmed": 181
   },
   {
+    "day": "2020-05-07",
+    "Country": "MQ",
+    "Country Name": "Martinique",
+    "Region": "AMRO",
+    "Deaths": 0,
+    "Cumulative Deaths": 14,
+    "Confirmed": 1,
+    "Cumulative Confirmed": 182
+  },
+  {
     "day": "2020-03-14",
     "Country": "MR",
     "Country Name": "Mauritania",
@@ -78280,6 +79540,16 @@
     "Cumulative Confirmed": 8
   },
   {
+    "day": "2020-05-07",
+    "Country": "MR",
+    "Country Name": "Mauritania",
+    "Region": "AFRO",
+    "Deaths": 0,
+    "Cumulative Deaths": 1,
+    "Confirmed": 0,
+    "Cumulative Confirmed": 8
+  },
+  {
     "day": "2020-03-18",
     "Country": "MU",
     "Country Name": "Mauritius",
@@ -78771,6 +80041,16 @@
   },
   {
     "day": "2020-05-06",
+    "Country": "MU",
+    "Country Name": "Mauritius",
+    "Region": "AFRO",
+    "Deaths": 0,
+    "Cumulative Deaths": 10,
+    "Confirmed": 0,
+    "Cumulative Confirmed": 332
+  },
+  {
+    "day": "2020-05-07",
     "Country": "MU",
     "Country Name": "Mauritius",
     "Region": "AFRO",
@@ -79317,6 +80597,16 @@
     "Deaths": 3,
     "Cumulative Deaths": 9,
     "Confirmed": 53,
+    "Cumulative Confirmed": 739
+  },
+  {
+    "day": "2020-05-07",
+    "Country": "YT",
+    "Country Name": "Mayotte",
+    "Region": "AFRO",
+    "Deaths": 0,
+    "Cumulative Deaths": 9,
+    "Confirmed": 0,
     "Cumulative Confirmed": 739
   },
   {
@@ -80010,6 +81300,16 @@
     "Cumulative Confirmed": 24905
   },
   {
+    "day": "2020-05-07",
+    "Country": "MX",
+    "Country Name": "Mexico",
+    "Region": "AMRO",
+    "Deaths": 236,
+    "Cumulative Deaths": 2507,
+    "Confirmed": 1120,
+    "Cumulative Confirmed": 26025
+  },
+  {
     "day": "2020-02-29",
     "Country": "MC",
     "Country Name": "Monaco",
@@ -80690,6 +81990,16 @@
     "Cumulative Confirmed": 95
   },
   {
+    "day": "2020-05-07",
+    "Country": "MC",
+    "Country Name": "Monaco",
+    "Region": "EURO",
+    "Deaths": 0,
+    "Cumulative Deaths": 1,
+    "Confirmed": 0,
+    "Cumulative Confirmed": 95
+  },
+  {
     "day": "2020-03-10",
     "Country": "MN",
     "Country Name": "Mongolia",
@@ -81270,6 +82580,16 @@
     "Cumulative Confirmed": 41
   },
   {
+    "day": "2020-05-07",
+    "Country": "MN",
+    "Country Name": "Mongolia",
+    "Region": "WPRO",
+    "Deaths": 0,
+    "Cumulative Deaths": 0,
+    "Confirmed": 0,
+    "Cumulative Confirmed": 41
+  },
+  {
     "day": "2020-03-17",
     "Country": "ME",
     "Country Name": "Montenegro",
@@ -81780,6 +83100,16 @@
     "Cumulative Confirmed": 324
   },
   {
+    "day": "2020-05-07",
+    "Country": "ME",
+    "Country Name": "Montenegro",
+    "Region": "EURO",
+    "Deaths": 0,
+    "Cumulative Deaths": 8,
+    "Confirmed": 0,
+    "Cumulative Confirmed": 324
+  },
+  {
     "day": "2020-03-18",
     "Country": "MS",
     "Country Name": "Montserrat",
@@ -82271,6 +83601,16 @@
   },
   {
     "day": "2020-05-06",
+    "Country": "MS",
+    "Country Name": "Montserrat",
+    "Region": "AMRO",
+    "Deaths": 0,
+    "Cumulative Deaths": 1,
+    "Confirmed": 0,
+    "Cumulative Confirmed": 11
+  },
+  {
+    "day": "2020-05-07",
     "Country": "MS",
     "Country Name": "Montserrat",
     "Region": "AMRO",
@@ -82940,6 +84280,16 @@
     "Cumulative Confirmed": 5382
   },
   {
+    "day": "2020-05-07",
+    "Country": "MA",
+    "Country Name": "Morocco",
+    "Region": "EMRO",
+    "Deaths": 1,
+    "Cumulative Deaths": 183,
+    "Confirmed": 123,
+    "Cumulative Confirmed": 5505
+  },
+  {
     "day": "2020-03-23",
     "Country": "MZ",
     "Country Name": "Mozambique",
@@ -83390,6 +84740,16 @@
     "Cumulative Confirmed": 80
   },
   {
+    "day": "2020-05-07",
+    "Country": "MZ",
+    "Country Name": "Mozambique",
+    "Region": "AFRO",
+    "Deaths": 0,
+    "Cumulative Deaths": 0,
+    "Confirmed": 1,
+    "Cumulative Confirmed": 81
+  },
+  {
     "day": "2020-03-24",
     "Country": "MM",
     "Country Name": "Myanmar",
@@ -83828,6 +85188,16 @@
     "Cumulative Deaths": 6,
     "Confirmed": 0,
     "Cumulative Confirmed": 161
+  },
+  {
+    "day": "2020-05-07",
+    "Country": "MM",
+    "Country Name": "Myanmar",
+    "Region": "SEARO",
+    "Deaths": 0,
+    "Cumulative Deaths": 6,
+    "Confirmed": 1,
+    "Cumulative Confirmed": 162
   },
   {
     "day": "2020-03-14",
@@ -84361,6 +85731,16 @@
   },
   {
     "day": "2020-05-06",
+    "Country": "NA",
+    "Country Name": "Namibia",
+    "Region": "AFRO",
+    "Deaths": 0,
+    "Cumulative Deaths": 0,
+    "Confirmed": 0,
+    "Cumulative Confirmed": 16
+  },
+  {
+    "day": "2020-05-07",
     "Country": "NA",
     "Country Name": "Namibia",
     "Region": "AFRO",
@@ -85420,6 +86800,16 @@
     "Cumulative Confirmed": 99
   },
   {
+    "day": "2020-05-07",
+    "Country": "NP",
+    "Country Name": "Nepal",
+    "Region": "SEARO",
+    "Deaths": 0,
+    "Cumulative Deaths": 0,
+    "Confirmed": 0,
+    "Cumulative Confirmed": 99
+  },
+  {
     "day": "2020-02-27",
     "Country": "NL",
     "Country Name": "Netherlands",
@@ -86120,6 +87510,16 @@
     "Cumulative Confirmed": 41087
   },
   {
+    "day": "2020-05-07",
+    "Country": "NL",
+    "Country Name": "Netherlands",
+    "Region": "EURO",
+    "Deaths": 36,
+    "Cumulative Deaths": 5204,
+    "Confirmed": 232,
+    "Cumulative Confirmed": 41319
+  },
+  {
     "day": "2020-03-19",
     "Country": "NC",
     "Country Name": "New Caledonia",
@@ -86601,6 +88001,16 @@
   },
   {
     "day": "2020-05-06",
+    "Country": "NC",
+    "Country Name": "New Caledonia",
+    "Region": "WPRO",
+    "Deaths": 0,
+    "Cumulative Deaths": 0,
+    "Confirmed": 0,
+    "Cumulative Confirmed": 18
+  },
+  {
+    "day": "2020-05-07",
     "Country": "NC",
     "Country Name": "New Caledonia",
     "Region": "WPRO",
@@ -87300,6 +88710,16 @@
     "Cumulative Confirmed": 1138
   },
   {
+    "day": "2020-05-07",
+    "Country": "NZ",
+    "Country Name": "New Zealand",
+    "Region": "WPRO",
+    "Deaths": 0,
+    "Cumulative Deaths": 21,
+    "Confirmed": 1,
+    "Cumulative Confirmed": 1139
+  },
+  {
     "day": "2020-03-19",
     "Country": "NI",
     "Country Name": "Nicaragua",
@@ -87788,6 +89208,16 @@
     "Cumulative Deaths": 5,
     "Confirmed": 0,
     "Cumulative Confirmed": 15
+  },
+  {
+    "day": "2020-05-07",
+    "Country": "NI",
+    "Country Name": "Nicaragua",
+    "Region": "AMRO",
+    "Deaths": 0,
+    "Cumulative Deaths": 5,
+    "Confirmed": 1,
+    "Cumulative Confirmed": 16
   },
   {
     "day": "2020-03-19",
@@ -88278,6 +89708,16 @@
     "Cumulative Deaths": 38,
     "Confirmed": 8,
     "Cumulative Confirmed": 763
+  },
+  {
+    "day": "2020-05-07",
+    "Country": "NE",
+    "Country Name": "Niger",
+    "Region": "AFRO",
+    "Deaths": 0,
+    "Cumulative Deaths": 38,
+    "Confirmed": 7,
+    "Cumulative Confirmed": 770
   },
   {
     "day": "2020-02-28",
@@ -88968,6 +90408,16 @@
     "Cumulative Deaths": 98,
     "Confirmed": 148,
     "Cumulative Confirmed": 2950
+  },
+  {
+    "day": "2020-05-07",
+    "Country": "NG",
+    "Country Name": "Nigeria",
+    "Region": "AFRO",
+    "Deaths": 5,
+    "Cumulative Deaths": 103,
+    "Confirmed": 195,
+    "Cumulative Confirmed": 3145
   },
   {
     "day": "2020-02-26",
@@ -89680,6 +91130,16 @@
     "Cumulative Confirmed": 1526
   },
   {
+    "day": "2020-05-07",
+    "Country": "MK",
+    "Country Name": "North Macedonia",
+    "Region": "EURO",
+    "Deaths": 2,
+    "Cumulative Deaths": 88,
+    "Confirmed": 13,
+    "Cumulative Confirmed": 1539
+  },
+  {
     "day": "2020-03-29",
     "Country": "MP",
     "Country Name": "Northern Mariana Islands (Commonwealth of the)",
@@ -90068,6 +91528,16 @@
     "Cumulative Deaths": 2,
     "Confirmed": 0,
     "Cumulative Confirmed": 14
+  },
+  {
+    "day": "2020-05-07",
+    "Country": "MP",
+    "Country Name": "Northern Mariana Islands (Commonwealth of the)",
+    "Region": "WPRO",
+    "Deaths": 0,
+    "Cumulative Deaths": 2,
+    "Confirmed": 1,
+    "Cumulative Confirmed": 15
   },
   {
     "day": "2020-02-26",
@@ -90780,6 +92250,16 @@
     "Cumulative Confirmed": 7903
   },
   {
+    "day": "2020-05-07",
+    "Country": "NO",
+    "Country Name": "Norway",
+    "Region": "EURO",
+    "Deaths": 0,
+    "Cumulative Deaths": 209,
+    "Confirmed": 50,
+    "Cumulative Confirmed": 7953
+  },
+  {
     "day": "2020-03-05",
     "Country": "PS",
     "Country Name": "occupied Palestinian territory, including east Jerusalem",
@@ -91408,6 +92888,16 @@
     "Cumulative Deaths": 4,
     "Confirmed": 8,
     "Cumulative Confirmed": 546
+  },
+  {
+    "day": "2020-05-07",
+    "Country": "PS",
+    "Country Name": "occupied Palestinian territory, including east Jerusalem",
+    "Region": "EMRO",
+    "Deaths": 0,
+    "Cumulative Deaths": 4,
+    "Confirmed": 1,
+    "Cumulative Confirmed": 547
   },
   {
     "day": "2020-02-24",
@@ -92140,6 +93630,16 @@
     "Cumulative Confirmed": 2903
   },
   {
+    "day": "2020-05-07",
+    "Country": "OM",
+    "Country Name": "Oman",
+    "Region": "EMRO",
+    "Deaths": 1,
+    "Cumulative Deaths": 14,
+    "Confirmed": 55,
+    "Cumulative Confirmed": 2958
+  },
+  {
     "day": "2020-02-26",
     "Country": "PK",
     "Country Name": "Pakistan",
@@ -92850,6 +94350,16 @@
     "Cumulative Confirmed": 22550
   },
   {
+    "day": "2020-05-07",
+    "Country": "PK",
+    "Country Name": "Pakistan",
+    "Region": "EMRO",
+    "Deaths": 59,
+    "Cumulative Deaths": 585,
+    "Confirmed": 2094,
+    "Cumulative Confirmed": 24644
+  },
+  {
     "day": "2020-03-10",
     "Country": "PA",
     "Country Name": "Panama",
@@ -93430,6 +94940,16 @@
     "Cumulative Confirmed": 7387
   },
   {
+    "day": "2020-05-07",
+    "Country": "PA",
+    "Country Name": "Panama",
+    "Region": "AMRO",
+    "Deaths": 7,
+    "Cumulative Deaths": 210,
+    "Confirmed": 136,
+    "Cumulative Confirmed": 7523
+  },
+  {
     "day": "2020-03-20",
     "Country": "PG",
     "Country Name": "Papua New Guinea",
@@ -93901,6 +95421,16 @@
   },
   {
     "day": "2020-05-06",
+    "Country": "PG",
+    "Country Name": "Papua New Guinea",
+    "Region": "WPRO",
+    "Deaths": 0,
+    "Cumulative Deaths": 0,
+    "Confirmed": 0,
+    "Cumulative Confirmed": 8
+  },
+  {
+    "day": "2020-05-07",
     "Country": "PG",
     "Country Name": "Papua New Guinea",
     "Region": "WPRO",
@@ -94508,6 +96038,16 @@
     "Cumulative Deaths": 10,
     "Confirmed": 35,
     "Cumulative Confirmed": 431
+  },
+  {
+    "day": "2020-05-07",
+    "Country": "PY",
+    "Country Name": "Paraguay",
+    "Region": "AMRO",
+    "Deaths": 0,
+    "Cumulative Deaths": 10,
+    "Confirmed": 9,
+    "Cumulative Confirmed": 440
   },
   {
     "day": "2020-03-07",
@@ -95118,6 +96658,16 @@
     "Cumulative Deaths": 1344,
     "Confirmed": 1444,
     "Cumulative Confirmed": 47372
+  },
+  {
+    "day": "2020-05-07",
+    "Country": "PE",
+    "Country Name": "Peru",
+    "Region": "AMRO",
+    "Deaths": 100,
+    "Cumulative Deaths": 1444,
+    "Confirmed": 3817,
+    "Cumulative Confirmed": 51189
   },
   {
     "day": "2020-01-30",
@@ -96100,6 +97650,16 @@
     "Cumulative Confirmed": 9684
   },
   {
+    "day": "2020-05-07",
+    "Country": "PH",
+    "Country Name": "Philippines",
+    "Region": "WPRO",
+    "Deaths": 21,
+    "Cumulative Deaths": 658,
+    "Confirmed": 320,
+    "Cumulative Confirmed": 10004
+  },
+  {
     "day": "2020-03-05",
     "Country": "PL",
     "Country Name": "Poland",
@@ -96728,6 +98288,16 @@
     "Cumulative Deaths": 716,
     "Confirmed": 425,
     "Cumulative Confirmed": 14431
+  },
+  {
+    "day": "2020-05-07",
+    "Country": "PL",
+    "Country Name": "Poland",
+    "Region": "EURO",
+    "Deaths": 17,
+    "Cumulative Deaths": 733,
+    "Confirmed": 309,
+    "Cumulative Confirmed": 14740
   },
   {
     "day": "2020-03-02",
@@ -97390,6 +98960,16 @@
     "Cumulative Confirmed": 25702
   },
   {
+    "day": "2020-05-07",
+    "Country": "PT",
+    "Country Name": "Portugal",
+    "Region": "EURO",
+    "Deaths": 15,
+    "Cumulative Deaths": 1089,
+    "Confirmed": 480,
+    "Cumulative Confirmed": 26182
+  },
+  {
     "day": "2020-03-14",
     "Country": "PR",
     "Country Name": "Puerto Rico",
@@ -97928,6 +99508,16 @@
     "Cumulative Deaths": 56,
     "Confirmed": 81,
     "Cumulative Confirmed": 1924
+  },
+  {
+    "day": "2020-05-07",
+    "Country": "PR",
+    "Country Name": "Puerto Rico",
+    "Region": "AMRO",
+    "Deaths": 0,
+    "Cumulative Deaths": 56,
+    "Confirmed": 44,
+    "Cumulative Confirmed": 1968
   },
   {
     "day": "2020-02-29",
@@ -98608,6 +100198,16 @@
     "Cumulative Deaths": 12,
     "Confirmed": 830,
     "Cumulative Confirmed": 17972
+  },
+  {
+    "day": "2020-05-07",
+    "Country": "QA",
+    "Country Name": "Qatar",
+    "Region": "EMRO",
+    "Deaths": 0,
+    "Cumulative Deaths": 12,
+    "Confirmed": 918,
+    "Cumulative Confirmed": 18890
   },
   {
     "day": "2020-01-19",
@@ -99700,6 +101300,16 @@
     "Cumulative Confirmed": 10806
   },
   {
+    "day": "2020-05-07",
+    "Country": "KR",
+    "Country Name": "Republic of Korea",
+    "Region": "WPRO",
+    "Deaths": 1,
+    "Cumulative Deaths": 256,
+    "Confirmed": 4,
+    "Cumulative Confirmed": 10810
+  },
+  {
     "day": "2020-03-07",
     "Country": "MD",
     "Country Name": "Republic of Moldova",
@@ -100310,6 +101920,16 @@
     "Cumulative Confirmed": 4363
   },
   {
+    "day": "2020-05-07",
+    "Country": "MD",
+    "Country Name": "Republic of Moldova",
+    "Region": "EURO",
+    "Deaths": 3,
+    "Cumulative Deaths": 143,
+    "Confirmed": 113,
+    "Cumulative Confirmed": 4476
+  },
+  {
     "day": "2020-03-13",
     "Country": "RE",
     "Country Name": "Réunion",
@@ -100857,6 +102477,16 @@
     "Deaths": 0,
     "Cumulative Deaths": 0,
     "Confirmed": 1,
+    "Cumulative Confirmed": 425
+  },
+  {
+    "day": "2020-05-07",
+    "Country": "RE",
+    "Country Name": "Réunion",
+    "Region": "AFRO",
+    "Deaths": 0,
+    "Cumulative Deaths": 0,
+    "Confirmed": 0,
     "Cumulative Confirmed": 425
   },
   {
@@ -101568,6 +103198,16 @@
     "Cumulative Deaths": 827,
     "Confirmed": 325,
     "Cumulative Confirmed": 13837
+  },
+  {
+    "day": "2020-05-07",
+    "Country": "RO",
+    "Country Name": "Romania",
+    "Region": "EURO",
+    "Deaths": 31,
+    "Cumulative Deaths": 858,
+    "Confirmed": 270,
+    "Cumulative Confirmed": 14107
   },
   {
     "day": "2020-01-31",
@@ -102540,6 +104180,16 @@
     "Cumulative Confirmed": 165929
   },
   {
+    "day": "2020-05-07",
+    "Country": "RU",
+    "Country Name": "Russian Federation",
+    "Region": "EURO",
+    "Deaths": 88,
+    "Cumulative Deaths": 1625,
+    "Confirmed": 11231,
+    "Cumulative Confirmed": 177160
+  },
+  {
     "day": "2020-03-15",
     "Country": "RW",
     "Country Name": "Rwanda",
@@ -103068,6 +104718,16 @@
     "Cumulative Deaths": 0,
     "Confirmed": 0,
     "Cumulative Confirmed": 261
+  },
+  {
+    "day": "2020-05-07",
+    "Country": "RW",
+    "Country Name": "Rwanda",
+    "Region": "AFRO",
+    "Deaths": 0,
+    "Cumulative Deaths": 0,
+    "Confirmed": 7,
+    "Cumulative Confirmed": 268
   },
   {
     "day": "2020-03-02",
@@ -103730,6 +105390,16 @@
     "Cumulative Confirmed": 6
   },
   {
+    "day": "2020-05-07",
+    "Country": "BL",
+    "Country Name": "Saint Barthélemy",
+    "Region": "AMRO",
+    "Deaths": 0,
+    "Cumulative Deaths": 0,
+    "Confirmed": 0,
+    "Cumulative Confirmed": 6
+  },
+  {
     "day": "2020-03-26",
     "Country": "KN",
     "Country Name": "Saint Kitts and Nevis",
@@ -104141,6 +105811,16 @@
   },
   {
     "day": "2020-05-06",
+    "Country": "KN",
+    "Country Name": "Saint Kitts and Nevis",
+    "Region": "AMRO",
+    "Deaths": 0,
+    "Cumulative Deaths": 0,
+    "Confirmed": 0,
+    "Cumulative Confirmed": 15
+  },
+  {
+    "day": "2020-05-07",
     "Country": "KN",
     "Country Name": "Saint Kitts and Nevis",
     "Region": "AMRO",
@@ -104671,6 +106351,16 @@
   },
   {
     "day": "2020-05-06",
+    "Country": "LC",
+    "Country Name": "Saint Lucia",
+    "Region": "AMRO",
+    "Deaths": 0,
+    "Cumulative Deaths": 0,
+    "Confirmed": 0,
+    "Cumulative Confirmed": 18
+  },
+  {
+    "day": "2020-05-07",
     "Country": "LC",
     "Country Name": "Saint Lucia",
     "Region": "AMRO",
@@ -105340,6 +107030,16 @@
     "Cumulative Confirmed": 38
   },
   {
+    "day": "2020-05-07",
+    "Country": "MF",
+    "Country Name": "Saint Martin",
+    "Region": "AMRO",
+    "Deaths": 0,
+    "Cumulative Deaths": 3,
+    "Confirmed": 0,
+    "Cumulative Confirmed": 38
+  },
+  {
     "day": "2020-04-08",
     "Country": "PM",
     "Country Name": "Saint Pierre and Miquelon",
@@ -105621,6 +107321,16 @@
   },
   {
     "day": "2020-05-06",
+    "Country": "PM",
+    "Country Name": "Saint Pierre and Miquelon",
+    "Region": "AMRO",
+    "Deaths": 0,
+    "Cumulative Deaths": 0,
+    "Confirmed": 0,
+    "Cumulative Confirmed": 1
+  },
+  {
+    "day": "2020-05-07",
     "Country": "PM",
     "Country Name": "Saint Pierre and Miquelon",
     "Region": "AMRO",
@@ -106171,6 +107881,16 @@
   },
   {
     "day": "2020-05-06",
+    "Country": "VC",
+    "Country Name": "Saint Vincent and the Grenadines",
+    "Region": "AMRO",
+    "Deaths": 0,
+    "Cumulative Deaths": 0,
+    "Confirmed": 0,
+    "Cumulative Confirmed": 17
+  },
+  {
+    "day": "2020-05-07",
     "Country": "VC",
     "Country Name": "Saint Vincent and the Grenadines",
     "Region": "AMRO",
@@ -106870,6 +108590,16 @@
     "Cumulative Confirmed": 589
   },
   {
+    "day": "2020-05-07",
+    "Country": "SM",
+    "Country Name": "San Marino",
+    "Region": "EURO",
+    "Deaths": 0,
+    "Cumulative Deaths": 41,
+    "Confirmed": 19,
+    "Cumulative Confirmed": 608
+  },
+  {
     "day": "2020-04-06",
     "Country": "ST",
     "Country Name": "Sao Tome and Principe",
@@ -107178,6 +108908,16 @@
     "Cumulative Deaths": 3,
     "Confirmed": 10,
     "Cumulative Confirmed": 171
+  },
+  {
+    "day": "2020-05-07",
+    "Country": "ST",
+    "Country Name": "Sao Tome and Principe",
+    "Region": "AFRO",
+    "Deaths": 0,
+    "Cumulative Deaths": 3,
+    "Confirmed": 3,
+    "Cumulative Confirmed": 174
   },
   {
     "day": "2020-03-02",
@@ -107840,6 +109580,16 @@
     "Cumulative Confirmed": 31938
   },
   {
+    "day": "2020-05-07",
+    "Country": "SA",
+    "Country Name": "Saudi Arabia",
+    "Region": "EMRO",
+    "Deaths": 10,
+    "Cumulative Deaths": 219,
+    "Confirmed": 1793,
+    "Cumulative Confirmed": 33731
+  },
+  {
     "day": "2020-03-02",
     "Country": "SN",
     "Country Name": "Senegal",
@@ -108500,6 +110250,16 @@
     "Cumulative Confirmed": 1329
   },
   {
+    "day": "2020-05-07",
+    "Country": "SN",
+    "Country Name": "Senegal",
+    "Region": "AFRO",
+    "Deaths": 1,
+    "Cumulative Deaths": 12,
+    "Confirmed": 104,
+    "Cumulative Confirmed": 1433
+  },
+  {
     "day": "2020-03-06",
     "Country": "RS",
     "Country Name": "Serbia",
@@ -109120,6 +110880,16 @@
     "Cumulative Confirmed": 9677
   },
   {
+    "day": "2020-05-07",
+    "Country": "RS",
+    "Country Name": "Serbia",
+    "Region": "EURO",
+    "Deaths": 3,
+    "Cumulative Deaths": 203,
+    "Confirmed": 114,
+    "Cumulative Confirmed": 9791
+  },
+  {
     "day": "2020-03-15",
     "Country": "SC",
     "Country Name": "Seychelles",
@@ -109650,6 +111420,16 @@
     "Cumulative Confirmed": 11
   },
   {
+    "day": "2020-05-07",
+    "Country": "SC",
+    "Country Name": "Seychelles",
+    "Region": "AFRO",
+    "Deaths": 0,
+    "Cumulative Deaths": 0,
+    "Confirmed": 0,
+    "Cumulative Confirmed": 11
+  },
+  {
     "day": "2020-04-01",
     "Country": "SL",
     "Country Name": "Sierra Leone",
@@ -110008,6 +111788,16 @@
     "Cumulative Deaths": 11,
     "Confirmed": 21,
     "Cumulative Confirmed": 199
+  },
+  {
+    "day": "2020-05-07",
+    "Country": "SL",
+    "Country Name": "Sierra Leone",
+    "Region": "AFRO",
+    "Deaths": 3,
+    "Cumulative Deaths": 14,
+    "Confirmed": 26,
+    "Cumulative Confirmed": 225
   },
   {
     "day": "2020-01-23",
@@ -111060,6 +112850,16 @@
     "Cumulative Confirmed": 19410
   },
   {
+    "day": "2020-05-07",
+    "Country": "SG",
+    "Country Name": "Singapore",
+    "Region": "WPRO",
+    "Deaths": 2,
+    "Cumulative Deaths": 20,
+    "Confirmed": 788,
+    "Cumulative Confirmed": 20198
+  },
+  {
     "day": "2020-03-18",
     "Country": "SX",
     "Country Name": "Sint Maarten",
@@ -111555,6 +113355,16 @@
     "Country Name": "Sint Maarten",
     "Region": "AMRO",
     "Deaths": 1,
+    "Cumulative Deaths": 14,
+    "Confirmed": 0,
+    "Cumulative Confirmed": 76
+  },
+  {
+    "day": "2020-05-07",
+    "Country": "SX",
+    "Country Name": "Sint Maarten",
+    "Region": "AMRO",
+    "Deaths": 0,
     "Cumulative Deaths": 14,
     "Confirmed": 0,
     "Cumulative Confirmed": 76
@@ -112178,6 +113988,16 @@
     "Cumulative Deaths": 25,
     "Confirmed": 8,
     "Cumulative Confirmed": 1421
+  },
+  {
+    "day": "2020-05-07",
+    "Country": "SK",
+    "Country Name": "Slovakia",
+    "Region": "EURO",
+    "Deaths": 0,
+    "Cumulative Deaths": 25,
+    "Confirmed": 8,
+    "Cumulative Confirmed": 1429
   },
   {
     "day": "2020-03-04",
@@ -112820,6 +114640,16 @@
     "Cumulative Confirmed": 1445
   },
   {
+    "day": "2020-05-07",
+    "Country": "SI",
+    "Country Name": "Slovenia",
+    "Region": "EURO",
+    "Deaths": 1,
+    "Cumulative Deaths": 99,
+    "Confirmed": 3,
+    "Cumulative Confirmed": 1448
+  },
+  {
     "day": "2020-03-16",
     "Country": "SO",
     "Country Name": "Somalia",
@@ -113338,6 +115168,16 @@
     "Cumulative Deaths": 39,
     "Confirmed": 38,
     "Cumulative Confirmed": 873
+  },
+  {
+    "day": "2020-05-07",
+    "Country": "SO",
+    "Country Name": "Somalia",
+    "Region": "EMRO",
+    "Deaths": 5,
+    "Cumulative Deaths": 44,
+    "Confirmed": 55,
+    "Cumulative Confirmed": 928
   },
   {
     "day": "2020-03-05",
@@ -113970,6 +115810,16 @@
     "Cumulative Confirmed": 7439
   },
   {
+    "day": "2020-05-07",
+    "Country": "ZA",
+    "Country Name": "South Africa",
+    "Region": "AFRO",
+    "Deaths": 5,
+    "Cumulative Deaths": 153,
+    "Confirmed": 369,
+    "Cumulative Confirmed": 7808
+  },
+  {
     "day": "2020-04-06",
     "Country": "SS",
     "Country Name": "South Sudan",
@@ -114278,6 +116128,16 @@
     "Cumulative Deaths": 0,
     "Confirmed": 0,
     "Cumulative Confirmed": 49
+  },
+  {
+    "day": "2020-05-07",
+    "Country": "SS",
+    "Country Name": "South Sudan",
+    "Region": "AFRO",
+    "Deaths": 0,
+    "Cumulative Deaths": 0,
+    "Confirmed": 9,
+    "Cumulative Confirmed": 58
   },
   {
     "day": "2020-01-31",
@@ -115248,6 +117108,16 @@
     "Cumulative Deaths": 25613,
     "Confirmed": 1318,
     "Cumulative Confirmed": 219329
+  },
+  {
+    "day": "2020-05-07",
+    "Country": "ES",
+    "Country Name": "Spain",
+    "Region": "EURO",
+    "Deaths": 244,
+    "Cumulative Deaths": 25857,
+    "Confirmed": 996,
+    "Cumulative Confirmed": 220325
   },
   {
     "day": "2020-01-27",
@@ -116260,6 +118130,16 @@
     "Cumulative Confirmed": 771
   },
   {
+    "day": "2020-05-07",
+    "Country": "LK",
+    "Country Name": "Sri Lanka",
+    "Region": "SEARO",
+    "Deaths": 0,
+    "Cumulative Deaths": 9,
+    "Confirmed": 26,
+    "Cumulative Confirmed": 797
+  },
+  {
     "day": "2020-03-14",
     "Country": "SD",
     "Country Name": "Sudan",
@@ -116800,6 +118680,16 @@
     "Cumulative Confirmed": 852
   },
   {
+    "day": "2020-05-07",
+    "Country": "SD",
+    "Country Name": "Sudan",
+    "Region": "EMRO",
+    "Deaths": 3,
+    "Cumulative Deaths": 52,
+    "Confirmed": 78,
+    "Cumulative Confirmed": 930
+  },
+  {
     "day": "2020-03-15",
     "Country": "SR",
     "Country Name": "Suriname",
@@ -117321,6 +119211,16 @@
   },
   {
     "day": "2020-05-06",
+    "Country": "SR",
+    "Country Name": "Suriname",
+    "Region": "AMRO",
+    "Deaths": 0,
+    "Cumulative Deaths": 1,
+    "Confirmed": 0,
+    "Cumulative Confirmed": 10
+  },
+  {
+    "day": "2020-05-07",
     "Country": "SR",
     "Country Name": "Suriname",
     "Region": "AMRO",
@@ -118300,6 +120200,16 @@
     "Cumulative Confirmed": 23216
   },
   {
+    "day": "2020-05-07",
+    "Country": "SE",
+    "Country Name": "Sweden",
+    "Region": "EURO",
+    "Deaths": 87,
+    "Cumulative Deaths": 2941,
+    "Confirmed": 702,
+    "Cumulative Confirmed": 23918
+  },
+  {
     "day": "2020-02-25",
     "Country": "CH",
     "Country Name": "Switzerland",
@@ -119020,6 +120930,16 @@
     "Cumulative Confirmed": 29926
   },
   {
+    "day": "2020-05-07",
+    "Country": "CH",
+    "Country Name": "Switzerland",
+    "Region": "EURO",
+    "Deaths": 22,
+    "Cumulative Deaths": 1504,
+    "Confirmed": 51,
+    "Cumulative Confirmed": 29977
+  },
+  {
     "day": "2020-03-23",
     "Country": "SY",
     "Country Name": "Syrian Arab Republic",
@@ -119470,6 +121390,16 @@
     "Cumulative Confirmed": 45
   },
   {
+    "day": "2020-05-07",
+    "Country": "SY",
+    "Country Name": "Syrian Arab Republic",
+    "Region": "EMRO",
+    "Deaths": 0,
+    "Cumulative Deaths": 3,
+    "Confirmed": 0,
+    "Cumulative Confirmed": 45
+  },
+  {
     "day": "2020-05-01",
     "Country": "TJ",
     "Country Name": "Tajikistan",
@@ -119528,6 +121458,16 @@
     "Cumulative Deaths": 7,
     "Confirmed": 63,
     "Cumulative Confirmed": 293
+  },
+  {
+    "day": "2020-05-07",
+    "Country": "TJ",
+    "Country Name": "Tajikistan",
+    "Region": "EURO",
+    "Deaths": 2,
+    "Cumulative Deaths": 9,
+    "Confirmed": 86,
+    "Cumulative Confirmed": 379
   },
   {
     "day": "2020-01-13",
@@ -120680,6 +122620,16 @@
     "Cumulative Confirmed": 2989
   },
   {
+    "day": "2020-05-07",
+    "Country": "TH",
+    "Country Name": "Thailand",
+    "Region": "SEARO",
+    "Deaths": 0,
+    "Cumulative Deaths": 55,
+    "Confirmed": 3,
+    "Cumulative Confirmed": 2992
+  },
+  {
     "day": "2020-01-31",
     "Country": "GB",
     "Country Name": "The United Kingdom",
@@ -121650,6 +123600,16 @@
     "Cumulative Confirmed": 194994
   },
   {
+    "day": "2020-05-07",
+    "Country": "GB",
+    "Country Name": "The United Kingdom",
+    "Region": "EURO",
+    "Deaths": 649,
+    "Cumulative Deaths": 30076,
+    "Confirmed": 6211,
+    "Cumulative Confirmed": 201205
+  },
+  {
     "day": "2020-03-20",
     "Country": "TL",
     "Country Name": "Timor-Leste",
@@ -122121,6 +124081,16 @@
   },
   {
     "day": "2020-05-06",
+    "Country": "TL",
+    "Country Name": "Timor-Leste",
+    "Region": "SEARO",
+    "Deaths": 0,
+    "Cumulative Deaths": 0,
+    "Confirmed": 0,
+    "Cumulative Confirmed": 24
+  },
+  {
+    "day": "2020-05-07",
     "Country": "TL",
     "Country Name": "Timor-Leste",
     "Region": "SEARO",
@@ -122740,6 +124710,16 @@
     "Cumulative Confirmed": 128
   },
   {
+    "day": "2020-05-07",
+    "Country": "TG",
+    "Country Name": "Togo",
+    "Region": "AFRO",
+    "Deaths": 0,
+    "Cumulative Deaths": 9,
+    "Confirmed": 0,
+    "Cumulative Confirmed": 128
+  },
+  {
     "day": "2020-03-13",
     "Country": "TT",
     "Country Name": "Trinidad and Tobago",
@@ -123281,6 +125261,16 @@
   },
   {
     "day": "2020-05-06",
+    "Country": "TT",
+    "Country Name": "Trinidad and Tobago",
+    "Region": "AMRO",
+    "Deaths": 0,
+    "Cumulative Deaths": 8,
+    "Confirmed": 0,
+    "Cumulative Confirmed": 116
+  },
+  {
+    "day": "2020-05-07",
     "Country": "TT",
     "Country Name": "Trinidad and Tobago",
     "Region": "AMRO",
@@ -123950,6 +125940,16 @@
     "Cumulative Confirmed": 1022
   },
   {
+    "day": "2020-05-07",
+    "Country": "TN",
+    "Country Name": "Tunisia",
+    "Region": "EMRO",
+    "Deaths": 0,
+    "Cumulative Deaths": 43,
+    "Confirmed": 3,
+    "Cumulative Confirmed": 1025
+  },
+  {
     "day": "2020-03-11",
     "Country": "TR",
     "Country Name": "Turkey",
@@ -124520,6 +126520,16 @@
     "Cumulative Confirmed": 129491
   },
   {
+    "day": "2020-05-07",
+    "Country": "TR",
+    "Country Name": "Turkey",
+    "Region": "EURO",
+    "Deaths": 64,
+    "Cumulative Deaths": 3584,
+    "Confirmed": 2253,
+    "Cumulative Confirmed": 131744
+  },
+  {
     "day": "2020-03-24",
     "Country": "TC",
     "Country Name": "Turks and Caicos Islands",
@@ -124951,6 +126961,16 @@
   },
   {
     "day": "2020-05-06",
+    "Country": "TC",
+    "Country Name": "Turks and Caicos Islands",
+    "Region": "AMRO",
+    "Deaths": 0,
+    "Cumulative Deaths": 1,
+    "Confirmed": 0,
+    "Cumulative Confirmed": 12
+  },
+  {
+    "day": "2020-05-07",
     "Country": "TC",
     "Country Name": "Turks and Caicos Islands",
     "Region": "AMRO",
@@ -125428,6 +127448,16 @@
     "Cumulative Deaths": 0,
     "Confirmed": 8,
     "Cumulative Confirmed": 97
+  },
+  {
+    "day": "2020-05-07",
+    "Country": "UG",
+    "Country Name": "Uganda",
+    "Region": "AFRO",
+    "Deaths": 0,
+    "Cumulative Deaths": 0,
+    "Confirmed": 1,
+    "Cumulative Confirmed": 98
   },
   {
     "day": "2020-03-03",
@@ -126078,6 +128108,16 @@
     "Cumulative Deaths": 327,
     "Confirmed": 487,
     "Cumulative Confirmed": 13184
+  },
+  {
+    "day": "2020-05-07",
+    "Country": "UA",
+    "Country Name": "Ukraine",
+    "Region": "EURO",
+    "Deaths": 13,
+    "Cumulative Deaths": 340,
+    "Confirmed": 507,
+    "Cumulative Confirmed": 13691
   },
   {
     "day": "2020-01-29",
@@ -127070,6 +129110,16 @@
     "Cumulative Confirmed": 15192
   },
   {
+    "day": "2020-05-07",
+    "Country": "AE",
+    "Country Name": "United Arab Emirates",
+    "Region": "EMRO",
+    "Deaths": 19,
+    "Cumulative Deaths": 165,
+    "Confirmed": 1048,
+    "Cumulative Confirmed": 16240
+  },
+  {
     "day": "2020-03-17",
     "Country": "TZ",
     "Country Name": "United Republic of Tanzania",
@@ -127571,6 +129621,16 @@
   },
   {
     "day": "2020-05-06",
+    "Country": "TZ",
+    "Country Name": "United Republic of Tanzania",
+    "Region": "AFRO",
+    "Deaths": 0,
+    "Cumulative Deaths": 18,
+    "Confirmed": 0,
+    "Cumulative Confirmed": 480
+  },
+  {
+    "day": "2020-05-07",
     "Country": "TZ",
     "Country Name": "United Republic of Tanzania",
     "Region": "AFRO",
@@ -128660,6 +130720,16 @@
     "Cumulative Confirmed": 1171185
   },
   {
+    "day": "2020-05-07",
+    "Country": "US",
+    "Country Name": "United States of America",
+    "Region": "AMRO",
+    "Deaths": 2499,
+    "Cumulative Deaths": 65197,
+    "Confirmed": 22267,
+    "Cumulative Confirmed": 1193452
+  },
+  {
     "day": "2020-03-13",
     "Country": "VI",
     "Country Name": "United States Virgin Islands",
@@ -129210,6 +131280,16 @@
     "Cumulative Confirmed": 66
   },
   {
+    "day": "2020-05-07",
+    "Country": "VI",
+    "Country Name": "United States Virgin Islands",
+    "Region": "AMRO",
+    "Deaths": 0,
+    "Cumulative Deaths": 4,
+    "Confirmed": 0,
+    "Cumulative Confirmed": 66
+  },
+  {
     "day": "2020-03-15",
     "Country": "UY",
     "Country Name": "Uruguay",
@@ -129740,6 +131820,16 @@
     "Cumulative Confirmed": 657
   },
   {
+    "day": "2020-05-07",
+    "Country": "UY",
+    "Country Name": "Uruguay",
+    "Region": "AMRO",
+    "Deaths": 0,
+    "Cumulative Deaths": 17,
+    "Confirmed": 13,
+    "Cumulative Confirmed": 670
+  },
+  {
     "day": "2020-03-16",
     "Country": "UZ",
     "Country Name": "Uzbekistan",
@@ -130258,6 +132348,16 @@
     "Cumulative Deaths": 10,
     "Confirmed": 28,
     "Cumulative Confirmed": 2217
+  },
+  {
+    "day": "2020-05-07",
+    "Country": "UZ",
+    "Country Name": "Uzbekistan",
+    "Region": "EURO",
+    "Deaths": 0,
+    "Cumulative Deaths": 10,
+    "Confirmed": 49,
+    "Cumulative Confirmed": 2266
   },
   {
     "day": "2020-03-14",
@@ -130798,6 +132898,16 @@
     "Cumulative Deaths": 10,
     "Confirmed": 4,
     "Cumulative Confirmed": 361
+  },
+  {
+    "day": "2020-05-07",
+    "Country": "VE",
+    "Country Name": "Venezuela (Bolivarian Republic of)",
+    "Region": "AMRO",
+    "Deaths": 0,
+    "Cumulative Deaths": 10,
+    "Confirmed": 6,
+    "Cumulative Confirmed": 367
   },
   {
     "day": "2020-01-24",
@@ -131840,6 +133950,16 @@
     "Cumulative Confirmed": 271
   },
   {
+    "day": "2020-05-07",
+    "Country": "VN",
+    "Country Name": "Viet Nam",
+    "Region": "WPRO",
+    "Deaths": 0,
+    "Cumulative Deaths": 0,
+    "Confirmed": 17,
+    "Cumulative Confirmed": 288
+  },
+  {
     "day": "2020-04-10",
     "Country": "YE",
     "Country Name": "Yemen",
@@ -132107,6 +134227,16 @@
     "Deaths": 2,
     "Cumulative Deaths": 5,
     "Confirmed": 5,
+    "Cumulative Confirmed": 26
+  },
+  {
+    "day": "2020-05-07",
+    "Country": "YE",
+    "Country Name": "Yemen",
+    "Region": "EMRO",
+    "Deaths": 1,
+    "Cumulative Deaths": 6,
+    "Confirmed": 0,
     "Cumulative Confirmed": 26
   },
   {
@@ -132610,6 +134740,16 @@
     "Cumulative Confirmed": 137
   },
   {
+    "day": "2020-05-07",
+    "Country": "ZM",
+    "Country Name": "Zambia",
+    "Region": "AFRO",
+    "Deaths": 0,
+    "Cumulative Deaths": 4,
+    "Confirmed": 2,
+    "Cumulative Confirmed": 139
+  },
+  {
     "day": "2020-03-20",
     "Country": "ZW",
     "Country Name": "Zimbabwe",
@@ -133081,6 +135221,16 @@
   },
   {
     "day": "2020-05-06",
+    "Country": "ZW",
+    "Country Name": "Zimbabwe",
+    "Region": "AFRO",
+    "Deaths": 0,
+    "Cumulative Deaths": 4,
+    "Confirmed": 0,
+    "Cumulative Confirmed": 34
+  },
+  {
+    "day": "2020-05-07",
     "Country": "ZW",
     "Country Name": "Zimbabwe",
     "Region": "AFRO",

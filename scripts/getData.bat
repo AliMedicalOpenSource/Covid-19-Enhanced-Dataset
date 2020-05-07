@@ -9,8 +9,7 @@ mkdir ..\raw
 mkdir ..\raw\au
 mkdir ..\raw\au\nsw
 copy temp\ ..\raw\au\nsw
-del /s /q temp
-git add  ..\.
+del /s /q temp\
 
 mkdir ..\raw
 mkdir ..\raw\usa
@@ -19,8 +18,16 @@ curl https://ga-covid19.ondemand.sas.com/docs/ga_covid_data.zip > ..\temp\us_ga_
 unzip ..\temp\us_ga_covid.zip 
 copy *.csv ..\raw\usa\ga
 del /s /q ..\temp\us_ga_covid.zip
-del *.csv
+del /s /q *.csv
+curl  https://novascotia.ca/coronavirus/data/COVID-19-data.csv ..\temp\ca_ns_covid.json
+
+mkdir ..\raw
+mkdir ..\raw\ca
+mkdir ..\raw\ca\ns
+copy temp\ ..\raw\ca\ns\nsw 
+del /s /q temp\
+git add  ..\.
 
 
-# git commit -m "Auto Update"
-# git push -u origin master
+  git commit -m "Auto Update"
+    git push -u origin master
