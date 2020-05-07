@@ -14,12 +14,12 @@ del /s /q temp\
 mkdir ..\raw
 mkdir ..\raw\usa
 mkdir ..\raw\usa\ga
-curl https://ga-covid19.ondemand.sas.com/docs/ga_covid_data.zip >> ..\temp\us_ga_covid.zip
+curl https://ga-covid19.ondemand.sas.com/docs/ga_covid_data.zip >> temp\us_ga_covid.zip
 unzip ..\temp\us_ga_covid.zip 
 copy *.csv ..\raw\usa\ga
 del /s /q ..\temp\us_ga_covid.zip
 del /s /q *.csv
-curl  https://novascotia.ca/coronavirus/data/COVID-19-data.csv >> ..\temp\ca_ns_covid.json
+curl  https://novascotia.ca/coronavirus/data/COVID-19-data.csv >> temp\ca_ns_covid.json
 
 mkdir ..\raw
 mkdir ..\raw\ca
