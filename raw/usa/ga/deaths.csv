@@ -23,6 +23,8 @@ age,Gender,County,Chronic_Condition
 90,MALE,Baldwin,Unknown
 89,MALE,Baldwin,Unknown
 65,MALE,Baldwin,Unknown
+73,UNKNOWN,Baldwin,Yes
+84,MALE,Baldwin,Unknown
 66,MALE,Barrow,Yes
 91,FEMALE,Barrow,Yes
 64,MALE,Barrow,Yes
@@ -66,13 +68,14 @@ age,Gender,County,Chronic_Condition
 85,MALE,Bibb,Yes
 37,FEMALE,Bibb,Yes
 96,FEMALE,Bibb,Unknown
+71,MALE,Bibb,Unknown
 87,MALE,Bibb,Unknown
 ,MALE,Bibb,Yes
 70,FEMALE,Bibb,Yes
 82,FEMALE,Bibb,Yes
 60,MALE,Bibb,No
 89,FEMALE,Bibb,Yes
-71,MALE,Bibb,Yes
+84,FEMALE,Bibb,Yes
 78,FEMALE,Brantley,Yes
 79,FEMALE,Brantley,Unknown
 88,FEMALE,Brooks,Unknown
@@ -91,6 +94,7 @@ age,Gender,County,Chronic_Condition
 82,MALE,Burke,Yes
 67,FEMALE,Burke,Unknown
 83,MALE,Burke,Yes
+82,FEMALE,Burke,Yes
 70,MALE,Butts,Yes
 68,MALE,Butts,Unknown
 80,FEMALE,Butts,Unknown
@@ -115,6 +119,7 @@ age,Gender,County,Chronic_Condition
 35,FEMALE,Calhoun,Yes
 45,MALE,Camden,No
 64,MALE,Carroll,Yes
+74,MALE,Carroll,Yes
 75,FEMALE,Carroll,Yes
 76,MALE,Carroll,Yes
 86,MALE,Carroll,Yes
@@ -127,6 +132,7 @@ age,Gender,County,Chronic_Condition
 83,FEMALE,Carroll,Yes
 73,MALE,Carroll,Yes
 85,FEMALE,Carroll,Unknown
+48,MALE,Carroll,No
 68,MALE,Carroll,Yes
 92,FEMALE,Carroll,Yes
 83,MALE,Chatham,Yes
@@ -287,12 +293,14 @@ age,Gender,County,Chronic_Condition
 78,FEMALE,Cobb,No
 71,MALE,Cobb,Yes
 94,MALE,Cobb,Unknown
+90,MALE,Cobb,Yes
 75,MALE,Cobb,Yes
 76,FEMALE,Cobb,Yes
 88,MALE,Cobb,Yes
 85,MALE,Cobb,Yes
 81,MALE,Cobb,No
 64,FEMALE,Cobb,Yes
+73,MALE,Cobb,Yes
 57,MALE,Cobb,Yes
 94,FEMALE,Cobb,No
 84,FEMALE,Cobb,Yes
@@ -306,6 +314,7 @@ age,Gender,County,Chronic_Condition
 85,MALE,Cobb,Yes
 68,MALE,Cobb,Yes
 71,MALE,Cobb,Yes
+95,FEMALE,Cobb,Unknown
 83,FEMALE,Cobb,Unknown
 71,FEMALE,Cobb,Unknown
 89,MALE,Cobb,Yes
@@ -380,9 +389,11 @@ age,Gender,County,Chronic_Condition
 76,MALE,DeKalb,Yes
 90,FEMALE,DeKalb,Yes
 66,MALE,DeKalb,Yes
+67,MALE,DeKalb,Unknown
 54,MALE,DeKalb,Yes
 96,FEMALE,DeKalb,Yes
 43,MALE,DeKalb,Yes
+48,MALE,DeKalb,Unknown
 79,FEMALE,DeKalb,Yes
 80,MALE,DeKalb,Unknown
 84,FEMALE,DeKalb,Yes
@@ -404,15 +415,20 @@ age,Gender,County,Chronic_Condition
 79,MALE,DeKalb,Yes
 48,FEMALE,DeKalb,No
 77,MALE,DeKalb,Unknown
+76,FEMALE,DeKalb,Yes
 46,FEMALE,DeKalb,Yes
 81,MALE,DeKalb,Yes
 89,FEMALE,DeKalb,Yes
 65,MALE,DeKalb,Unknown
 81,MALE,DeKalb,Unknown
 85,MALE,DeKalb,Unknown
+75,MALE,DeKalb,Unknown
+81,FEMALE,DeKalb,Unknown
+68,MALE,DeKalb,Yes
 84,FEMALE,DeKalb,Unknown
+79,MALE,DeKalb,Yes
 79,MALE,DeKalb,Unknown
-91,MALE,DeKalb,Unknown
+90,MALE,DeKalb,Unknown
 63,MALE,DeKalb,Yes
 74,FEMALE,DeKalb,Yes
 33,MALE,DeKalb,Unknown
@@ -468,6 +484,7 @@ age,Gender,County,Chronic_Condition
 48,FEMALE,Dougherty,Yes
 75,MALE,Dougherty,Yes
 61,MALE,Dougherty,Yes
+55,FEMALE,Dougherty,Unknown
 79,FEMALE,Dougherty,No
 75,MALE,Dougherty,Yes
 81,FEMALE,Dougherty,Yes
@@ -535,7 +552,6 @@ age,Gender,County,Chronic_Condition
 65,MALE,Dougherty,Unknown
 51,FEMALE,Dougherty,No
 88,FEMALE,Dougherty,Unknown
-61,MALE,Dougherty,Unknown
 84,FEMALE,Dougherty,Yes
 96,MALE,Dougherty,Unknown
 55,FEMALE,Dougherty,No
@@ -595,6 +611,7 @@ age,Gender,County,Chronic_Condition
 62,FEMALE,Early,Unknown
 ,MALE,Early,Unknown
 56,MALE,Effingham,Yes
+67,MALE,Emanuel,Unknown
 84,FEMALE,Fannin,Yes
 80,MALE,Fayette,Yes
 73,MALE,Fayette,Yes
@@ -653,12 +670,14 @@ age,Gender,County,Chronic_Condition
 89,MALE,Fulton,Yes
 83,MALE,Fulton,Unknown
 53,MALE,Fulton,Yes
+70,MALE,Fulton,Unknown
 89,FEMALE,Fulton,Yes
 78,MALE,Fulton,Yes
 78,MALE,Fulton,Yes
 82,MALE,Fulton,Yes
 73,MALE,Fulton,Unknown
 77,FEMALE,Fulton,Yes
+54,FEMALE,Fulton,Yes
 73,FEMALE,Fulton,No
 85,MALE,Fulton,Yes
 75,MALE,Fulton,Yes
@@ -683,6 +702,7 @@ age,Gender,County,Chronic_Condition
 88,FEMALE,Fulton,Yes
 76,MALE,Fulton,Yes
 72,FEMALE,Fulton,Unknown
+56,MALE,Fulton,Unknown
 84,MALE,Fulton,Yes
 97,FEMALE,Fulton,Yes
 88,MALE,Fulton,Yes
@@ -693,6 +713,7 @@ age,Gender,County,Chronic_Condition
 82,FEMALE,Fulton,Yes
 66,MALE,Fulton,No
 68,MALE,Fulton,Unknown
+95,MALE,Fulton,Unknown
 54,FEMALE,Fulton,Unknown
 73,MALE,Fulton,Yes
 89,MALE,Fulton,Yes
@@ -737,6 +758,8 @@ age,Gender,County,Chronic_Condition
 83,FEMALE,Fulton,Yes
 95,FEMALE,Fulton,Yes
 95,FEMALE,Fulton,Yes
+53,FEMALE,Fulton,Yes
+94,MALE,Fulton,Yes
 98,FEMALE,Fulton,Yes
 82,FEMALE,Fulton,Yes
 61,FEMALE,Fulton,Yes
@@ -755,6 +778,7 @@ age,Gender,County,Chronic_Condition
 68,FEMALE,Fulton,Unknown
 79,FEMALE,Fulton,Yes
 74,MALE,Fulton,Yes
+90,FEMALE,Fulton,Unknown
 61,MALE,Fulton,Unknown
 69,MALE,Fulton,Unknown
 87,FEMALE,Fulton,Yes
@@ -767,7 +791,6 @@ age,Gender,County,Chronic_Condition
 70,MALE,Fulton,Unknown
 80,FEMALE,Fulton,Yes
 65,MALE,Fulton,Unknown
-81,FEMALE,Glascock,Unknown
 76,MALE,Glynn,Yes
 78,MALE,Gordon,Yes
 70,FEMALE,Gordon,Yes
@@ -812,6 +835,7 @@ age,Gender,County,Chronic_Condition
 72,FEMALE,Gwinnett,Yes
 81,FEMALE,Gwinnett,Yes
 81,MALE,Gwinnett,Unknown
+78,MALE,Gwinnett,Yes
 31,FEMALE,Gwinnett,Unknown
 95,MALE,Gwinnett,Yes
 81,FEMALE,Gwinnett,Yes
@@ -863,11 +887,13 @@ age,Gender,County,Chronic_Condition
 73,FEMALE,Gwinnett,Yes
 74,FEMALE,Gwinnett,Unknown
 81,MALE,Gwinnett,Yes
+48,FEMALE,Gwinnett,Yes
 87,FEMALE,Gwinnett,Unknown
 88,FEMALE,Gwinnett,Yes
 80,FEMALE,Gwinnett,Yes
 94,FEMALE,Gwinnett,Yes
 74,MALE,Gwinnett,Unknown
+81,FEMALE,Gwinnett,Unknown
 73,MALE,Gwinnett,Yes
 85,FEMALE,Gwinnett,Yes
 97,FEMALE,Gwinnett,Yes
@@ -885,6 +911,8 @@ age,Gender,County,Chronic_Condition
 87,MALE,Habersham,Yes
 62,FEMALE,Habersham,No
 99,FEMALE,Habersham,Unknown
+68,FEMALE,Habersham,Unknown
+104,FEMALE,Habersham,Yes
 38,FEMALE,Habersham,Unknown
 51,FEMALE,Habersham,Yes
 70,FEMALE,Habersham,Unknown
@@ -916,6 +944,7 @@ age,Gender,County,Chronic_Condition
 93,FEMALE,Hall,Unknown
 88,MALE,Hall,Yes
 94,FEMALE,Hall,Unknown
+95,FEMALE,Hall,Yes
 92,FEMALE,Hall,Yes
 68,MALE,Hall,Yes
 77,FEMALE,Hancock,Unknown
@@ -952,6 +981,7 @@ age,Gender,County,Chronic_Condition
 74,FEMALE,Houston,Yes
 62,MALE,Houston,Yes
 71,FEMALE,Houston,Yes
+58,FEMALE,Houston,Yes
 29,FEMALE,Houston,Unknown
 84,FEMALE,Houston,Yes
 80,FEMALE,Irwin,Yes
@@ -965,6 +995,7 @@ age,Gender,County,Chronic_Condition
 67,MALE,Johnson,Unknown
 81,FEMALE,Lamar,Unknown
 75,FEMALE,Lanier,Yes
+71,MALE,Lanier,Yes
 83,MALE,Laurens,Yes
 58,MALE,Lee,Yes
 64,FEMALE,Lee,Yes
@@ -993,6 +1024,7 @@ age,Gender,County,Chronic_Condition
 87,FEMALE,Lowndes,Yes
 74,FEMALE,Lowndes,Unknown
 58,MALE,Lumpkin,Unknown
+62,MALE,Macon,Unknown
 68,MALE,Macon,Yes
 49,MALE,Macon,Unknown
 67,MALE,Macon,Yes
@@ -1061,6 +1093,7 @@ age,Gender,County,Chronic_Condition
 73,FEMALE,Newton,Unknown
 83,MALE,Oglethorpe,Unknown
 94,MALE,Oglethorpe,Unknown
+91,MALE,Oglethorpe,Yes
 85,MALE,Oglethorpe,Unknown
 73,MALE,Paulding,Yes
 67,FEMALE,Paulding,Yes
@@ -1087,6 +1120,7 @@ age,Gender,County,Chronic_Condition
 73,MALE,Putnam,Yes
 63,MALE,Putnam,Yes
 93,FEMALE,Putnam,Unknown
+49,MALE,Putnam,Yes
 61,MALE,Quitman,Yes
 68,FEMALE,Rabun,Yes
 66,FEMALE,Randolph,Unknown
@@ -1108,6 +1142,7 @@ age,Gender,County,Chronic_Condition
 71,MALE,Randolph,Unknown
 50,MALE,Randolph,No
 85,MALE,Randolph,Yes
+92,FEMALE,Randolph,Unknown
 62,FEMALE,Randolph,Unknown
 81,FEMALE,Richmond,Yes
 87,FEMALE,Richmond,Unknown
@@ -1118,6 +1153,7 @@ age,Gender,County,Chronic_Condition
 72,FEMALE,Richmond,Yes
 62,FEMALE,Richmond,Yes
 83,MALE,Richmond,Yes
+84,FEMALE,Richmond,Yes
 84,FEMALE,Richmond,Unknown
 67,FEMALE,Richmond,Yes
 91,FEMALE,Richmond,Unknown
@@ -1158,6 +1194,7 @@ age,Gender,County,Chronic_Condition
 63,MALE,Sumter,Yes
 79,FEMALE,Sumter,Yes
 68,MALE,Sumter,Unknown
+76,MALE,Sumter,Yes
 88,MALE,Sumter,Yes
 28,MALE,Sumter,Unknown
 72,MALE,Sumter,Unknown
@@ -1172,10 +1209,12 @@ age,Gender,County,Chronic_Condition
 65,MALE,Sumter,Yes
 45,MALE,Sumter,Unknown
 77,MALE,Sumter,Yes
+49,MALE,Sumter,Unknown
 86,MALE,Sumter,Yes
 81,FEMALE,Sumter,Yes
 60,FEMALE,Sumter,Yes
 87,FEMALE,Sumter,Unknown
+78,FEMALE,Sumter,Yes
 74,MALE,Talbot,Unknown
 60,FEMALE,Taylor,Yes
 83,FEMALE,Taylor,Yes
@@ -1209,6 +1248,7 @@ age,Gender,County,Chronic_Condition
 89,FEMALE,Thomas,Unknown
 75,FEMALE,Thomas,Unknown
 75,MALE,Thomas,Yes
+72,MALE,Thomas,Yes
 82,MALE,Thomas,Yes
 95,FEMALE,Thomas,Unknown
 63,MALE,Thomas,Yes
@@ -1222,6 +1262,9 @@ age,Gender,County,Chronic_Condition
 85,MALE,Thomas,Yes
 84,FEMALE,Thomas,Unknown
 97,MALE,Thomas,Unknown
+,MALE,Thomas,Unknown
+,FEMALE,Thomas,Unknown
+,FEMALE,Thomas,Unknown
 62,FEMALE,Tift,Yes
 91,MALE,Tift,Yes
 80,MALE,Tift,No
@@ -1241,6 +1284,7 @@ age,Gender,County,Chronic_Condition
 83,MALE,Turner,Yes
 75,FEMALE,Turner,Yes
 63,MALE,Turner,Unknown
+70,MALE,Turner,Unknown
 87,MALE,Turner,Unknown
 63,MALE,Turner,Yes
 63,MALE,Turner,Unknown
@@ -1253,6 +1297,7 @@ age,Gender,County,Chronic_Condition
 71,FEMALE,Non-Georgia Resident,Yes
 92,FEMALE,Non-Georgia Resident,Yes
 78,MALE,Non-Georgia Resident,Yes
+89,MALE,Non-Georgia Resident,Unknown
 77,MALE,Non-Georgia Resident,No
 63,MALE,Non-Georgia Resident,No
 53,MALE,Non-Georgia Resident,Unknown
@@ -1261,12 +1306,14 @@ age,Gender,County,Chronic_Condition
 94,FEMALE,Non-Georgia Resident,Yes
 68,MALE,Non-Georgia Resident,Unknown
 77,MALE,Non-Georgia Resident,Yes
+59,FEMALE,Non-Georgia Resident,Yes
 84,FEMALE,Non-Georgia Resident,Unknown
 68,FEMALE,Non-Georgia Resident,Unknown
 79,FEMALE,Non-Georgia Resident,Unknown
 71,MALE,Non-Georgia Resident,Yes
 58,FEMALE,Non-Georgia Resident,Yes
 73,FEMALE,Non-Georgia Resident,Yes
+49,UNKNOWN,Non-Georgia Resident,Unknown
 65,FEMALE,Non-Georgia Resident,Unknown
 73,MALE,Upson,Yes
 74,MALE,Upson,Unknown
@@ -1296,6 +1343,7 @@ age,Gender,County,Chronic_Condition
 75,MALE,Walton,Yes
 87,MALE,Walton,Yes
 65,MALE,Walton,Yes
+72,FEMALE,Walton,Yes
 56,MALE,Walton,Yes
 75,MALE,Ware,Yes
 44,MALE,Ware,Yes
@@ -1313,7 +1361,6 @@ age,Gender,County,Chronic_Condition
 59,MALE,Webster,Yes
 59,MALE,Webster,Yes
 65,MALE,White,Yes
-95,FEMALE,White,Yes
 93,MALE,Whitfield,Yes
 81,MALE,Whitfield,Yes
 68,MALE,Whitfield,Yes
