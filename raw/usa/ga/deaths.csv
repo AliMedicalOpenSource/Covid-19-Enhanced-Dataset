@@ -23,7 +23,7 @@ age,Gender,County,Chronic_Condition
 90,MALE,Baldwin,Unknown
 89,MALE,Baldwin,Unknown
 65,MALE,Baldwin,Unknown
-73,UNKNOWN,Baldwin,Yes
+73,MALE,Baldwin,Yes
 84,MALE,Baldwin,Unknown
 66,MALE,Barrow,Yes
 91,FEMALE,Barrow,Yes
@@ -75,7 +75,7 @@ age,Gender,County,Chronic_Condition
 82,FEMALE,Bibb,Yes
 60,MALE,Bibb,No
 89,FEMALE,Bibb,Yes
-84,FEMALE,Bibb,Yes
+83,FEMALE,Bibb,Yes
 78,FEMALE,Brantley,Yes
 79,FEMALE,Brantley,Unknown
 88,FEMALE,Brooks,Unknown
@@ -284,12 +284,14 @@ age,Gender,County,Chronic_Condition
 70,MALE,Cobb,Yes
 50,MALE,Cobb,Yes
 51,FEMALE,Cobb,Yes
+76,MALE,Cobb,Yes
 73,MALE,Cobb,Unknown
 76,FEMALE,Cobb,Yes
 90,FEMALE,Cobb,Yes
 78,MALE,Cobb,Yes
 94,FEMALE,Cobb,Yes
 87,MALE,Cobb,Unknown
+89,FEMALE,Cobb,Unknown
 78,FEMALE,Cobb,No
 71,MALE,Cobb,Yes
 94,MALE,Cobb,Unknown
@@ -314,7 +316,7 @@ age,Gender,County,Chronic_Condition
 85,MALE,Cobb,Yes
 68,MALE,Cobb,Yes
 71,MALE,Cobb,Yes
-95,FEMALE,Cobb,Unknown
+94,FEMALE,Cobb,Unknown
 83,FEMALE,Cobb,Unknown
 71,FEMALE,Cobb,Unknown
 89,MALE,Cobb,Yes
@@ -323,10 +325,12 @@ age,Gender,County,Chronic_Condition
 78,MALE,Cobb,Yes
 94,FEMALE,Cobb,No
 95,FEMALE,Cobb,Yes
+73,FEMALE,Cobb,Yes
 75,MALE,Cobb,Yes
 99,FEMALE,Cobb,Yes
 79,FEMALE,Cobb,Unknown
 65,MALE,Cobb,Unknown
+80,MALE,Cobb,Yes
 48,FEMALE,Coffee,Yes
 55,FEMALE,Coffee,Yes
 66,MALE,Coffee,Unknown
@@ -335,6 +339,7 @@ age,Gender,County,Chronic_Condition
 72,FEMALE,Coffee,Yes
 87,FEMALE,Coffee,Yes
 76,FEMALE,Coffee,Yes
+71,MALE,Coffee,Yes
 53,MALE,Colquitt,Yes
 51,MALE,Colquitt,Unknown
 83,FEMALE,Colquitt,Unknown
@@ -413,7 +418,7 @@ age,Gender,County,Chronic_Condition
 85,FEMALE,DeKalb,Yes
 91,FEMALE,DeKalb,Yes
 79,MALE,DeKalb,Yes
-48,FEMALE,DeKalb,No
+49,FEMALE,DeKalb,No
 77,MALE,DeKalb,Unknown
 76,FEMALE,DeKalb,Yes
 46,FEMALE,DeKalb,Yes
@@ -526,7 +531,7 @@ age,Gender,County,Chronic_Condition
 58,MALE,Dougherty,Yes
 71,MALE,Dougherty,Yes
 75,MALE,Dougherty,Unknown
-48,MALE,Dougherty,Yes
+49,MALE,Dougherty,Yes
 85,MALE,Dougherty,Yes
 64,FEMALE,Dougherty,Yes
 86,MALE,Dougherty,Unknown
@@ -662,7 +667,7 @@ age,Gender,County,Chronic_Condition
 33,MALE,Fulton,Yes
 90,FEMALE,Fulton,Yes
 70,FEMALE,Fulton,Yes
-50,FEMALE,Fulton,No
+51,FEMALE,Fulton,No
 59,MALE,Fulton,Yes
 70,FEMALE,Fulton,Yes
 63,MALE,Fulton,Yes
@@ -791,6 +796,7 @@ age,Gender,County,Chronic_Condition
 70,MALE,Fulton,Unknown
 80,FEMALE,Fulton,Yes
 65,MALE,Fulton,Unknown
+80,UNKNOWN,Fulton,Yes
 76,MALE,Glynn,Yes
 78,MALE,Gordon,Yes
 70,FEMALE,Gordon,Yes
@@ -864,7 +870,7 @@ age,Gender,County,Chronic_Condition
 83,FEMALE,Gwinnett,Yes
 48,MALE,Gwinnett,No
 81,MALE,Gwinnett,Yes
-72,FEMALE,Gwinnett,Unknown
+72,FEMALE,Gwinnett,Yes
 75,FEMALE,Gwinnett,Yes
 96,FEMALE,Gwinnett,Yes
 73,FEMALE,Gwinnett,Yes
@@ -1044,7 +1050,7 @@ age,Gender,County,Chronic_Condition
 61,FEMALE,Mitchell,Yes
 44,MALE,Mitchell,Unknown
 106,MALE,Mitchell,Unknown
-55,FEMALE,Mitchell,Unknown
+56,FEMALE,Mitchell,Unknown
 54,MALE,Mitchell,Unknown
 97,FEMALE,Mitchell,No
 79,MALE,Mitchell,Yes
@@ -1120,7 +1126,7 @@ age,Gender,County,Chronic_Condition
 73,MALE,Putnam,Yes
 63,MALE,Putnam,Yes
 93,FEMALE,Putnam,Unknown
-49,MALE,Putnam,Yes
+48,MALE,Putnam,Yes
 61,MALE,Quitman,Yes
 68,FEMALE,Rabun,Yes
 66,FEMALE,Randolph,Unknown
@@ -1262,9 +1268,9 @@ age,Gender,County,Chronic_Condition
 85,MALE,Thomas,Yes
 84,FEMALE,Thomas,Unknown
 97,MALE,Thomas,Unknown
-,MALE,Thomas,Unknown
-,FEMALE,Thomas,Unknown
-,FEMALE,Thomas,Unknown
+78,FEMALE,Thomas,Unknown
+93,FEMALE,Thomas,Unknown
+72,FEMALE,Thomas,Unknown
 62,FEMALE,Tift,Yes
 91,MALE,Tift,Yes
 80,MALE,Tift,No
@@ -1297,7 +1303,7 @@ age,Gender,County,Chronic_Condition
 71,FEMALE,Non-Georgia Resident,Yes
 92,FEMALE,Non-Georgia Resident,Yes
 78,MALE,Non-Georgia Resident,Yes
-89,MALE,Non-Georgia Resident,Unknown
+88,MALE,Non-Georgia Resident,Unknown
 77,MALE,Non-Georgia Resident,No
 63,MALE,Non-Georgia Resident,No
 53,MALE,Non-Georgia Resident,Unknown
@@ -1313,7 +1319,7 @@ age,Gender,County,Chronic_Condition
 71,MALE,Non-Georgia Resident,Yes
 58,FEMALE,Non-Georgia Resident,Yes
 73,FEMALE,Non-Georgia Resident,Yes
-49,UNKNOWN,Non-Georgia Resident,Unknown
+49,FEMALE,Non-Georgia Resident,Unknown
 65,FEMALE,Non-Georgia Resident,Unknown
 73,MALE,Upson,Yes
 74,MALE,Upson,Unknown
