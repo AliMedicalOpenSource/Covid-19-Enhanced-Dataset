@@ -12,6 +12,7 @@ mkdir ..\raw\ca\bc
 mkdir ..\raw
 mkdir ..\raw\usa
 mkdir ..\raw\usa\ga
+mkdir ..\raw\usa\ak
 curl https://nswdac-np-covid-19-postcode-heatmap.azurewebsites.net/datafiles/population.json  >  ..\raw\au\nsw\au-nsw-population.json
 curl https://nswdac-np-covid-19-postcode-heatmap.azurewebsites.net/datafiles/data_tests.json  >>  ..\raw\au\nsw\au-nsw-tests.json
 curl https://nswdac-np-covid-19-postcode-heatmap.azurewebsites.net/datafiles/agedata.json  >>  ..\raw\au\nsw\au-nsw-agedata.json
@@ -27,6 +28,9 @@ curl https://santesaglac.gouv.qc.ca/medias/2020/05/%C3%89tat-situation-M%C3%89DI
 curl https://www.ciusss-capitalenationale.gouv.qc.ca/sites/default/files/00-CORONAVIRUS/Communique/2020-05-08_communique_bilan.pdf >> ..\raw\ca\qu\
 curl http://www.bccdc.ca/Health-Info-Site/Documents/BCCDC_COVID19_Dashboard_Case_Details.csv >> ..\raw\ca\bc\BCCDC_COVID19_Dashboard_Case_Details.csv
 
+rem curl https://services1.arcgis.com/WzFsmainVTuD5KML/arcgis/rest/services/Geographical_Distribution_of_Tests/FeatureServer/0/query?where=1%3D1&objectIds=&time=&resultType=none&outFields=*&returnIdsOnly=false&returnUniqueIdsOnly=false&returnCountOnly=false&returnDistinctValues=false&cacheHint=false&orderByFields=&groupByFieldsForStatistics=&outStatistics=&having=&resultOffset=&resultRecordCount=&sqlFormat=none&f=pjson&token=  >> ../raw/usa/ak/Geographical_Distribution_of_Tests.json
+rem curl https://services1.arcgis.com/WzFsmainVTuD5KML/arcgis/rest/services/Geographic_Distribution_of_Confirmed_Cases/FeatureServer/0/query?where=1%3D1&objectIds=&time=&resultType=none&outFields=*&returnIdsOnly=false&returnUniqueIdsOnly=false&returnCountOnly=false&returnDistinctValues=false&cacheHint=false&orderByFields=&groupByFieldsForStatistics=&outStatistics=&having=&resultOffset=&resultRecordCount=&sqlFormat=none&f=pjson&token >> ../raw/usa/ak/Geographic_Distribution_of_Confirmed_Cases.json
+rem curl https://services1.arcgis.com/WzFsmainVTuD5KML/arcgis/rest/services/Demographic_Distribution_of_Confirmed_Cases/FeatureServer/0/query?where=1%3D1&objectIds=&time=&resultType=none&outFields=*&returnIdsOnly=false&returnUniqueIdsOnly=false&returnCountOnly=false&returnDistinctValues=false&cacheHint=false&orderByFields=&groupByFieldsForStatistics=&outStatistics=&having=&resultOffset=&resultRecordCount=&sqlFormat=none&f=pjon&token= >> ../raw/usa/ak/Demographic_Distribution_of_Confirmed_Cases.json
 curl https://ga-covid19.ondemand.sas.com/docs/ga_covid_data.zip >> ..\raw\usa\ga\us_ga_covid.zip
 unzip ..\raw\usa\ga\us_ga_covid.zip -d ..\raw\usa\ga\
  
