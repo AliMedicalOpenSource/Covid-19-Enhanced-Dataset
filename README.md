@@ -109,11 +109,6 @@ DataSet{
           
           }
         
-     // Depricated
-     
-     isoState : string;  // use isoProvince
-      
-      stateISO : string,  // use isoProvince
         
      // Required Identifiers - these fields are being made available on all Datasets
           
@@ -121,11 +116,17 @@ DataSet{
           
      iso2 : string,      // country or parent ISO codes
           
-     iso2 : string ,    // country or parent ISO codes
+     iso3 : string ,    // country or parent ISO codes
           
      key : [string]  ,   //usefull identifiers from various apis and subsystmes
          
-     lastUpdated : date
+     lastUpdated : string  , //  Date Format M/D/YYYY or M-D-YYYY
+     
+     // Deprecated
+     
+     isoState : string;  // use isoProvince
+      
+     stateISO : string  // use isoProvince
   
   }
   
