@@ -1,1 +1,73 @@
-{"data":[{"notification_date":"22-Jan","Cases":1},{"notification_date":"23-Jan","Cases":0},{"notification_date":"24-Jan","Cases":1},{"notification_date":"25-Jan","Cases":2},{"notification_date":"26-Jan","Cases":0},{"notification_date":"27-Jan","Cases":0},{"notification_date":"28-Jan","Cases":0},{"notification_date":"29-Jan","Cases":0},{"notification_date":"30-Jan","Cases":1},{"notification_date":"31-Jan","Cases":0},{"notification_date":"01-Feb","Cases":0},{"notification_date":"02-Feb","Cases":0},{"notification_date":"03-Feb","Cases":0},{"notification_date":"04-Feb","Cases":0},{"notification_date":"05-Feb","Cases":0},{"notification_date":"06-Feb","Cases":0},{"notification_date":"07-Feb","Cases":0},{"notification_date":"08-Feb","Cases":0},{"notification_date":"09-Feb","Cases":0},{"notification_date":"10-Feb","Cases":0},{"notification_date":"11-Feb","Cases":0},{"notification_date":"12-Feb","Cases":0},{"notification_date":"13-Feb","Cases":0},{"notification_date":"14-Feb","Cases":0},{"notification_date":"15-Feb","Cases":0},{"notification_date":"16-Feb","Cases":0},{"notification_date":"17-Feb","Cases":0},{"notification_date":"18-Feb","Cases":0},{"notification_date":"19-Feb","Cases":0},{"notification_date":"20-Feb","Cases":0},{"notification_date":"21-Feb","Cases":1},{"notification_date":"22-Feb","Cases":0},{"notification_date":"23-Feb","Cases":0},{"notification_date":"24-Feb","Cases":0},{"notification_date":"25-Feb","Cases":0},{"notification_date":"26-Feb","Cases":1},{"notification_date":"27-Feb","Cases":1},{"notification_date":"28-Feb","Cases":1},{"notification_date":"29-Feb","Cases":1},{"notification_date":"01-Mar","Cases":3},{"notification_date":"02-Mar","Cases":2},{"notification_date":"03-Mar","Cases":7},{"notification_date":"04-Mar","Cases":8},{"notification_date":"05-Mar","Cases":9},{"notification_date":"06-Mar","Cases":8},{"notification_date":"07-Mar","Cases":8},{"notification_date":"08-Mar","Cases":9},{"notification_date":"09-Mar","Cases":8},{"notification_date":"10-Mar","Cases":6},{"notification_date":"11-Mar","Cases":20},{"notification_date":"12-Mar","Cases":23},{"notification_date":"13-Mar","Cases":31},{"notification_date":"14-Mar","Cases":25},{"notification_date":"15-Mar","Cases":35},{"notification_date":"16-Mar","Cases":50},{"notification_date":"17-Mar","Cases":54},{"notification_date":"18-Mar","Cases":64},{"notification_date":"19-Mar","Cases":75},{"notification_date":"20-Mar","Cases":131},{"notification_date":"21-Mar","Cases":103},{"notification_date":"22-Mar","Cases":181},{"notification_date":"23-Mar","Cases":185},{"notification_date":"24-Mar","Cases":196},{"notification_date":"25-Mar","Cases":185},{"notification_date":"26-Mar","Cases":199},{"notification_date":"27-Mar","Cases":188},{"notification_date":"28-Mar","Cases":122},{"notification_date":"29-Mar","Cases":118},{"notification_date":"30-Mar","Cases":78},{"notification_date":"31-Mar","Cases":123},{"notification_date":"01-Apr","Cases":115},{"notification_date":"02-Apr","Cases":92},{"notification_date":"03-Apr","Cases":80},{"notification_date":"04-Apr","Cases":77},{"notification_date":"05-Apr","Cases":56},{"notification_date":"06-Apr","Cases":35},{"notification_date":"07-Apr","Cases":30},{"notification_date":"08-Apr","Cases":55},{"notification_date":"09-Apr","Cases":31},{"notification_date":"10-Apr","Cases":16},{"notification_date":"11-Apr","Cases":11},{"notification_date":"12-Apr","Cases":8},{"notification_date":"13-Apr","Cases":5},{"notification_date":"14-Apr","Cases":63},{"notification_date":"15-Apr","Cases":6},{"notification_date":"16-Apr","Cases":8},{"notification_date":"17-Apr","Cases":14},{"notification_date":"18-Apr","Cases":12},{"notification_date":"19-Apr","Cases":8},{"notification_date":"20-Apr","Cases":0},{"notification_date":"21-Apr","Cases":6},{"notification_date":"22-Apr","Cases":5},{"notification_date":"23-Apr","Cases":2},{"notification_date":"24-Apr","Cases":9},{"notification_date":"25-Apr","Cases":3},{"notification_date":"26-Apr","Cases":3},{"notification_date":"27-Apr","Cases":6},{"notification_date":"28-Apr","Cases":2},{"notification_date":"29-Apr","Cases":2},{"notification_date":"30-Apr","Cases":4},{"notification_date":"01-May","Cases":8},{"notification_date":"02-May","Cases":1},{"notification_date":"03-May","Cases":1},{"notification_date":"04-May","Cases":6},{"notification_date":"05-May","Cases":4},{"notification_date":"06-May","Cases":3},{"notification_date":"07-May","Cases":3},{"notification_date":"08-May","Cases":3},{"notification_date":"09-May","Cases":2},{"notification_date":"10-May","Cases":0},{"notification_date":"11-May","Cases":0},{"notification_date":"12-May","Cases":5},{"notification_date":"13-May","Cases":6},{"notification_date":"14-May","Cases":1}]}
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>Web App - Unavailable</title>
+    <style type="text/css">
+        html {
+            height: 100%;
+            width: 100%;
+        }
+
+        #feature {
+            width: 960px;
+            margin: 95px auto 0 auto;
+            overflow: auto;
+        }
+
+        #content {
+            font-family: "Segoe UI";
+            font-weight: normal;
+            font-size: 22px;
+            color: #ffffff;
+            float: left;
+            width: 460px;
+            margin-top: 68px;
+            margin-left: 0px;
+            vertical-align: middle;
+        }
+
+            #content h1 {
+                font-family: "Segoe UI Light";
+                color: #ffffff;
+                font-weight: normal;
+                font-size: 60px;
+                line-height: 48pt;
+                width: 800px;
+            }
+
+        p a, p a:visited, p a:active, p a:hover {
+            color: #ffffff;
+        }
+
+        #content a.button {
+            background: #0DBCF2;
+            border: 1px solid #FFFFFF;
+            color: #FFFFFF;
+            display: inline-block;
+            font-family: Segoe UI;
+            font-size: 24px;
+            line-height: 46px;
+            margin-top: 10px;
+            padding: 0 15px 3px;
+            text-decoration: none;
+        }
+
+            #content a.button img {
+                float: right;
+                padding: 10px 0 0 15px;
+            }
+
+            #content a.button:hover {
+                background: #1C75BC;
+            }
+    </style>
+</head>
+<body bgcolor="#00abec">
+    <div id="feature">
+        <div id="content">
+            <h1 id="unavailable">Error 403 - Forbidden</h1>
+            <p id="tryAgain">The web app you have attempted to reach has blocked your access.</p>
+        </div>
+    </div>
+</body>
+</html>
