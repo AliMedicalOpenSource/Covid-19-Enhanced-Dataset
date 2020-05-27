@@ -14,19 +14,19 @@ mkdir ..\raw\usa
 mkdir ..\raw\usa\ga
 mkdir ..\raw\usa\ak
 del ..\raw\au\nsw\au-nsw-population.json
-curl https://nswdac-np-covid-19-postcode-heatmap.azurewebsites.net/datafiles/population.json  >>  ..\raw\au\nsw\au-nsw-population.json
+curl https://nswdac-covid-19-postcode-heatmap.azurewebsites.net/datafiles/population.json  >>  ..\raw\au\nsw\au-nsw-population.json
 del ..\raw\au\nsw\au-nsw-tests.json
-curl https://nswdac-np-covid-19-postcode-heatmap.azurewebsites.net/datafiles/data_tests.json  >>  ..\raw\au\nsw\au-nsw-tests.json
-del >  ..\raw\au\nsw\au-nsw-agedata.json
-curl https://nswdac-np-covid-19-postcode-heatmap.azurewebsites.net/datafiles/agedata.json  >>  ..\raw\au\nsw\au-nsw-agedata.json
+curl https://nswdac-covid-19-postcode-heatmap.azurewebsites.net/datafiles/data_tests.json  >>  ..\raw\au\nsw\au-nsw-tests.json
+del   ..\raw\au\nsw\au-nsw-agedata.json
+curl https://nswdac-covid-19-postcode-heatmap.azurewebsites.net/datafiles/agedata.json  >>  ..\raw\au\nsw\au-nsw-agedata.json
 del ..\raw\au\nsw\au-nsw-case2.json
-curl https://nswdac-np-covid-19-postcode-heatmap.azurewebsites.net/datafiles/usecase2.json >>  ..\raw\au\nsw\au-nsw-case2.json
+curl https://nswdac-covid-19-postcode-heatmap.azurewebsites.net/datafiles/usecase2.json >>  ..\raw\au\nsw\au-nsw-case2.json
 del ..\raw\au\nsw\au-nsw-case.json
-curl https://nswdac-np-covid-19-postcode-heatmap.azurewebsites.net/datafiles/data_cases.json >>  ..\raw\au\nsw\au-nsw-case.json
+curl https://nswdac-covid-19-postcode-heatmap.azurewebsites.net/datafiles/data_cases.json >>  ..\raw\au\nsw\au-nsw-case.json
 del  ..\raw\au\nsw\covid-19-cases-by-notification-date-location-and-likely-source-of-infection.csv
 curl https://data.nsw.gov.au/data/dataset/97ea2424-abaf-4f3e-a9f2-b5c883f42b6a/resource/2776dbb8-f807-4fb2-b1ed-184a6fc2c8aa/download/covid-19-cases-by-notification-date-location-and-likely-source-of-infection.csv >> ..\raw\au\nsw\covid-19-cases-by-notification-date-location-and-likely-source-of-infection.csv
 del  ..\raw\au\nsw\au-nsw-fatalities.json
-curl https://nswdac-np-covid-19-postcode-heatmap.azurewebsites.net/datafiles/fatalitiesdata.json  >>  ..\raw\au\nsw\au-nsw-fatalities.json
+curl https://nswdac-covid-19-postcode-heatmap.azurewebsites.net/datafiles/fatalitiesdata.json  >>  ..\raw\au\nsw\au-nsw-fatalities.json
 del  ..\raw\ca\on\covidtesting.csv
 curl https://data.ontario.ca/dataset/f4f86e54-872d-43f8-8a86-3892fd3cb5e6/resource/ed270bb8-340b-41f9-a7c6-e8ef587e6d11/download/covidtesting.csv >> ..\raw\ca\on\covidtesting.csv
 del  ..\raw\ca\ns\ca_ns_covid.csv
@@ -49,6 +49,6 @@ unzip ..\raw\usa\ga\us_ga_covid.zip -d ..\raw\usa\ga\
 
 
  
-    git add  ..\.
-    git commit -m "Auto Update"
-    git push -u origin master
+  //  git add  ..\.
+   // git commit -m "Auto Update"
+  //  git push -u origin master
