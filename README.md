@@ -9,7 +9,8 @@ Data is continued to be checked and verified on a regular basis. Please report a
 
   ### Updates
   
- We are taking time until 2020-05-25 to perform major enhancements to the data set. Some inconsistencies may occur during this phase
+2020-05-27  :  Ausraila data sets have changed , we are updating our data to refelect the changes   
+2020-05-25  :  We are taking time to perform major enhancements to the data set. Some inconsistencies may occur for a few days during this phase
   
  The DatSets are being made to fit the following standard format
  
