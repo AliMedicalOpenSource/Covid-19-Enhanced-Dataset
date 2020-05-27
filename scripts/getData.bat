@@ -49,6 +49,6 @@ unzip ..\raw\usa\ga\us_ga_covid.zip -d ..\raw\usa\ga\
 
 
  
-  //  git add  ..\.
-   // git commit -m "Auto Update"
-  //  git push -u origin master
+ git add  ..\.
+   git commit -m "Auto Update"
+   git push -u origin master
